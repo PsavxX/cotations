@@ -128,8 +128,11 @@ def main():
     sortie["par_horizon"] = {}
     for h in HORIZONS:
         d = df.dropna(subset=[f"r{h}"])
-        c1 = float(d["score"].corr(d[f"r{h}"], method="spearman"))
-        c2 = float(d["score"].corr(d[f"rel{h}"], method="spearman"))
+        # Correlation de rang calculee a la main (rangs puis Pearson) : pandas a besoin de
+        # scipy pour method="spearman", et scipy n'est pas installe sur GitHub.
+        rangs = d["score"].rank()
+        c1 = float(rangs.corr(d[f"r{h}"].rank()))
+        c2 = float(rangs.corr(d[f"rel{h}"].rank()))
         derive = float(d[f"r{h}"].mean())
         sortie["par_horizon"][h] = {"n": int(len(d)), "corr": round(c1, 4), "corr_relatif": round(c2, 4),
                                     "derive": round(derive, 3)}
