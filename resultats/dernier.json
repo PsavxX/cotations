@@ -1,6 +1,6 @@
 {
- "date": "2026-11-11",
- "genere_le": "2026-11-13T01:41:51+00:00",
+ "date": "2026-11-13",
+ "genere_le": "2026-11-13T23:28:20+00:00",
  "horizon": "5 a 10 seances",
  "valeurs_analysees": 788,
  "regles": {
@@ -17,71 +17,43 @@
   "Aucun contexte d'actualite valide (algo/macro.json absent ou perime) : classement purement technique."
  ],
  "distribution_surete": {
-  "10": 6,
-  "9": 54,
-  "8": 102,
-  "7": 123,
-  "6": 93,
-  "5": 85,
-  "4": 106,
-  "3": 136,
-  "2": 77,
-  "1": 6
+  "10": 3,
+  "9": 43,
+  "8": 98,
+  "7": 101,
+  "6": 90,
+  "5": 100,
+  "4": 117,
+  "3": 126,
+  "2": 102,
+  "1": 8
  },
  "hausse": [
   {
-   "ticker": "EW",
-   "nom": "Edwards Lifesciences",
-   "secteur": "Health Care",
+   "ticker": "AIZ",
+   "nom": "Assurant",
+   "secteur": "Financials",
    "place": "US",
-   "prix": 105.81,
+   "prix": 322.11,
    "sens": "HAUSSE",
    "surete": 10,
-   "score_final": 0.8591,
-   "score_tech": 0.8591,
+   "score_final": 0.7679,
+   "score_tech": 0.7679,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 6.48,
-   "var20": 22.39,
-   "rsi": 78.9,
-   "r2": 0.912,
-   "vol_j": 1.63,
+   "var5": 4.92,
+   "var20": 13.7,
+   "rsi": 77.5,
+   "r2": 0.915,
+   "vol_j": 1.47,
    "signaux": {
-    "tendance_mm": 0.97,
-    "croisement_mm": 0.989,
-    "momentum": 0.937,
-    "rsi": 0.478,
-    "macd": 0.954,
-    "volume": 0.434,
-    "position_40s": 0.85,
-    "pente": 0.995
-   }
-  },
-  {
-   "ticker": "SPG",
-   "nom": "Simon Property Group",
-   "secteur": "Real Estate",
-   "place": "US",
-   "prix": 234.75,
-   "sens": "HAUSSE",
-   "surete": 10,
-   "score_final": 0.7619,
-   "score_tech": 0.7619,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 2.74,
-   "var20": 18.14,
-   "rsi": 79.8,
-   "r2": 0.957,
-   "vol_j": 1.32,
-   "signaux": {
-    "tendance_mm": 0.859,
-    "croisement_mm": 0.934,
-    "momentum": 0.754,
-    "rsi": 0.55,
-    "macd": 0.693,
-    "volume": 0.328,
-    "position_40s": 0.85,
+    "tendance_mm": 0.831,
+    "croisement_mm": 0.971,
+    "momentum": 0.843,
+    "rsi": 0.744,
+    "macd": 0.643,
+    "volume": 0.084,
+    "position_40s": 0.815,
     "pente": 0.978
    }
   },
@@ -90,27 +62,27 @@
    "nom": "Amadeus IT Group, S.A.",
    "secteur": "Information Technology",
    "place": "Europe",
-   "prix": 62.3,
+   "prix": 62.2,
    "sens": "HAUSSE",
    "surete": 10,
-   "score_final": 0.7567,
-   "score_tech": 0.7567,
+   "score_final": 0.7426,
+   "score_tech": 0.7426,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 4.46,
-   "var20": 18.44,
-   "rsi": 74.9,
+   "var5": 4.29,
+   "var20": 15.83,
+   "rsi": 74.2,
    "r2": 0.911,
-   "vol_j": 1.67,
+   "vol_j": 1.66,
    "signaux": {
-    "tendance_mm": 0.889,
-    "croisement_mm": 0.409,
-    "momentum": 0.846,
-    "rsi": 0.905,
-    "macd": 0.813,
-    "volume": 0.152,
-    "position_40s": 0.85,
-    "pente": 0.954
+    "tendance_mm": 0.83,
+    "croisement_mm": 0.671,
+    "momentum": 0.812,
+    "rsi": 0.806,
+    "macd": 0.712,
+    "volume": 0.105,
+    "position_40s": 0.835,
+    "pente": 0.952
    }
   },
   {
@@ -118,81 +90,53 @@
    "nom": "Fresenius SE & Co. KGaA",
    "secteur": "Health Care",
    "place": "Europe",
-   "prix": 52.82,
+   "prix": 53.29,
    "sens": "HAUSSE",
    "surete": 10,
-   "score_final": 0.731,
-   "score_tech": 0.731,
+   "score_final": 0.712,
+   "score_tech": 0.712,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 2.8,
-   "var20": 21.26,
-   "rsi": 78.2,
-   "r2": 0.926,
+   "var5": 2.74,
+   "var20": 21.51,
+   "rsi": 79.4,
+   "r2": 0.928,
    "vol_j": 1.42,
    "signaux": {
-    "tendance_mm": 0.905,
-    "croisement_mm": 0.987,
-    "momentum": 0.778,
-    "rsi": 0.256,
-    "macd": 0.626,
-    "volume": 0.303,
-    "position_40s": 0.757,
-    "pente": 0.994
+    "tendance_mm": 0.892,
+    "croisement_mm": 0.99,
+    "momentum": 0.772,
+    "rsi": 0.268,
+    "macd": 0.511,
+    "volume": 0.237,
+    "position_40s": 0.824,
+    "pente": 0.995
    }
   },
   {
-   "ticker": "HOLN.SW",
-   "nom": "Holcim AG",
-   "secteur": "Materials",
-   "place": "Europe",
-   "prix": 75.2,
-   "sens": "HAUSSE",
-   "surete": 10,
-   "score_final": 0.7171,
-   "score_tech": 0.7171,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 2.54,
-   "var20": 16.99,
-   "rsi": 73.6,
-   "r2": 0.955,
-   "vol_j": 1.69,
-   "signaux": {
-    "tendance_mm": 0.849,
-    "croisement_mm": 0.986,
-    "momentum": 0.731,
-    "rsi": 0.667,
-    "macd": 0.535,
-    "volume": -0.088,
-    "position_40s": 0.826,
-    "pente": 0.991
-   }
-  },
-  {
-   "ticker": "GRF.MC",
-   "nom": "Grifols, S.A.",
+   "ticker": "ARGX.BR",
+   "nom": "argenx SE",
    "secteur": "Health Care",
    "place": "Europe",
-   "prix": 11.48,
+   "prix": 886.6,
    "sens": "HAUSSE",
-   "surete": 10,
-   "score_final": 0.6832,
-   "score_tech": 0.6832,
+   "surete": 9,
+   "score_final": 0.8348,
+   "score_tech": 0.8348,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 2.27,
-   "var20": 17.02,
-   "rsi": 78.6,
-   "r2": 0.927,
-   "vol_j": 1.5,
+   "var5": 8.71,
+   "var20": 16.87,
+   "rsi": 69.9,
+   "r2": 0.824,
+   "vol_j": 2.33,
    "signaux": {
-    "tendance_mm": 0.78,
-    "croisement_mm": 0.883,
-    "momentum": 0.669,
-    "rsi": 0.417,
-    "macd": 0.442,
-    "volume": 0.4,
+    "tendance_mm": 0.934,
+    "croisement_mm": 0.84,
+    "momentum": 0.931,
+    "rsi": 0.833,
+    "macd": 0.998,
+    "volume": -0.061,
     "position_40s": 0.85,
     "pente": 0.976
    }
@@ -202,197 +146,253 @@
    "nom": "Accor SA",
    "secteur": "Consumer Discretionary",
    "place": "Paris",
-   "prix": 52.4,
+   "prix": 52.04,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.8792,
-   "score_tech": 0.8792,
+   "score_final": 0.8273,
+   "score_tech": 0.8273,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 6.14,
-   "var20": 15.29,
-   "rsi": 75.4,
-   "r2": 0.665,
-   "vol_j": 1.89,
+   "var5": 5.17,
+   "var20": 12.84,
+   "rsi": 72.5,
+   "r2": 0.729,
+   "vol_j": 1.91,
    "signaux": {
-    "tendance_mm": 0.944,
-    "croisement_mm": 0.952,
-    "momentum": 0.909,
-    "rsi": 0.933,
+    "tendance_mm": 0.89,
+    "croisement_mm": 0.966,
+    "momentum": 0.853,
+    "rsi": 0.752,
+    "macd": 0.964,
+    "volume": 0.143,
+    "position_40s": 0.772,
+    "pente": 0.97
+   }
+  },
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "place": "Europe",
+   "prix": 86.32,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.8034,
+   "score_tech": 0.8034,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.81,
+   "var20": 10.89,
+   "rsi": 72.9,
+   "r2": 0.787,
+   "vol_j": 1.39,
+   "signaux": {
+    "tendance_mm": 0.799,
+    "croisement_mm": 0.932,
+    "momentum": 0.712,
+    "rsi": 0.676,
+    "macd": 0.915,
+    "volume": 0.664,
+    "position_40s": 0.713,
+    "pente": 0.929
+   }
+  },
+  {
+   "ticker": "RXL.PA",
+   "nom": "Rexel S.A.",
+   "secteur": "Information Technology",
+   "place": "Paris",
+   "prix": 36.96,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.7979,
+   "score_tech": 0.7979,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 7.47,
+   "var20": 13.24,
+   "rsi": 63.4,
+   "r2": 0.755,
+   "vol_j": 2.09,
+   "signaux": {
+    "tendance_mm": 0.848,
+    "croisement_mm": 0.911,
+    "momentum": 0.821,
+    "rsi": 0.642,
     "macd": 0.993,
-    "volume": 0.245,
-    "position_40s": 0.842,
-    "pente": 0.954
+    "volume": 0.204,
+    "position_40s": 0.729,
+    "pente": 0.937
    }
   },
   {
-   "ticker": "TKO",
-   "nom": "TKO Group Holdings",
-   "secteur": "Communication Services",
+   "ticker": "VTRS",
+   "nom": "Viatris",
+   "secteur": "Health Care",
    "place": "US",
-   "prix": 199.5,
+   "prix": 20.82,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.8517,
-   "score_tech": 0.8517,
+   "score_final": 0.7848,
+   "score_tech": 0.7848,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 3.11,
-   "var20": 15.73,
-   "rsi": 69.4,
-   "r2": 0.726,
-   "vol_j": 1.89,
+   "var5": 4.57,
+   "var20": 11.58,
+   "rsi": 70.1,
+   "r2": 0.803,
+   "vol_j": 2.0,
    "signaux": {
-    "tendance_mm": 0.892,
-    "croisement_mm": 0.97,
-    "momentum": 0.787,
-    "rsi": 0.765,
-    "macd": 0.951,
-    "volume": 0.503,
-    "position_40s": 0.841,
-    "pente": 0.969
+    "tendance_mm": 0.888,
+    "croisement_mm": 0.943,
+    "momentum": 0.81,
+    "rsi": 0.498,
+    "macd": 0.919,
+    "volume": 0.195,
+    "position_40s": 0.747,
+    "pente": 0.971
    }
   },
   {
-   "ticker": "DD",
-   "nom": "DuPont",
+   "ticker": "COST",
+   "nom": "Costco",
+   "secteur": "Consumer Staples",
+   "place": "US",
+   "prix": 1106.21,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.7788,
+   "score_tech": 0.7788,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 5.0,
+   "var20": 12.0,
+   "rsi": 76.1,
+   "r2": 0.82,
+   "vol_j": 1.43,
+   "signaux": {
+    "tendance_mm": 0.862,
+    "croisement_mm": 0.928,
+    "momentum": 0.828,
+    "rsi": 0.915,
+    "macd": 0.797,
+    "volume": -0.178,
+    "position_40s": 0.85,
+    "pente": 0.92
+   }
+  },
+  {
+   "ticker": "GWW",
+   "nom": "W. W. Grainger",
    "secteur": "Industrials",
    "place": "US",
-   "prix": 155.61,
+   "prix": 1489.3,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.8313,
-   "score_tech": 0.8313,
+   "score_final": 0.7477,
+   "score_tech": 0.7477,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 3.24,
-   "var20": 21.12,
-   "rsi": 70.5,
-   "r2": 0.896,
-   "vol_j": 2.64,
+   "var5": 3.55,
+   "var20": 12.11,
+   "rsi": 70.1,
+   "r2": 0.858,
+   "vol_j": 1.86,
    "signaux": {
-    "tendance_mm": 0.923,
-    "croisement_mm": 0.982,
-    "momentum": 0.799,
-    "rsi": 0.797,
-    "macd": 0.867,
-    "volume": 0.289,
-    "position_40s": 0.774,
-    "pente": 0.992
-   }
-  },
-  {
-   "ticker": "HEI.DE",
-   "nom": "Heidelberg Materials AG",
-   "secteur": "Materials",
-   "place": "Europe",
-   "prix": 181.0,
-   "sens": "HAUSSE",
-   "surete": 9,
-   "score_final": 0.8198,
-   "score_tech": 0.8198,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 5.54,
-   "var20": 28.01,
-   "rsi": 78.9,
-   "r2": 0.846,
-   "vol_j": 2.5,
-   "signaux": {
-    "tendance_mm": 0.986,
-    "croisement_mm": 0.998,
-    "momentum": 0.924,
-    "rsi": 0.348,
-    "macd": 0.928,
-    "volume": 0.2,
-    "position_40s": 0.804,
-    "pente": 0.999
+    "tendance_mm": 0.744,
+    "croisement_mm": 0.96,
+    "momentum": 0.768,
+    "rsi": 0.64,
+    "macd": 0.649,
+    "volume": 0.37,
+    "position_40s": 0.764,
+    "pente": 0.96
    }
   }
  ],
  "baisse": [
   {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "place": "US",
+   "prix": 81.16,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.7641,
+   "score_tech": -0.7641,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -1.77,
+   "var20": -10.5,
+   "rsi": 35.0,
+   "r2": 0.685,
+   "vol_j": 2.16,
+   "signaux": {
+    "tendance_mm": -0.868,
+    "croisement_mm": -0.958,
+    "momentum": -0.649,
+    "rsi": -0.563,
+    "macd": -0.94,
+    "volume": -0.16,
+    "position_40s": -0.757,
+    "pente": -0.973
+   }
+  },
+  {
    "ticker": "MAERSK-B.CO",
    "nom": "A.P. Møller - Mærsk A/S",
    "secteur": "Industrials",
    "place": "Europe",
-   "prix": 19895.0,
+   "prix": 20110.0,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.894,
-   "score_tech": -0.894,
+   "score_final": -0.7566,
+   "score_tech": -0.7566,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -10.38,
-   "var20": -18.26,
-   "rsi": 28.7,
-   "r2": 0.783,
-   "vol_j": 2.17,
+   "var5": -3.64,
+   "var20": -16.17,
+   "rsi": 31.3,
+   "r2": 0.816,
+   "vol_j": 2.22,
    "signaux": {
-    "tendance_mm": -0.965,
-    "croisement_mm": -0.986,
-    "momentum": -0.97,
-    "rsi": -0.59,
-    "macd": -0.999,
-    "volume": -0.707,
-    "position_40s": -0.686,
-    "pente": -0.996
+    "tendance_mm": -0.919,
+    "croisement_mm": -0.992,
+    "momentum": -0.817,
+    "rsi": -0.357,
+    "macd": -0.678,
+    "volume": -0.387,
+    "position_40s": -0.62,
+    "pente": -0.997
    }
   },
   {
-   "ticker": "NESTE.HE",
-   "nom": "Neste Oyj",
-   "secteur": "Energy",
-   "place": "Europe",
-   "prix": 27.36,
-   "sens": "BAISSE",
-   "surete": 9,
-   "score_final": -0.6566,
-   "score_tech": -0.6566,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -2.84,
-   "var20": -15.16,
-   "rsi": 33.6,
-   "r2": 0.904,
-   "vol_j": 2.13,
-   "signaux": {
-    "tendance_mm": -0.684,
-    "croisement_mm": -0.986,
-    "momentum": -0.691,
-    "rsi": -0.401,
-    "macd": -0.452,
-    "volume": -0.106,
-    "position_40s": -0.786,
-    "pente": -0.993
-   }
-  },
-  {
-   "ticker": "ADM",
-   "nom": "Archer Daniels Midland",
-   "secteur": "Consumer Staples",
+   "ticker": "NVDA",
+   "nom": "Nvidia",
+   "secteur": "Information Technology",
    "place": "US",
-   "prix": 70.92,
+   "prix": 162.85,
    "sens": "BAISSE",
-   "surete": 9,
-   "score_final": -0.5731,
-   "score_tech": -0.5731,
+   "surete": 8,
+   "score_final": -0.947,
+   "score_tech": -0.947,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 0.11,
-   "var20": -15.21,
-   "rsi": 30.9,
-   "r2": 0.915,
-   "vol_j": 1.77,
+   "var5": -12.75,
+   "var20": -23.95,
+   "rsi": 24.9,
+   "r2": 0.851,
+   "vol_j": 3.32,
    "signaux": {
-    "tendance_mm": -0.67,
-    "croisement_mm": -0.988,
-    "momentum": -0.459,
-    "rsi": -0.342,
-    "macd": -0.491,
-    "volume": 0.305,
-    "position_40s": -0.703,
-    "pente": -0.993
+    "tendance_mm": -0.996,
+    "croisement_mm": -0.999,
+    "momentum": -0.99,
+    "rsi": -0.787,
+    "macd": -0.979,
+    "volume": -0.847,
+    "position_40s": -0.85,
+    "pente": -1.0
    }
   },
   {
@@ -400,111 +400,27 @@
    "nom": "Aptiv",
    "secteur": "Consumer Discretionary",
    "place": "US",
-   "prix": 39.41,
+   "prix": 38.75,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.8139,
-   "score_tech": -0.8139,
+   "score_final": -0.7417,
+   "score_tech": -0.7417,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -8.9,
-   "var20": -10.08,
-   "rsi": 34.8,
-   "r2": 0.731,
-   "vol_j": 2.67,
+   "var5": -1.75,
+   "var20": -13.62,
+   "rsi": 32.8,
+   "r2": 0.784,
+   "vol_j": 2.54,
    "signaux": {
-    "tendance_mm": -0.893,
-    "croisement_mm": -0.915,
-    "momentum": -0.898,
-    "rsi": -0.522,
-    "macd": -0.995,
-    "volume": -0.16,
+    "tendance_mm": -0.88,
+    "croisement_mm": -0.968,
+    "momentum": -0.664,
+    "rsi": -0.591,
+    "macd": -0.757,
+    "volume": -0.023,
     "position_40s": -0.85,
-    "pente": -0.958
-   }
-  },
-  {
-   "ticker": "IFF",
-   "nom": "International Flavors & Fragrances",
-   "secteur": "Materials",
-   "place": "US",
-   "prix": 82.65,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.7916,
-   "score_tech": -0.7916,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -5.73,
-   "var20": -7.76,
-   "rsi": 36.3,
-   "r2": 0.457,
-   "vol_j": 2.1,
-   "signaux": {
-    "tendance_mm": -0.853,
-    "croisement_mm": -0.86,
-    "momentum": -0.807,
-    "rsi": -0.537,
-    "macd": -1.0,
-    "volume": -0.341,
-    "position_40s": -0.818,
-    "pente": -0.891
-   }
-  },
-  {
-   "ticker": "EQNR.OL",
-   "nom": "Equinor ASA",
-   "secteur": "Energy",
-   "place": "Europe",
-   "prix": 395.2,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.723,
-   "score_tech": -0.723,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -2.8,
-   "var20": -8.52,
-   "rsi": 40.4,
-   "r2": 0.534,
-   "vol_j": 2.38,
-   "signaux": {
-    "tendance_mm": -0.77,
-    "croisement_mm": -0.935,
-    "momentum": -0.701,
-    "rsi": -0.275,
-    "macd": -0.996,
-    "volume": -0.289,
-    "position_40s": -0.541,
-    "pente": -0.946
-   }
-  },
-  {
-   "ticker": "ZBRA",
-   "nom": "Zebra Technologies",
-   "secteur": "Information Technology",
-   "place": "US",
-   "prix": 327.44,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.689,
-   "score_tech": -0.689,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -1.5,
-   "var20": -13.12,
-   "rsi": 33.4,
-   "r2": 0.721,
-   "vol_j": 2.62,
-   "signaux": {
-    "tendance_mm": -0.828,
-    "croisement_mm": -0.995,
-    "momentum": -0.651,
-    "rsi": -0.265,
-    "macd": -0.501,
-    "volume": -0.445,
-    "position_40s": -0.702,
-    "pente": -0.995
+    "pente": -0.977
    }
   },
   {
@@ -512,55 +428,55 @@
    "nom": "Cummins",
    "secteur": "Industrials",
    "place": "US",
-   "prix": 463.26,
+   "prix": 452.18,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.683,
-   "score_tech": -0.683,
+   "score_final": -0.6285,
+   "score_tech": -0.6285,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -1.82,
-   "var20": -11.92,
-   "rsi": 34.9,
-   "r2": 0.782,
-   "vol_j": 2.59,
+   "var5": 0.47,
+   "var20": -14.9,
+   "rsi": 32.0,
+   "r2": 0.829,
+   "vol_j": 2.56,
    "signaux": {
-    "tendance_mm": -0.8,
-    "croisement_mm": -0.987,
-    "momentum": -0.664,
-    "rsi": -0.163,
-    "macd": -0.526,
-    "volume": -0.609,
-    "position_40s": -0.583,
-    "pente": -0.991
+    "tendance_mm": -0.823,
+    "croisement_mm": -0.993,
+    "momentum": -0.441,
+    "rsi": -0.544,
+    "macd": -0.488,
+    "volume": 0.237,
+    "position_40s": -0.785,
+    "pente": -0.994
    }
   },
   {
-   "ticker": "SHEL.L",
-   "nom": "Shell plc",
-   "secteur": "Energy",
-   "place": "Europe",
-   "prix": 3670.1094,
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "place": "US",
+   "prix": 324.0,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.6597,
-   "score_tech": -0.6597,
+   "score_final": -0.5668,
+   "score_tech": -0.5668,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -3.29,
-   "var20": -6.16,
-   "rsi": 39.9,
-   "r2": 0.479,
-   "vol_j": 1.53,
+   "var5": 0.61,
+   "var20": -12.2,
+   "rsi": 34.6,
+   "r2": 0.833,
+   "vol_j": 2.71,
    "signaux": {
-    "tendance_mm": -0.697,
-    "croisement_mm": -0.75,
-    "momentum": -0.658,
-    "rsi": -0.456,
-    "macd": -0.994,
-    "volume": -0.29,
-    "position_40s": -0.287,
-    "pente": -0.778
+    "tendance_mm": -0.67,
+    "croisement_mm": -0.998,
+    "momentum": -0.419,
+    "rsi": -0.296,
+    "macd": -0.499,
+    "volume": 0.279,
+    "position_40s": -0.707,
+    "pente": -0.998
    }
   },
   {
@@ -568,27 +484,111 @@
    "nom": "Salesforce",
    "secteur": "Information Technology",
    "place": "US",
-   "prix": 218.01,
+   "prix": 217.84,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.6517,
-   "score_tech": -0.6517,
+   "score_final": -0.5228,
+   "score_tech": -0.5228,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -4.01,
-   "var20": -7.6,
+   "var5": 1.96,
+   "var20": -9.5,
    "rsi": 39.5,
-   "r2": 0.81,
-   "vol_j": 2.32,
+   "r2": 0.836,
+   "vol_j": 1.97,
    "signaux": {
-    "tendance_mm": -0.635,
-    "croisement_mm": -0.984,
-    "momentum": -0.753,
-    "rsi": -0.286,
-    "macd": -0.768,
-    "volume": 0.232,
-    "position_40s": -0.641,
-    "pente": -0.98
+    "tendance_mm": -0.487,
+    "croisement_mm": -0.983,
+    "momentum": -0.176,
+    "rsi": -0.161,
+    "macd": -0.482,
+    "volume": -0.328,
+    "position_40s": -0.649,
+    "pente": -0.983
+   }
+  },
+  {
+   "ticker": "TJX",
+   "nom": "TJX Companies",
+   "secteur": "Consumer Discretionary",
+   "place": "US",
+   "prix": 134.37,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.5192,
+   "score_tech": -0.5192,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -0.34,
+   "var20": -8.8,
+   "rsi": 42.0,
+   "r2": 0.797,
+   "vol_j": 2.05,
+   "signaux": {
+    "tendance_mm": -0.582,
+    "croisement_mm": -0.702,
+    "momentum": -0.362,
+    "rsi": -0.37,
+    "macd": -0.677,
+    "volume": 0.08,
+    "position_40s": -0.427,
+    "pente": -0.862
+   }
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "place": "Europe",
+   "prix": 27.63,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.4965,
+   "score_tech": -0.4965,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 0.22,
+   "var20": -13.87,
+   "rsi": 36.0,
+   "r2": 0.875,
+   "vol_j": 2.17,
+   "signaux": {
+    "tendance_mm": -0.492,
+    "croisement_mm": -0.914,
+    "momentum": -0.278,
+    "rsi": -0.246,
+    "macd": -0.334,
+    "volume": 0.036,
+    "position_40s": -0.734,
+    "pente": -0.991
+   }
+  },
+  {
+   "ticker": "FCX",
+   "nom": "Freeport-McMoRan",
+   "secteur": "Materials",
+   "place": "US",
+   "prix": 59.24,
+   "sens": "BAISSE",
+   "surete": 7,
+   "score_final": -0.5218,
+   "score_tech": -0.5218,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -0.3,
+   "var20": -14.81,
+   "rsi": 36.9,
+   "r2": 0.768,
+   "vol_j": 3.15,
+   "signaux": {
+    "tendance_mm": -0.788,
+    "croisement_mm": -0.429,
+    "momentum": -0.431,
+    "rsi": -0.493,
+    "macd": -0.284,
+    "volume": 0.089,
+    "position_40s": -0.71,
+    "pente": -0.975
    }
   }
  ],
@@ -654,10 +654,6 @@
    "motif": "aucune donnee ou historique trop court"
   },
   {
-   "ticker": "VTRS",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
    "ticker": "STE",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
@@ -670,15 +666,7 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "ARGX.BR",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
    "ticker": "BDX",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "LLY",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -686,11 +674,7 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "DGX",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "ALGN",
+   "ticker": "MCK",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -698,7 +682,7 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "LH",
+   "ticker": "LLY",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -710,23 +694,11 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "AZN.L",
+   "ticker": "DGX",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "MDT",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "INCY",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "LONN.SW",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "REGN",
+   "ticker": "LH",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -734,31 +706,7 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "MCK",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "HCA",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "GILD",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "COO",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "VRTX",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "AMGN",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "ERF.PA",
+   "ticker": "EW",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -766,7 +714,19 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "ZBH",
+   "ticker": "GRF.MC",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "COR",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "REGN",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ALGN",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -774,31 +734,19 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "TMO",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "MTD",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
    "ticker": "NOVO-B.CO",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "WST",
+   "ticker": "MDT",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "ABT",
+   "ticker": "AZN.L",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "MRK.DE",
-   "motif": "plafond de 3 valeurs « Health Care » atteint"
-  },
-  {
-   "ticker": "SRT3.DE",
+   "ticker": "LONN.SW",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
@@ -806,64 +754,44 @@
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "ABBV",
+   "ticker": "HCA",
    "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "BP.L",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "INCY",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "OXY",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "COO",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "AKRBP.OL",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "ERF.PA",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "TPL",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "MTD",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "FANG",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "AMGN",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
   },
   {
-   "ticker": "XOM",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "CSCO",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
-   "ticker": "VLO",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "PLTR",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
-   "ticker": "PSX",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "CTSH",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
-   "ticker": "BKR",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
-  },
-  {
-   "ticker": "CVX",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
-  },
-  {
-   "ticker": "DVN",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
-  },
-  {
-   "ticker": "MPC",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
-  },
-  {
-   "ticker": "ENI.MI",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
-  },
-  {
-   "ticker": "KMI",
-   "motif": "plafond de 3 valeurs « Energy » atteint"
+   "ticker": "ADBE",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
   }
  ]
 }

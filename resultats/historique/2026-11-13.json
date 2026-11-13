@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-13",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "AIZ",
+   "nom": "Assurant",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 322.11,
+   "score_final": 0.7679
+  },
+  {
+   "ticker": "AMS.MC",
+   "nom": "Amadeus IT Group, S.A.",
+   "secteur": "Information Technology",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 62.2,
+   "score_final": 0.7426
+  },
+  {
+   "ticker": "FRE.DE",
+   "nom": "Fresenius SE & Co. KGaA",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 53.29,
+   "score_final": 0.712
+  },
+  {
+   "ticker": "ARGX.BR",
+   "nom": "argenx SE",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 886.6,
+   "score_final": 0.8348
+  },
+  {
+   "ticker": "AC.PA",
+   "nom": "Accor SA",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 52.04,
+   "score_final": 0.8273
+  },
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 86.32,
+   "score_final": 0.8034
+  },
+  {
+   "ticker": "RXL.PA",
+   "nom": "Rexel S.A.",
+   "secteur": "Information Technology",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 36.96,
+   "score_final": 0.7979
+  },
+  {
+   "ticker": "VTRS",
+   "nom": "Viatris",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 20.82,
+   "score_final": 0.7848
+  },
+  {
+   "ticker": "COST",
+   "nom": "Costco",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 1106.21,
+   "score_final": 0.7788
+  },
+  {
+   "ticker": "GWW",
+   "nom": "W. W. Grainger",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 1489.3,
+   "score_final": 0.7477
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 81.16,
+   "score_final": -0.7641
+  },
+  {
+   "ticker": "MAERSK-B.CO",
+   "nom": "A.P. Møller - Mærsk A/S",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 20110.0,
+   "score_final": -0.7566
+  },
+  {
+   "ticker": "NVDA",
+   "nom": "Nvidia",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 162.85,
+   "score_final": -0.947
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 38.75,
+   "score_final": -0.7417
+  },
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 452.18,
+   "score_final": -0.6285
+  },
+  {
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 324.0,
+   "score_final": -0.5668
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 217.84,
+   "score_final": -0.5228
+  },
+  {
+   "ticker": "TJX",
+   "nom": "TJX Companies",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 134.37,
+   "score_final": -0.5192
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 27.63,
+   "score_final": -0.4965
+  },
+  {
+   "ticker": "FCX",
+   "nom": "Freeport-McMoRan",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 7,
+   "prix": 59.24,
+   "score_final": -0.5218
+  }
+ ]
+}

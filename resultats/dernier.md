@@ -1,4 +1,4 @@
-# Scan du 2026-11-11
+# Scan du 2026-11-13
 
 **788 valeurs analysees** · horizon 5 a 10 seances · seuil de publication 6/10 · au plus 3 valeurs par secteur et par cote
 
@@ -8,41 +8,41 @@
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **EW** | Edwards Lifesciences | Health Care | 105,81 | **10/10** | +0,859 | +6,48 % | +22,39 % | 79 | 0,91 | 1,63 % |
-| 2 | **SPG** | Simon Property Group | Real Estate | 234,75 | **10/10** | +0,762 | +2,74 % | +18,14 % | 80 | 0,96 | 1,32 % |
-| 3 | **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 62,30 | **10/10** | +0,757 | +4,46 % | +18,44 % | 75 | 0,91 | 1,67 % |
-| 4 | **FRE.DE** | Fresenius SE & Co. KGaA | Health Care | 52,82 | **10/10** | +0,731 | +2,80 % | +21,26 % | 78 | 0,93 | 1,42 % |
-| 5 | **HOLN.SW** | Holcim AG | Materials | 75,20 | **10/10** | +0,717 | +2,54 % | +16,99 % | 74 | 0,95 | 1,69 % |
-| 6 | **GRF.MC** | Grifols, S.A. | Health Care | 11,48 | **10/10** | +0,683 | +2,27 % | +17,02 % | 79 | 0,93 | 1,50 % |
-| 7 | **AC.PA** | Accor SA | Consumer Discretionary | 52,40 | **9/10** | +0,879 | +6,14 % | +15,29 % | 75 | 0,67 | 1,89 % |
-| 8 | **TKO** | TKO Group Holdings | Communication Services | 199,50 | **9/10** | +0,852 | +3,11 % | +15,73 % | 69 | 0,73 | 1,89 % |
-| 9 | **DD** | DuPont | Industrials | 155,61 | **9/10** | +0,831 | +3,24 % | +21,12 % | 70 | 0,90 | 2,64 % |
-| 10 | **HEI.DE** | Heidelberg Materials AG | Materials | 181,00 | **9/10** | +0,820 | +5,54 % | +28,01 % | 79 | 0,85 | 2,50 % |
+| 1 | **AIZ** | Assurant | Financials | 322,11 | **10/10** | +0,768 | +4,92 % | +13,70 % | 78 | 0,92 | 1,47 % |
+| 2 | **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 62,20 | **10/10** | +0,743 | +4,29 % | +15,83 % | 74 | 0,91 | 1,66 % |
+| 3 | **FRE.DE** | Fresenius SE & Co. KGaA | Health Care | 53,29 | **10/10** | +0,712 | +2,74 % | +21,51 % | 79 | 0,93 | 1,42 % |
+| 4 | **ARGX.BR** | argenx SE | Health Care | 886,60 | **9/10** | +0,835 | +8,71 % | +16,87 % | 70 | 0,82 | 2,33 % |
+| 5 | **AC.PA** | Accor SA | Consumer Discretionary | 52,04 | **9/10** | +0,827 | +5,17 % | +12,84 % | 72 | 0,73 | 1,91 % |
+| 6 | **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 86,32 | **9/10** | +0,803 | +2,81 % | +10,89 % | 73 | 0,79 | 1,39 % |
+| 7 | **RXL.PA** | Rexel S.A. | Information Technology | 36,96 | **9/10** | +0,798 | +7,47 % | +13,24 % | 63 | 0,76 | 2,09 % |
+| 8 | **VTRS** | Viatris | Health Care | 20,82 | **9/10** | +0,785 | +4,57 % | +11,58 % | 70 | 0,80 | 2,00 % |
+| 9 | **COST** | Costco | Consumer Staples | 1106,21 | **9/10** | +0,779 | +5,00 % | +12,00 % | 76 | 0,82 | 1,43 % |
+| 10 | **GWW** | W. W. Grainger | Industrials | 1489,30 | **9/10** | +0,748 | +3,55 % | +12,11 % | 70 | 0,86 | 1,86 % |
 
 ## Orientees a la baisse (10)
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 19895,00 | **9/10** | -0,894 | -10,38 % | -18,26 % | 29 | 0,78 | 2,17 % |
-| 2 | **NESTE.HE** | Neste Oyj | Energy | 27,36 | **9/10** | -0,657 | -2,84 % | -15,16 % | 34 | 0,90 | 2,13 % |
-| 3 | **ADM** | Archer Daniels Midland | Consumer Staples | 70,92 | **9/10** | -0,573 | +0,11 % | -15,21 % | 31 | 0,92 | 1,77 % |
-| 4 | **APTV** | Aptiv | Consumer Discretionary | 39,41 | **8/10** | -0,814 | -8,90 % | -10,08 % | 35 | 0,73 | 2,67 % |
-| 5 | **IFF** | International Flavors & Fragranc | Materials | 82,65 | **8/10** | -0,792 | -5,73 % | -7,76 % | 36 | 0,46 | 2,10 % |
-| 6 | **EQNR.OL** | Equinor ASA | Energy | 395,20 | **8/10** | -0,723 | -2,80 % | -8,52 % | 40 | 0,53 | 2,38 % |
-| 7 | **ZBRA** | Zebra Technologies | Information Technology | 327,44 | **8/10** | -0,689 | -1,50 % | -13,12 % | 33 | 0,72 | 2,62 % |
-| 8 | **CMI** | Cummins | Industrials | 463,26 | **8/10** | -0,683 | -1,82 % | -11,92 % | 35 | 0,78 | 2,59 % |
-| 9 | **SHEL.L** | Shell plc | Energy | 3670,11 | **8/10** | -0,660 | -3,29 % | -6,16 % | 40 | 0,48 | 1,53 % |
-| 10 | **CRM** | Salesforce | Information Technology | 218,01 | **8/10** | -0,652 | -4,01 % | -7,60 % | 40 | 0,81 | 2,32 % |
+| 1 | **IFF** | International Flavors & Fragranc | Materials | 81,16 | **9/10** | -0,764 | -1,77 % | -10,50 % | 35 | 0,69 | 2,16 % |
+| 2 | **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 20110,00 | **9/10** | -0,757 | -3,64 % | -16,17 % | 31 | 0,82 | 2,22 % |
+| 3 | **NVDA** | Nvidia | Information Technology | 162,85 | **8/10** | -0,947 | -12,75 % | -23,95 % | 25 | 0,85 | 3,32 % |
+| 4 | **APTV** | Aptiv | Consumer Discretionary | 38,75 | **8/10** | -0,742 | -1,75 % | -13,62 % | 33 | 0,78 | 2,54 % |
+| 5 | **CMI** | Cummins | Industrials | 452,18 | **8/10** | -0,628 | +0,47 % | -14,90 % | 32 | 0,83 | 2,56 % |
+| 6 | **ZBRA** | Zebra Technologies | Information Technology | 324,00 | **8/10** | -0,567 | +0,61 % | -12,20 % | 35 | 0,83 | 2,71 % |
+| 7 | **CRM** | Salesforce | Information Technology | 217,84 | **8/10** | -0,523 | +1,96 % | -9,50 % | 40 | 0,84 | 1,97 % |
+| 8 | **TJX** | TJX Companies | Consumer Discretionary | 134,37 | **8/10** | -0,519 | -0,34 % | -8,80 % | 42 | 0,80 | 2,05 % |
+| 9 | **NESTE.HE** | Neste Oyj | Energy | 27,63 | **8/10** | -0,496 | +0,22 % | -13,87 % | 36 | 0,88 | 2,17 % |
+| 10 | **FCX** | Freeport-McMoRan | Materials | 59,24 | **7/10** | -0,522 | -0,30 % | -14,81 % | 37 | 0,77 | 3,15 % |
 
 ## Repartition des notes
 
 | Surete | 10/10 | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Valeurs | 6 | 54 | 102 | 123 | 93 | 85 | 106 | 136 | 77 | 6 |
+| Valeurs | 3 | 43 | 98 | 101 | 90 | 100 | 117 | 126 | 102 | 8 |
 
 ## Ecartees par le plafond sectoriel
 
-VTRS (plafond de 3 valeurs « Health Care » atteint), STE (plafond de 3 valeurs « Health Care » atteint), IPN.PA (plafond de 3 valeurs « Health Care » atteint), BAYN.DE (plafond de 3 valeurs « Health Care » atteint), ARGX.BR (plafond de 3 valeurs « Health Care » atteint), BDX (plafond de 3 valeurs « Health Care » atteint), LLY (plafond de 3 valeurs « Health Care » atteint), STMN.SW (plafond de 3 valeurs « Health Care » atteint), DGX (plafond de 3 valeurs « Health Care » atteint), ALGN (plafond de 3 valeurs « Health Care » atteint), CAH (plafond de 3 valeurs « Health Care » atteint), LH (plafond de 3 valeurs « Health Care » atteint), JNJ (plafond de 3 valeurs « Health Care » atteint), GEHC (plafond de 3 valeurs « Health Care » atteint), AZN.L (plafond de 3 valeurs « Health Care » atteint), MDT (plafond de 3 valeurs « Health Care » atteint), INCY (plafond de 3 valeurs « Health Care » atteint), LONN.SW (plafond de 3 valeurs « Health Care » atteint), REGN (plafond de 3 valeurs « Health Care » atteint), SAN.PA (plafond de 3 valeurs « Health Care » atteint), MCK (plafond de 3 valeurs « Health Care » atteint), HCA (plafond de 3 valeurs « Health Care » atteint), GILD (plafond de 3 valeurs « Health Care » atteint), COO (plafond de 3 valeurs « Health Care » atteint), VRTX (plafond de 3 valeurs « Health Care » atteint), AMGN (plafond de 3 valeurs « Health Care » atteint), ERF.PA (plafond de 3 valeurs « Health Care » atteint), HUM (plafond de 3 valeurs « Health Care » atteint), ZBH (plafond de 3 valeurs « Health Care » atteint), PHIA.AS (plafond de 3 valeurs « Health Care » atteint), TMO (plafond de 3 valeurs « Health Care » atteint), MTD (plafond de 3 valeurs « Health Care » atteint), NOVO-B.CO (plafond de 3 valeurs « Health Care » atteint), WST (plafond de 3 valeurs « Health Care » atteint), ABT (plafond de 3 valeurs « Health Care » atteint), MRK.DE (plafond de 3 valeurs « Health Care » atteint), SRT3.DE (plafond de 3 valeurs « Health Care » atteint), NOVN.SW (plafond de 3 valeurs « Health Care » atteint), ABBV (plafond de 3 valeurs « Health Care » atteint), BP.L (plafond de 3 valeurs « Energy » atteint), OXY (plafond de 3 valeurs « Energy » atteint), AKRBP.OL (plafond de 3 valeurs « Energy » atteint), TPL (plafond de 3 valeurs « Energy » atteint), FANG (plafond de 3 valeurs « Energy » atteint), XOM (plafond de 3 valeurs « Energy » atteint), VLO (plafond de 3 valeurs « Energy » atteint), PSX (plafond de 3 valeurs « Energy » atteint), BKR (plafond de 3 valeurs « Energy » atteint), CVX (plafond de 3 valeurs « Energy » atteint), DVN (plafond de 3 valeurs « Energy » atteint), MPC (plafond de 3 valeurs « Energy » atteint), ENI.MI (plafond de 3 valeurs « Energy » atteint), KMI (plafond de 3 valeurs « Energy » atteint)
+STE (plafond de 3 valeurs « Health Care » atteint), IPN.PA (plafond de 3 valeurs « Health Care » atteint), BAYN.DE (plafond de 3 valeurs « Health Care » atteint), BDX (plafond de 3 valeurs « Health Care » atteint), STMN.SW (plafond de 3 valeurs « Health Care » atteint), MCK (plafond de 3 valeurs « Health Care » atteint), CAH (plafond de 3 valeurs « Health Care » atteint), LLY (plafond de 3 valeurs « Health Care » atteint), JNJ (plafond de 3 valeurs « Health Care » atteint), GEHC (plafond de 3 valeurs « Health Care » atteint), DGX (plafond de 3 valeurs « Health Care » atteint), LH (plafond de 3 valeurs « Health Care » atteint), SAN.PA (plafond de 3 valeurs « Health Care » atteint), EW (plafond de 3 valeurs « Health Care » atteint), HUM (plafond de 3 valeurs « Health Care » atteint), GRF.MC (plafond de 3 valeurs « Health Care » atteint), COR (plafond de 3 valeurs « Health Care » atteint), REGN (plafond de 3 valeurs « Health Care » atteint), ALGN (plafond de 3 valeurs « Health Care » atteint), PHIA.AS (plafond de 3 valeurs « Health Care » atteint), NOVO-B.CO (plafond de 3 valeurs « Health Care » atteint), MDT (plafond de 3 valeurs « Health Care » atteint), AZN.L (plafond de 3 valeurs « Health Care » atteint), LONN.SW (plafond de 3 valeurs « Health Care » atteint), NOVN.SW (plafond de 3 valeurs « Health Care » atteint), HCA (plafond de 3 valeurs « Health Care » atteint), INCY (plafond de 3 valeurs « Health Care » atteint), COO (plafond de 3 valeurs « Health Care » atteint), ERF.PA (plafond de 3 valeurs « Health Care » atteint), MTD (plafond de 3 valeurs « Health Care » atteint), AMGN (plafond de 3 valeurs « Health Care » atteint), CSCO (plafond de 3 valeurs « Information Technology » atteint), PLTR (plafond de 3 valeurs « Information Technology » atteint), CTSH (plafond de 3 valeurs « Information Technology » atteint), ADBE (plafond de 3 valeurs « Information Technology » atteint)
 
 ## Non analysees (15)
 
