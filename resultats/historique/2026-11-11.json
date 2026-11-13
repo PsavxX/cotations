@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-11",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "EW",
+   "nom": "Edwards Lifesciences",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 105.81,
+   "score_final": 0.8591
+  },
+  {
+   "ticker": "SPG",
+   "nom": "Simon Property Group",
+   "secteur": "Real Estate",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 234.75,
+   "score_final": 0.7619
+  },
+  {
+   "ticker": "AMS.MC",
+   "nom": "Amadeus IT Group, S.A.",
+   "secteur": "Information Technology",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 62.3,
+   "score_final": 0.7567
+  },
+  {
+   "ticker": "FRE.DE",
+   "nom": "Fresenius SE & Co. KGaA",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 52.82,
+   "score_final": 0.731
+  },
+  {
+   "ticker": "HOLN.SW",
+   "nom": "Holcim AG",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 75.2,
+   "score_final": 0.7171
+  },
+  {
+   "ticker": "GRF.MC",
+   "nom": "Grifols, S.A.",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 11.48,
+   "score_final": 0.6832
+  },
+  {
+   "ticker": "AC.PA",
+   "nom": "Accor SA",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 52.4,
+   "score_final": 0.8792
+  },
+  {
+   "ticker": "TKO",
+   "nom": "TKO Group Holdings",
+   "secteur": "Communication Services",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 199.5,
+   "score_final": 0.8517
+  },
+  {
+   "ticker": "DD",
+   "nom": "DuPont",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 155.61,
+   "score_final": 0.8313
+  },
+  {
+   "ticker": "HEI.DE",
+   "nom": "Heidelberg Materials AG",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 181.0,
+   "score_final": 0.8198
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "MAERSK-B.CO",
+   "nom": "A.P. Møller - Mærsk A/S",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 19895.0,
+   "score_final": -0.894
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 27.36,
+   "score_final": -0.6566
+  },
+  {
+   "ticker": "ADM",
+   "nom": "Archer Daniels Midland",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 70.92,
+   "score_final": -0.5731
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 39.41,
+   "score_final": -0.8139
+  },
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 82.65,
+   "score_final": -0.7916
+  },
+  {
+   "ticker": "EQNR.OL",
+   "nom": "Equinor ASA",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 395.2,
+   "score_final": -0.723
+  },
+  {
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 327.44,
+   "score_final": -0.689
+  },
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 463.26,
+   "score_final": -0.683
+  },
+  {
+   "ticker": "SHEL.L",
+   "nom": "Shell plc",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 3670.1094,
+   "score_final": -0.6597
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 218.01,
+   "score_final": -0.6517
+  }
+ ]
+}

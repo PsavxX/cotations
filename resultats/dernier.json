@@ -1,0 +1,869 @@
+{
+ "date": "2026-11-11",
+ "genere_le": "2026-11-13T01:41:51+00:00",
+ "horizon": "5 a 10 seances",
+ "valeurs_analysees": 788,
+ "regles": {
+  "seuil_publication": 6,
+  "plafond_secteur": 3,
+  "nb_max_par_cote": 10
+ },
+ "macro": {
+  "appliquee": false,
+  "date": "2000-01-01",
+  "resume": ""
+ },
+ "avertissements": [
+  "Aucun contexte d'actualite valide (algo/macro.json absent ou perime) : classement purement technique."
+ ],
+ "distribution_surete": {
+  "10": 6,
+  "9": 54,
+  "8": 102,
+  "7": 123,
+  "6": 93,
+  "5": 85,
+  "4": 106,
+  "3": 136,
+  "2": 77,
+  "1": 6
+ },
+ "hausse": [
+  {
+   "ticker": "EW",
+   "nom": "Edwards Lifesciences",
+   "secteur": "Health Care",
+   "place": "US",
+   "prix": 105.81,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.8591,
+   "score_tech": 0.8591,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 6.48,
+   "var20": 22.39,
+   "rsi": 78.9,
+   "r2": 0.912,
+   "vol_j": 1.63,
+   "signaux": {
+    "tendance_mm": 0.97,
+    "croisement_mm": 0.989,
+    "momentum": 0.937,
+    "rsi": 0.478,
+    "macd": 0.954,
+    "volume": 0.434,
+    "position_40s": 0.85,
+    "pente": 0.995
+   }
+  },
+  {
+   "ticker": "SPG",
+   "nom": "Simon Property Group",
+   "secteur": "Real Estate",
+   "place": "US",
+   "prix": 234.75,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.7619,
+   "score_tech": 0.7619,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.74,
+   "var20": 18.14,
+   "rsi": 79.8,
+   "r2": 0.957,
+   "vol_j": 1.32,
+   "signaux": {
+    "tendance_mm": 0.859,
+    "croisement_mm": 0.934,
+    "momentum": 0.754,
+    "rsi": 0.55,
+    "macd": 0.693,
+    "volume": 0.328,
+    "position_40s": 0.85,
+    "pente": 0.978
+   }
+  },
+  {
+   "ticker": "AMS.MC",
+   "nom": "Amadeus IT Group, S.A.",
+   "secteur": "Information Technology",
+   "place": "Europe",
+   "prix": 62.3,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.7567,
+   "score_tech": 0.7567,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 4.46,
+   "var20": 18.44,
+   "rsi": 74.9,
+   "r2": 0.911,
+   "vol_j": 1.67,
+   "signaux": {
+    "tendance_mm": 0.889,
+    "croisement_mm": 0.409,
+    "momentum": 0.846,
+    "rsi": 0.905,
+    "macd": 0.813,
+    "volume": 0.152,
+    "position_40s": 0.85,
+    "pente": 0.954
+   }
+  },
+  {
+   "ticker": "FRE.DE",
+   "nom": "Fresenius SE & Co. KGaA",
+   "secteur": "Health Care",
+   "place": "Europe",
+   "prix": 52.82,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.731,
+   "score_tech": 0.731,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.8,
+   "var20": 21.26,
+   "rsi": 78.2,
+   "r2": 0.926,
+   "vol_j": 1.42,
+   "signaux": {
+    "tendance_mm": 0.905,
+    "croisement_mm": 0.987,
+    "momentum": 0.778,
+    "rsi": 0.256,
+    "macd": 0.626,
+    "volume": 0.303,
+    "position_40s": 0.757,
+    "pente": 0.994
+   }
+  },
+  {
+   "ticker": "HOLN.SW",
+   "nom": "Holcim AG",
+   "secteur": "Materials",
+   "place": "Europe",
+   "prix": 75.2,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.7171,
+   "score_tech": 0.7171,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.54,
+   "var20": 16.99,
+   "rsi": 73.6,
+   "r2": 0.955,
+   "vol_j": 1.69,
+   "signaux": {
+    "tendance_mm": 0.849,
+    "croisement_mm": 0.986,
+    "momentum": 0.731,
+    "rsi": 0.667,
+    "macd": 0.535,
+    "volume": -0.088,
+    "position_40s": 0.826,
+    "pente": 0.991
+   }
+  },
+  {
+   "ticker": "GRF.MC",
+   "nom": "Grifols, S.A.",
+   "secteur": "Health Care",
+   "place": "Europe",
+   "prix": 11.48,
+   "sens": "HAUSSE",
+   "surete": 10,
+   "score_final": 0.6832,
+   "score_tech": 0.6832,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.27,
+   "var20": 17.02,
+   "rsi": 78.6,
+   "r2": 0.927,
+   "vol_j": 1.5,
+   "signaux": {
+    "tendance_mm": 0.78,
+    "croisement_mm": 0.883,
+    "momentum": 0.669,
+    "rsi": 0.417,
+    "macd": 0.442,
+    "volume": 0.4,
+    "position_40s": 0.85,
+    "pente": 0.976
+   }
+  },
+  {
+   "ticker": "AC.PA",
+   "nom": "Accor SA",
+   "secteur": "Consumer Discretionary",
+   "place": "Paris",
+   "prix": 52.4,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.8792,
+   "score_tech": 0.8792,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 6.14,
+   "var20": 15.29,
+   "rsi": 75.4,
+   "r2": 0.665,
+   "vol_j": 1.89,
+   "signaux": {
+    "tendance_mm": 0.944,
+    "croisement_mm": 0.952,
+    "momentum": 0.909,
+    "rsi": 0.933,
+    "macd": 0.993,
+    "volume": 0.245,
+    "position_40s": 0.842,
+    "pente": 0.954
+   }
+  },
+  {
+   "ticker": "TKO",
+   "nom": "TKO Group Holdings",
+   "secteur": "Communication Services",
+   "place": "US",
+   "prix": 199.5,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.8517,
+   "score_tech": 0.8517,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 3.11,
+   "var20": 15.73,
+   "rsi": 69.4,
+   "r2": 0.726,
+   "vol_j": 1.89,
+   "signaux": {
+    "tendance_mm": 0.892,
+    "croisement_mm": 0.97,
+    "momentum": 0.787,
+    "rsi": 0.765,
+    "macd": 0.951,
+    "volume": 0.503,
+    "position_40s": 0.841,
+    "pente": 0.969
+   }
+  },
+  {
+   "ticker": "DD",
+   "nom": "DuPont",
+   "secteur": "Industrials",
+   "place": "US",
+   "prix": 155.61,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.8313,
+   "score_tech": 0.8313,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 3.24,
+   "var20": 21.12,
+   "rsi": 70.5,
+   "r2": 0.896,
+   "vol_j": 2.64,
+   "signaux": {
+    "tendance_mm": 0.923,
+    "croisement_mm": 0.982,
+    "momentum": 0.799,
+    "rsi": 0.797,
+    "macd": 0.867,
+    "volume": 0.289,
+    "position_40s": 0.774,
+    "pente": 0.992
+   }
+  },
+  {
+   "ticker": "HEI.DE",
+   "nom": "Heidelberg Materials AG",
+   "secteur": "Materials",
+   "place": "Europe",
+   "prix": 181.0,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.8198,
+   "score_tech": 0.8198,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 5.54,
+   "var20": 28.01,
+   "rsi": 78.9,
+   "r2": 0.846,
+   "vol_j": 2.5,
+   "signaux": {
+    "tendance_mm": 0.986,
+    "croisement_mm": 0.998,
+    "momentum": 0.924,
+    "rsi": 0.348,
+    "macd": 0.928,
+    "volume": 0.2,
+    "position_40s": 0.804,
+    "pente": 0.999
+   }
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "MAERSK-B.CO",
+   "nom": "A.P. Møller - Mærsk A/S",
+   "secteur": "Industrials",
+   "place": "Europe",
+   "prix": 19895.0,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.894,
+   "score_tech": -0.894,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -10.38,
+   "var20": -18.26,
+   "rsi": 28.7,
+   "r2": 0.783,
+   "vol_j": 2.17,
+   "signaux": {
+    "tendance_mm": -0.965,
+    "croisement_mm": -0.986,
+    "momentum": -0.97,
+    "rsi": -0.59,
+    "macd": -0.999,
+    "volume": -0.707,
+    "position_40s": -0.686,
+    "pente": -0.996
+   }
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "place": "Europe",
+   "prix": 27.36,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.6566,
+   "score_tech": -0.6566,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -2.84,
+   "var20": -15.16,
+   "rsi": 33.6,
+   "r2": 0.904,
+   "vol_j": 2.13,
+   "signaux": {
+    "tendance_mm": -0.684,
+    "croisement_mm": -0.986,
+    "momentum": -0.691,
+    "rsi": -0.401,
+    "macd": -0.452,
+    "volume": -0.106,
+    "position_40s": -0.786,
+    "pente": -0.993
+   }
+  },
+  {
+   "ticker": "ADM",
+   "nom": "Archer Daniels Midland",
+   "secteur": "Consumer Staples",
+   "place": "US",
+   "prix": 70.92,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.5731,
+   "score_tech": -0.5731,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 0.11,
+   "var20": -15.21,
+   "rsi": 30.9,
+   "r2": 0.915,
+   "vol_j": 1.77,
+   "signaux": {
+    "tendance_mm": -0.67,
+    "croisement_mm": -0.988,
+    "momentum": -0.459,
+    "rsi": -0.342,
+    "macd": -0.491,
+    "volume": 0.305,
+    "position_40s": -0.703,
+    "pente": -0.993
+   }
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "place": "US",
+   "prix": 39.41,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.8139,
+   "score_tech": -0.8139,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -8.9,
+   "var20": -10.08,
+   "rsi": 34.8,
+   "r2": 0.731,
+   "vol_j": 2.67,
+   "signaux": {
+    "tendance_mm": -0.893,
+    "croisement_mm": -0.915,
+    "momentum": -0.898,
+    "rsi": -0.522,
+    "macd": -0.995,
+    "volume": -0.16,
+    "position_40s": -0.85,
+    "pente": -0.958
+   }
+  },
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "place": "US",
+   "prix": 82.65,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.7916,
+   "score_tech": -0.7916,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -5.73,
+   "var20": -7.76,
+   "rsi": 36.3,
+   "r2": 0.457,
+   "vol_j": 2.1,
+   "signaux": {
+    "tendance_mm": -0.853,
+    "croisement_mm": -0.86,
+    "momentum": -0.807,
+    "rsi": -0.537,
+    "macd": -1.0,
+    "volume": -0.341,
+    "position_40s": -0.818,
+    "pente": -0.891
+   }
+  },
+  {
+   "ticker": "EQNR.OL",
+   "nom": "Equinor ASA",
+   "secteur": "Energy",
+   "place": "Europe",
+   "prix": 395.2,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.723,
+   "score_tech": -0.723,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -2.8,
+   "var20": -8.52,
+   "rsi": 40.4,
+   "r2": 0.534,
+   "vol_j": 2.38,
+   "signaux": {
+    "tendance_mm": -0.77,
+    "croisement_mm": -0.935,
+    "momentum": -0.701,
+    "rsi": -0.275,
+    "macd": -0.996,
+    "volume": -0.289,
+    "position_40s": -0.541,
+    "pente": -0.946
+   }
+  },
+  {
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "place": "US",
+   "prix": 327.44,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.689,
+   "score_tech": -0.689,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -1.5,
+   "var20": -13.12,
+   "rsi": 33.4,
+   "r2": 0.721,
+   "vol_j": 2.62,
+   "signaux": {
+    "tendance_mm": -0.828,
+    "croisement_mm": -0.995,
+    "momentum": -0.651,
+    "rsi": -0.265,
+    "macd": -0.501,
+    "volume": -0.445,
+    "position_40s": -0.702,
+    "pente": -0.995
+   }
+  },
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "place": "US",
+   "prix": 463.26,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.683,
+   "score_tech": -0.683,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -1.82,
+   "var20": -11.92,
+   "rsi": 34.9,
+   "r2": 0.782,
+   "vol_j": 2.59,
+   "signaux": {
+    "tendance_mm": -0.8,
+    "croisement_mm": -0.987,
+    "momentum": -0.664,
+    "rsi": -0.163,
+    "macd": -0.526,
+    "volume": -0.609,
+    "position_40s": -0.583,
+    "pente": -0.991
+   }
+  },
+  {
+   "ticker": "SHEL.L",
+   "nom": "Shell plc",
+   "secteur": "Energy",
+   "place": "Europe",
+   "prix": 3670.1094,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.6597,
+   "score_tech": -0.6597,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -3.29,
+   "var20": -6.16,
+   "rsi": 39.9,
+   "r2": 0.479,
+   "vol_j": 1.53,
+   "signaux": {
+    "tendance_mm": -0.697,
+    "croisement_mm": -0.75,
+    "momentum": -0.658,
+    "rsi": -0.456,
+    "macd": -0.994,
+    "volume": -0.29,
+    "position_40s": -0.287,
+    "pente": -0.778
+   }
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "place": "US",
+   "prix": 218.01,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.6517,
+   "score_tech": -0.6517,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -4.01,
+   "var20": -7.6,
+   "rsi": 39.5,
+   "r2": 0.81,
+   "vol_j": 2.32,
+   "signaux": {
+    "tendance_mm": -0.635,
+    "croisement_mm": -0.984,
+    "momentum": -0.753,
+    "rsi": -0.286,
+    "macd": -0.768,
+    "volume": 0.232,
+    "position_40s": -0.641,
+    "pente": -0.98
+   }
+  }
+ ],
+ "ecartees": [
+  {
+   "ticker": "1COV.DE",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "ALD.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "CGG.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "DPW.DE",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "EDF.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "FDJ.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "KVUE",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "NEOEN.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "ORP.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "POM.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "PSKY",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "ROG.SW",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "TKTT.PA",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "TKWY.AS",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "WBD",
+   "motif": "aucune donnee ou historique trop court"
+  },
+  {
+   "ticker": "VTRS",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "STE",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "IPN.PA",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "BAYN.DE",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ARGX.BR",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "BDX",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "LLY",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "STMN.SW",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "DGX",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ALGN",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "CAH",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "LH",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "JNJ",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "GEHC",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "AZN.L",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "MDT",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "INCY",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "LONN.SW",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "REGN",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "SAN.PA",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "MCK",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "HCA",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "GILD",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "COO",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "VRTX",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "AMGN",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ERF.PA",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "HUM",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ZBH",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "PHIA.AS",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "TMO",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "MTD",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "NOVO-B.CO",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "WST",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ABT",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "MRK.DE",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "SRT3.DE",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "NOVN.SW",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "ABBV",
+   "motif": "plafond de 3 valeurs « Health Care » atteint"
+  },
+  {
+   "ticker": "BP.L",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "OXY",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "AKRBP.OL",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "TPL",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "FANG",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "XOM",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "VLO",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "PSX",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "BKR",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "CVX",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "DVN",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "MPC",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "ENI.MI",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "KMI",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  }
+ ]
+}

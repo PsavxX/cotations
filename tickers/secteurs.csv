@@ -1,0 +1,301 @@
+ticker,nom,secteur
+1COV.DE,Covestro AG,Inconnu
+A2A.MI,A2A S.p.A.,Utilities
+AAL.L,Anglo American plc,Materials
+ABBN.SW,ABB Ltd,Industrials
+ABF.L,Associated British Foods plc,Consumer Staples
+ABI.BR,Anheuser-Busch InBev SA/NV,Consumer Staples
+ABN.AS,ABN AMRO Bank N.V.,Financials
+AC.PA,Accor SA,Consumer Discretionary
+ACA.PA,Crédit Agricole S.A.,Financials
+ACS.MC,"ACS, Actividades de Construcción y Servicios, S.A.",Industrials
+AD.AS,Koninklijke Ahold Delhaize N.V.,Consumer Staples
+ADP.PA,Aeroports de Paris SA,Industrials
+ADS.DE,adidas AG,Consumer Discretionary
+ADYEN.AS,Adyen N.V.,Information Technology
+AENA.MC,"Aena S.M.E., S.A.",Industrials
+AGN.AS,Aegon Ltd.,Financials
+AI.PA,L'Air Liquide S.A.,Materials
+AIR.DE,Airbus SE,Industrials
+AIR.PA,Airbus SE,Industrials
+AKE.PA,Arkema S.A.,Materials
+AKRBP.OL,Aker BP ASA,Energy
+AKZA.AS,Akzo Nobel N.V.,Materials
+ALC.SW,Alcon Inc.,Health Care
+ALD.PA,,Inconnu
+ALFA.ST,Alfa Laval AB (publ),Industrials
+ALO.PA,Alstom SA,Industrials
+ALTA.PA,Altarea SCA,Real Estate
+ALV.DE,Allianz SE,Financials
+AMS.MC,"Amadeus IT Group, S.A.",Information Technology
+AMUN.PA,Amundi S.A.,Financials
+ANA.MC,"Acciona, S.A.",Industrials
+ANTO.L,Antofagasta plc,Materials
+ARGX.BR,argenx SE,Health Care
+ASM.AS,ASM International NV,Information Technology
+ASML.AS,ASML Holding N.V.,Information Technology
+ASSA-B.ST,ASSA ABLOY AB (publ),Industrials
+ATCO-A.ST,Atlas Copco AB (publ),Industrials
+ATO.PA,Atos Group,Information Technology
+AZN.L,AstraZeneca PLC,Health Care
+BA.L,BAE Systems plc,Industrials
+BAER.SW,Julius Bär Gruppe AG,Financials
+BAMI.MI,Banco BPM S.p.A.,Financials
+BARC.L,Barclays PLC,Financials
+BAS.DE,BASF SE,Materials
+BATS.L,British American Tobacco p.l.c.,Consumer Staples
+BAYN.DE,Bayer Aktiengesellschaft,Health Care
+BB.PA,Société BIC SA,Consumer Staples
+BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",Financials
+BEI.DE,Beiersdorf Aktiengesellschaft,Consumer Staples
+BEN.PA,Bénéteau S.A.,Consumer Discretionary
+BESI.AS,BE Semiconductor Industries N.V.,Information Technology
+BIM.PA,bioMérieux S.A.,Health Care
+BMW.DE,Bayerische Motoren Werke Aktiengesellschaft,Consumer Discretionary
+BN.PA,Danone S.A.,Consumer Staples
+BNP.PA,BNP Paribas SA,Financials
+BOL.ST,Boliden AB (publ),Materials
+BP.L,BP p.l.c.,Energy
+BVI.PA,Bureau Veritas SA,Industrials
+CA.PA,Carrefour SA,Consumer Staples
+CAP.PA,Capgemini SE,Information Technology
+CARL-B.CO,Carlsberg A/S,Consumer Staples
+CFR.SW,Compagnie Financière Richemont SA,Consumer Discretionary
+CGG.PA,,Inconnu
+CLARI.PA,Clariane SE,Health Care
+CLNX.MC,"Cellnex Telecom, S.A.",Real Estate
+COFA.PA,COFACE SA,Financials
+COLO-B.CO,Coloplast A/S,Health Care
+CON.DE,Continental Aktiengesellschaft,Consumer Discretionary
+COV.PA,Covivio,Real Estate
+CPG.L,Compass Group PLC,Consumer Discretionary
+CPR.MI,Davide Campari-Milano N.V.,Consumer Staples
+CRDA.L,Croda International Plc,Materials
+CRI.PA,Belgrano,Industrials
+CS.PA,AXA SA,Financials
+DB1.DE,Deutsche Börse AG,Financials
+DBK.DE,Deutsche Bank Aktiengesellschaft,Financials
+DBV.PA,DBV Technologies S.A.,Health Care
+DEMANT.CO,Demant A/S,Health Care
+DG.PA,Vinci SA,Industrials
+DGE.L,Diageo plc,Consumer Staples
+DHL.DE,DHL AG,Industrials
+DNB.OL,DNB Bank ASA,Financials
+DPW.DE,,Inconnu
+DSFIR.AS,DSM-Firmenich AG,Materials
+DSV.CO,DSV A/S,Industrials
+DSY.PA,Dassault Systèmes SE,Information Technology
+DTE.DE,Deutsche Telekom AG,Communication Services
+EDEN.PA,Edenred SE,Financials
+EDF.PA,,Inconnu
+EL.PA,EssilorLuxottica Société anonyme,Health Care
+ELE.MC,"Endesa, S.A.",Utilities
+ELIOR.PA,Elior Group SA,Consumer Discretionary
+ELIS.PA,Elis SA,Industrials
+ELISA.HE,Elisa Oyj,Communication Services
+EN.PA,Bouygues SA,Industrials
+ENEL.MI,Enel SpA,Utilities
+ENGI.PA,Engie SA,Utilities
+ENI.MI,Eni S.p.A.,Energy
+EOAN.DE,E.ON SE,Utilities
+EPI-A.ST,Epiroc AB (publ),Industrials
+EQNR.OL,Equinor ASA,Energy
+EQS.PA,Equasens Société anonyme,Health Care
+ERF.PA,Eurofins Scientific SE,Health Care
+ERIC-B.ST,Telefonaktiebolaget LM Ericsson (publ),Information Technology
+ESSITY-B.ST,Essity AB (publ),Consumer Staples
+ETL.PA,Eutelsat Communications S.A.,Communication Services
+EXPN.L,Experian plc,Industrials
+FDJ.PA,,Inconnu
+FER.MC,Ferrovial N.V.,Industrials
+FGR.PA,Eiffage SA,Industrials
+FORTUM.HE,Fortum Oyj,Utilities
+FR.PA,Valeo SE,Consumer Discretionary
+FRE.DE,Fresenius SE & Co. KGaA,Health Care
+G.MI,Assicurazioni Generali S.p.A.,Financials
+GBLB.BR,Groupe Bruxelles Lambert SA,Financials
+GEBN.SW,Geberit AG,Industrials
+GET.PA,Getlink SE,Industrials
+GFC.PA,Gecina,Real Estate
+GIVN.SW,Givaudan SA,Materials
+GLE.PA,Société Générale Société anonyme,Financials
+GLEN.L,Glencore plc,Materials
+GMAB.CO,Genmab A/S,Health Care
+GRF.MC,"Grifols, S.A.",Health Care
+GSK.L,GSK plc,Health Care
+GTT.PA,Gaztransport & Technigaz SA,Energy
+HEI.DE,Heidelberg Materials AG,Materials
+HEIA.AS,Heineken N.V.,Consumer Staples
+HEN3.DE,Henkel AG & Co. KGaA,Consumer Staples
+HEXA-B.ST,Hexagon AB (publ),Information Technology
+HLMA.L,Halma plc,Industrials
+HNR1.DE,Hannover Rück SE,Financials
+HO.PA,Thales S.A.,Industrials
+HOLN.SW,Holcim AG,Materials
+HSBA.L,HSBC Holdings plc,Financials
+IBE.MC,"Iberdrola, S.A.",Utilities
+ICAD.PA,Icade,Real Estate
+IFX.DE,Infineon Technologies AG,Information Technology
+III.L,3i Group Ord,Inconnu
+IMB.L,Imperial Brands PLC,Consumer Staples
+IMCD.AS,IMCD N.V.,Materials
+INGA.AS,ING Groep N.V.,Financials
+INVE-B.ST,Investor AB (publ),Financials
+IPH.PA,Innate Pharma S.A.,Health Care
+IPN.PA,Ipsen S.A.,Health Care
+IPS.PA,Ipsos SA,Industrials
+ISP.MI,Intesa Sanpaolo S.p.A.,Financials
+ITX.MC,"Industria de Diseño Textil, S.A.",Consumer Discretionary
+JCQ.PA,Jacquet Metals SA,Materials
+KBC.BR,KBC Group NV,Financials
+KER.PA,Kering SA,Consumer Discretionary
+KNEBV.HE,KONE Oyj,Industrials
+KOF.PA,Kaufman & Broad S.A.,Consumer Discretionary
+KPN.AS,Koninklijke KPN N.V.,Communication Services
+LDO.MI,Leonardo S.p.a.,Industrials
+LI.PA,Klépierre SA,Real Estate
+LIN.DE,Linde plc,Inconnu
+LLOY.L,Lloyds Banking Group plc,Financials
+LONN.SW,Lonza Group AG,Health Care
+LR.PA,Legrand SA,Industrials
+LSEG.L,London Stock Exchange Group plc,Financials
+MAERSK-B.CO,A.P. Møller - Mærsk A/S,Industrials
+MAP.MC,"Mapfre, S.A.",Financials
+MAU.PA,Etablissements Maurel & Prom S.A.,Energy
+MB.MI,Mediobanca Banca di Credito Finanziario S.p.A.,Financials
+MBG.DE,Mercedes-Benz Group AG,Consumer Discretionary
+MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",Consumer Discretionary
+MERY.PA,Mercialys SA,Real Estate
+ML.PA,Compagnie Générale des Établissements Michelin Société en commandite par actions,Inconnu
+MMT.PA,Métropole Télévision S.A.,Communication Services
+MONC.MI,Moncler S.p.A.,Consumer Discretionary
+MOWI.OL,Mowi ASA,Consumer Staples
+MRK.DE,Merck KGaA,Health Care
+MRN.PA,Mersen S.A.,Industrials
+MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Financials
+NDA-FI.HE,Nordea Bank Abp,Financials
+NDA-SE.ST,Nordea Bank Abp,Financials
+NEOEN.PA,,Inconnu
+NESN.SW,Nestlé S.A.,Consumer Staples
+NESTE.HE,Neste Oyj,Energy
+NEX.PA,Nexans S.A.,Industrials
+NG.L,National Grid plc,Utilities
+NHY.OL,Norsk Hydro ASA,Materials
+NK.PA,Imerys S.A.,Materials
+NN.AS,NN Group N.V.,Financials
+NOKIA.HE,Nokia Oyj,Information Technology
+NOVN.SW,Novartis AG,Health Care
+NOVO-B.CO,Novo Nordisk A/S,Health Care
+NTGY.MC,"Naturgy Energy Group, S.A.",Utilities
+NWG.L,NatWest Group plc,Financials
+NXI.PA,Nexity SA,Real Estate
+OR.PA,L'Oréal S.A.,Consumer Staples
+ORA.PA,Orange S.A.,Communication Services
+ORK.OL,Orkla ASA,Consumer Staples
+ORP.PA,,Inconnu
+ORSTED.CO,Ørsted A/S,Utilities
+OVH.PA,OVH Groupe S.A.,Information Technology
+PGHN.SW,Partners Group Holding AG,Financials
+PHIA.AS,Koninklijke Philips N.V.,Health Care
+PLX.PA,Pluxee N.V.,Industrials
+POM.PA,,Inconnu
+PRU.L,Prudential plc,Financials
+PRX.AS,Prosus N.V.,Consumer Discretionary
+PRY.MI,Prysmian S.p.A.,Industrials
+PST.MI,Poste Italiane S.p.A.,Industrials
+PUB.PA,Publicis Groupe S.A.,Communication Services
+PUM.DE,PUMA SE,Consumer Discretionary
+QIA.DE,Qiagen N.V.,Health Care
+RACE.MI,Ferrari N.V.,Consumer Discretionary
+RAND.AS,Randstad N.V.,Industrials
+RCO.PA,Rémy Cointreau SA,Consumer Staples
+RED.MC,"Redeia Corporación, S.A.",Utilities
+REL.L,RELX PLC,Industrials
+REN.AS,RELX PLC,Industrials
+REP.MC,"Repsol, S.A.",Energy
+RI.PA,Pernod Ricard SA,Consumer Staples
+RIO.L,Rio Tinto Group,Materials
+RMS.PA,Hermès International Société en commandite par actions,Consumer Discretionary
+RNO.PA,Renault SA,Consumer Discretionary
+ROG.SW,,Inconnu
+RR.L,Rolls-Royce Holdings plc,Industrials
+RWE.DE,RWE Aktiengesellschaft,Utilities
+RXL.PA,Rexel S.A.,Information Technology
+S30.PA,Solutions 30 SE,Information Technology
+SAF.PA,Safran SA,Industrials
+SAMPO.HE,Sampo Oyj,Financials
+SAN.MC,"Banco Santander, S.A.",Financials
+SAN.PA,Sanofi,Health Care
+SAND.ST,Sandvik AB (publ),Industrials
+SAP.DE,SAP SE,Information Technology
+SCMN.SW,Swisscom AG,Communication Services
+SCR.PA,SCOR SE,Financials
+SDG.PA,Synergie SE,Industrials
+SEB-A.ST,Skandinaviska Enskilda Banken AB (publ),Financials
+SESG.PA,SES S.A.,Communication Services
+SGE.L,The Sage Group plc,Information Technology
+SGO.PA,Compagnie de Saint-Gobain S.A.,Industrials
+SHB-A.ST,Svenska Handelsbanken AB (publ),Financials
+SHEL.L,Shell plc,Energy
+SIE.DE,Siemens Aktiengesellschaft,Industrials
+SIKA.SW,Sika AG,Materials
+SK.PA,SEB SA,Consumer Discretionary
+SKF-B.ST,AB SKF (publ),Industrials
+SLHN.SW,Swiss Life Holding AG,Financials
+SMIN.L,Smiths Group plc,Industrials
+SOI.PA,Soitec SA,Information Technology
+SOLB.BR,Solvay SA,Materials
+SOP.PA,Sopra Steria Group SA,Information Technology
+SPIE.PA,SPIE SA,Industrials
+SREN.SW,Swiss Re AG,Financials
+SRG.MI,Snam S.p.A.,Utilities
+SRT3.DE,Sartorius Aktiengesellschaft,Health Care
+SSE.L,SSE plc,Utilities
+STAN.L,Standard Chartered PLC,Financials
+STERV.HE,Stora Enso Oyj,Consumer Discretionary
+STLAM.MI,Stellantis N.V.,Consumer Discretionary
+STLAP.PA,Stellantis N.V.,Consumer Discretionary
+STMN.SW,Straumann Holding AG,Health Care
+STMPA.PA,STMicroelectronics N.V.,Information Technology
+SU.PA,Schneider Electric S.E.,Industrials
+SW.PA,Sodexo S.A.,Industrials
+SWED-A.ST,Swedbank AB (publ),Financials
+SY1.DE,Symrise AG,Materials
+TE.PA,Technip Energies N.V.,Energy
+TEF.MC,"Telefónica, S.A.",Communication Services
+TEL.OL,Telenor ASA,Communication Services
+TELIA.ST,Telia Company AB (publ),Communication Services
+TEP.PA,Teleperformance SE,Industrials
+TFI.PA,TF1 SA,Communication Services
+TIT.MI,Telecom Italia S.p.A.,Communication Services
+TKTT.PA,,Inconnu
+TKWY.AS,,Inconnu
+TRI.PA,Trigano S.A.,Consumer Discretionary
+TRN.MI,Terna S.p.A.,Utilities
+TSCO.L,Tesco PLC,Consumer Staples
+TTE.PA,TotalEnergies SE,Energy
+UBI.PA,Ubisoft Entertainment SA,Communication Services
+UBSG.SW,UBS Group AG,Financials
+UCB.BR,UCB SA,Health Care
+UCG.MI,UniCredit S.p.A.,Financials
+ULVR.L,Unilever PLC,Consumer Staples
+UNA.AS,Unilever PLC,Consumer Staples
+UPM.HE,UPM-Kymmene Oyj,Materials
+URW.PA,Unibail-Rodamco-Westfield SE,Real Estate
+VCT.PA,Vicat S.A.,Materials
+VIE.PA,Veolia Environnement SA,Industrials
+VIV.PA,Vivendi SE,Communication Services
+VK.PA,Vallourec S.A.,Materials
+VLA.PA,Valneva SE,Health Care
+VOD.L,Vodafone Group Public Limited Company,Communication Services
+VOLV-B.ST,AB Volvo (publ),Industrials
+VOW3.DE,Volkswagen AG,Consumer Discretionary
+VRLA.PA,Verallia Société Anonyme,Consumer Discretionary
+VWS.CO,Vestas Wind Systems A/S,Industrials
+WKL.AS,Wolters Kluwer N.V.,Industrials
+WLN.PA,Worldline SA,Information Technology
+WPP.L,WPP plc,Communication Services
+XFAB.PA,X-FAB Silicon Foundries SE,Information Technology
+YAR.OL,Yara International ASA,Materials
+ZAL.DE,Zalando SE,Consumer Discretionary
+ZURN.SW,Zurich Insurance Group AG,Financials
