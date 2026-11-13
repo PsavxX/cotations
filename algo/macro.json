@@ -1,0 +1,6 @@
+{
+  "date": "2000-01-01",
+  "resume": "",
+  "biais_secteurs": {},
+  "_mode_d_emploi": "Contexte d'actualite, facultatif. Renseigner 'date' (AAAA-MM-JJ), un 'resume', et pour chaque secteur concerne {\"biais\": nombre entre -1 et 1, \"motif\": \"une ligne chiffree\"}. Noms de secteurs : Energy, Materials, Industrials, Consumer Discretionary, Consumer Staples, Health Care, Financials, Information Technology, Communication Services, Utilities, Real Estate. Le biais n'est applique que pendant 10 jours apres 'date' : un contexte perime est ignore."
+}
