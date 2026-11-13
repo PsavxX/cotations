@@ -1,0 +1,74 @@
+name: Collecte et scan quotidiens
+
+on:
+  schedule:
+    # 22h00 UTC du lundi au vendredi : apres la cloture de Wall Street,
+    # le temps que les donnees de fin de seance se stabilisent.
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      depuis:
+        description: "Amorcage : date de debut AAAA-MM-JJ (laisser vide pour une mise a jour normale)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecter-et-scanner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Collecter les cotations
+        run: |
+          if [ -n "${{ inputs.depuis }}" ]; then
+            python scripts/collecte.py --depuis "${{ inputs.depuis }}"
+          else
+            python scripts/collecte.py --jours 10
+          fi
+
+      # Facultatif : nom et secteur des valeurs europeennes. Ne fait plus rien une fois rempli.
+      - name: Completer les secteurs
+        continue-on-error: true
+        run: python scripts/secteurs.py
+
+      - name: Scanner
+        run: python algo/scan.py
+
+      - name: Bilan des scans publies
+        run: python algo/bilan.py
+
+      - name: Backtest
+        run: python algo/backtest.py
+
+      # Toujours publier ce qui a ete produit, meme si une etape de l'algorithme a echoue :
+      # les cotations collectees ne doivent jamais etre perdues.
+      - name: Publier
+        if: always()
+        run: |
+          git config user.name  "collecte-bot"
+          git config user.email "collecte-bot@users.noreply.github.com"
+          for dossier in data tickers resultats; do
+            if [ -d "$dossier" ]; then git add --all -- "$dossier"; fi
+          done
+          if git diff --staged --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Cotations et scan du $(date -u +%Y-%m-%d)"
+            git push
+          fi
