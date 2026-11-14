@@ -2,11 +2,14 @@
 """Lecture des fichiers mensuels du depot et de la liste des valeurs."""
 import glob
 import os
+import sys
 
 import pandas as pd
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(RACINE, "data")
+sys.path.insert(0, os.path.join(RACINE, "scripts"))
+import ajustements                                              # noqa: E402
 RESULTATS = os.path.join(RACINE, "resultats")
 
 
@@ -17,7 +20,10 @@ def charger_cours(derniers_mois=None):
         fichiers = fichiers[-derniers_mois:]
     if not fichiers:
         raise SystemExit("Aucun fichier de cotations dans data/ : lancer d'abord la collecte.")
-    df = pd.concat((pd.read_csv(f) for f in fichiers), ignore_index=True)
+    df = pd.concat((pd.read_csv(f, dtype={"date": str, "ticker": str}) for f in fichiers),
+                   ignore_index=True)
+    # splits et dividendes survenus apres l'ecriture des vieux fichiers (voir scripts/ajustements.py)
+    df = ajustements.appliquer(df, ajustements.lire(os.path.join(DATA, "ajustements.csv")))
     df = df.dropna(subset=["close"])
     df = df[df["close"] > 0]
     df["volume"] = df["volume"].fillna(0)

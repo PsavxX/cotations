@@ -6,13 +6,15 @@ A utiliser depuis n'importe quel environnement qui joint raw.githubusercontent.c
 (c'est le cas du conteneur Claude, qui ne joint en revanche aucune API de cotation).
 
     from lecture import charger
-    df = charger("pierre3710", "cotations", mois=6)     # 6 derniers mois
+    df = charger("PsavxX", "cotations", mois=6)     # 6 derniers mois
     serie = df[df.ticker == "MC.PA"]
 """
 import gzip, io, urllib.request
 from datetime import date
 
 import pandas as pd
+
+import ajustements
 
 GABARIT = "https://raw.githubusercontent.com/{u}/{d}/main/data/ohlcv-{m}.csv.gz"
 
@@ -42,6 +44,15 @@ def charger(utilisateur, depot, mois=3, branche="main"):
     if not blocs:
         raise RuntimeError("Aucun fichier mensuel accessible - depot public ? branche correcte ?")
     df = pd.concat(blocs, ignore_index=True)
+    df["date"] = df["date"].astype(str)
+    url = GABARIT.format(u=utilisateur, d=depot, m="").replace("ohlcv-.csv.gz", "ajustements.csv") \
+                 .replace("/main/", f"/{branche}/")
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            adj = pd.read_csv(io.BytesIO(r.read()), dtype={"ticker": str, "avant": str})
+        df = ajustements.appliquer(df, adj)
+    except Exception:                                           # noqa: BLE001
+        pass                                                    # pas encore d'ajustement
     return df.sort_values(["ticker", "date"]).reset_index(drop=True)
 
 

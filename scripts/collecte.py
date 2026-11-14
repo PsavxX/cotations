@@ -17,9 +17,12 @@ from datetime import date, datetime, timedelta, timezone
 import pandas as pd
 import yfinance as yf
 
+import ajustements
+
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UNIVERS = os.path.join(RACINE, "tickers", "univers.csv")
 DOSSIER = os.path.join(RACINE, "data")
+AJUSTEMENTS = os.path.join(DOSSIER, "ajustements.csv")
 COLONNES = ["date", "ticker", "open", "high", "low", "close", "volume"]
 LOT = 40                      # tickers par requete yfinance
 PAUSE = 1.2                   # secondes entre deux lots, pour rester courtois
@@ -100,6 +103,30 @@ def fichier_mois(mois):
     return os.path.join(DOSSIER, f"ohlcv-{mois}.csv.gz")
 
 
+def lignes_stockees(debut):
+    """Lignes deja stockees a partir de debut (brutes, sans ajustement)."""
+    if not os.path.isdir(DOSSIER):
+        return pd.DataFrame(columns=COLONNES)
+    blocs = []
+    for f in sorted(os.listdir(DOSSIER)):
+        if f.startswith("ohlcv-") and f[6:13] >= debut[:7]:
+            b = pd.read_csv(os.path.join(DOSSIER, f), dtype={"date": str, "ticker": str})
+            blocs.append(b[b["date"] >= debut])
+    return pd.concat(blocs, ignore_index=True) if blocs else pd.DataFrame(columns=COLONNES)
+
+
+def mettre_a_jour_ajustements(df, debut):
+    """Detecte les reajustements Yahoo (splits, dividendes) sur les jours deja stockes."""
+    adj, detectes = ajustements.detecter(lignes_stockees(debut), df, debut,
+                                         ajustements.lire(AJUSTEMENTS), date.today().isoformat())
+    os.makedirs(DOSSIER, exist_ok=True)
+    adj.to_csv(AJUSTEMENTS, index=False)
+    if detectes:
+        print(f"{len(detectes)} reajustement(s) enregistre(s) : " +
+              ", ".join(f"{d['ticker']} x{d['ratio']:.4f}" for d in detectes[:12]) +
+              (" ..." if len(detectes) > 12 else ""))
+
+
 def fusionner(df):
     """Ecrit chaque mois concerne, en fusionnant avec l'existant (les nouvelles
     lignes remplacent les anciennes sur le couple date+ticker)."""
@@ -153,6 +180,7 @@ def main():
         print("Aucune donnee recuperee.", file=sys.stderr)
         sys.exit(1)
 
+    mettre_a_jour_ajustements(df, debut)
     ecrits = fusionner(df)
     ecrire_index(echecs)
     print(f"\n{len(df)} lignes collectees, {df.ticker.nunique()} valeurs distinctes")
