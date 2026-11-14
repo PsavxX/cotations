@@ -19,27 +19,27 @@ Correlation de rang (Spearman). Une valeur de +0,02 a +0,05 sur des centaines de
 
 | Perimetre | Observations | Sens correct | Rendement du pari | Rendement relatif au marche |
 |---|---|---|---|---|
-| Surete 8-10 · hausse | 249 105 | 53,6 % | +0,17 % | **-0,08 %** |
-| Surete 8-10 · baisse | 146 228 | 43,1 % | -0,40 % | **-0,01 %** |
-| Surete 6-7 · hausse | 315 475 | 53,7 % | +0,20 % | **-0,05 %** |
+| Surete 8-10 · hausse | 249 103 | 53,6 % | +0,17 % | **-0,08 %** |
+| Surete 8-10 · baisse | 146 229 | 43,1 % | -0,40 % | **-0,01 %** |
+| Surete 6-7 · hausse | 315 478 | 53,7 % | +0,20 % | **-0,05 %** |
 | Surete 6-7 · baisse | 215 999 | 44,6 % | -0,32 % | **+0,00 %** |
-| Surete 4-5 · hausse | 362 172 | 53,5 % | +0,24 % | **-0,03 %** |
+| Surete 4-5 · hausse | 362 173 | 53,5 % | +0,24 % | **-0,03 %** |
 | Surete 4-5 · baisse | 317 854 | 45,3 % | -0,35 % | **-0,02 %** |
 | Surete 1-3 · hausse | 328 060 | 53,2 % | +0,31 % | **-0,02 %** |
-| Surete 1-3 · baisse | 317 271 | 45,3 % | -0,52 % | **-0,14 %** |
+| Surete 1-3 · baisse | 317 268 | 45,3 % | -0,52 % | **-0,14 %** |
 
 ### A 10 seances
 
 | Perimetre | Observations | Sens correct | Rendement du pari | Rendement relatif au marche |
 |---|---|---|---|---|
-| Surete 8-10 · hausse | 247 986 | 55,0 % | +0,39 % | **-0,11 %** |
-| Surete 8-10 · baisse | 146 107 | 42,1 % | -0,76 % | **+0,01 %** |
-| Surete 6-7 · hausse | 314 774 | 54,9 % | +0,42 % | **-0,10 %** |
+| Surete 8-10 · hausse | 247 984 | 55,0 % | +0,39 % | **-0,11 %** |
+| Surete 8-10 · baisse | 146 108 | 42,1 % | -0,76 % | **+0,01 %** |
+| Surete 6-7 · hausse | 314 777 | 54,9 % | +0,42 % | **-0,10 %** |
 | Surete 6-7 · baisse | 215 725 | 43,3 % | -0,62 % | **+0,00 %** |
-| Surete 4-5 · hausse | 361 613 | 54,6 % | +0,46 % | **-0,06 %** |
+| Surete 4-5 · hausse | 361 614 | 54,6 % | +0,46 % | **-0,06 %** |
 | Surete 4-5 · baisse | 317 392 | 44,2 % | -0,67 % | **-0,03 %** |
 | Surete 1-3 · hausse | 327 690 | 54,5 % | +0,69 % | **+0,04 %** |
-| Surete 1-3 · baisse | 316 937 | 44,3 % | -0,93 % | **-0,19 %** |
+| Surete 1-3 · baisse | 316 934 | 44,3 % | -0,93 % | **-0,19 %** |
 
 Si la note vaut quelque chose, le rendement relatif doit **augmenter avec elle**. S'il est plat ou inverse, la note ne mesure pas ce qu'elle pretend.
 
@@ -113,8 +113,8 @@ Regles du scan : note ≥ 6, au plus 3 valeurs par secteur, 10 par cote. Dates e
 
 | Perimetre | Observations | Sens correct | Rendement du pari | Rendement relatif au marche |
 |---|---|---|---|---|
-| Hausse, note ≥ 6, RSI > 70 (5 seances) | 148 200 | 52,1 % | +0,07 % | **-0,07 %** |
-| Hausse, note ≥ 6, RSI ≤ 70 (5 seances) | 416 380 | 54,2 % | +0,23 % | **-0,06 %** |
+| Hausse, note ≥ 6, RSI > 70 (5 seances) | 148 202 | 52,1 % | +0,07 % | **-0,07 %** |
+| Hausse, note ≥ 6, RSI ≤ 70 (5 seances) | 416 379 | 54,2 % | +0,23 % | **-0,06 %** |
 
 ## Limites de ce test
 

@@ -1,0 +1,113 @@
+{
+ "version": 1,
+ "empreinte": "f38e0688ad",
+ "debut_test": "2026-11-16",
+ "donnees_jusqua": "2026-11-13",
+ "regles": {
+  "version": 1,
+  "fige_le": "2026-11-14",
+  "capital": 10000.0,
+  "frais_par_ordre": 0.0015,
+  "execution": "décision à la clôture d'une séance, exécution à la clôture de la suivante",
+  "eligibilite": {
+   "historique_min": 260,
+   "capitaux_min_40j": 5000000.0,
+   "saut_max_252j": 0.6
+  },
+  "strategies": {
+   "moteur": {
+    "nom": "Moteur actuel",
+    "frequence": 10,
+    "lignes": 10,
+    "selection": "scan publié côté hausse (sûreté >= 6, 3 par secteur), 10 % par ligne"
+   },
+   "momentum": {
+    "nom": "Momentum",
+    "frequence": 21,
+    "lignes": 20,
+    "plafond_secteur": 4,
+    "poids_max": 0.1,
+    "classement": "moyenne des rangs (dans la zone) de la hausse 12 mois et 6 mois, hors dernier mois",
+    "poids": "inverse de la volatilité 60 j",
+    "filtre_marche": false
+   },
+   "momentum_filtre": {
+    "nom": "Momentum + filtre",
+    "frequence": 21,
+    "lignes": 20,
+    "plafond_secteur": 4,
+    "poids_max": 0.1,
+    "filtre_marche": true,
+    "mm_filtre": 200
+   }
+  },
+  "reference": "univers entier à poids égaux, réajusté chaque jour, sans frais"
+ },
+ "simulation": {
+  "moteur": {
+   "depuis": "2016-01-13",
+   "jusqua": "2026-11-13",
+   "valeur": 27142.605006375034,
+   "total": 1.7142605006375033,
+   "annuel": 0.09654916160197113,
+   "annuel_ref": 0.17585458404510446,
+   "ecart_annuel": -0.07930542244313332,
+   "volatilite": 0.1523765512312654,
+   "pire_baisse": -0.2432909464246399,
+   "pire_baisse_ref": -0.3718517356569425,
+   "mois": 130,
+   "mois_gagnants": 0.38461538461538464,
+   "t_mensuel": -1.839488236651744,
+   "annualise": true
+  },
+  "momentum": {
+   "depuis": "2016-01-13",
+   "jusqua": "2026-11-13",
+   "valeur": 79115.61188218079,
+   "total": 6.911561188218079,
+   "annuel": 0.21035812712589186,
+   "annuel_ref": 0.17585458404510446,
+   "ecart_annuel": 0.0345035430807874,
+   "volatilite": 0.2142491402245897,
+   "pire_baisse": -0.39875735892546826,
+   "pire_baisse_ref": -0.3718517356569425,
+   "mois": 130,
+   "mois_gagnants": 0.5153846153846153,
+   "t_mensuel": 1.0147928447782242,
+   "annualise": true
+  },
+  "momentum_filtre": {
+   "depuis": "2016-01-13",
+   "jusqua": "2026-11-13",
+   "valeur": 61141.90979497633,
+   "total": 5.114190979497633,
+   "annuel": 0.1819057500497805,
+   "annuel_ref": 0.17585458404510446,
+   "ecart_annuel": 0.006051166004676034,
+   "volatilite": 0.18374047970506088,
+   "pire_baisse": -0.3200475766775164,
+   "pire_baisse_ref": -0.3718517356569425,
+   "mois": 130,
+   "mois_gagnants": 0.5,
+   "t_mensuel": 0.18007667856557671,
+   "annualise": true
+  },
+  "marche": {
+   "depuis": "2016-01-13",
+   "jusqua": "2026-11-13",
+   "valeur": 57834.669348465904,
+   "total": 4.78346693484659,
+   "annuel": 0.17585458404510446,
+   "annuel_ref": 0.17585458404510446,
+   "ecart_annuel": 0.0,
+   "volatilite": 0.16057803848386504,
+   "pire_baisse": -0.3718517356569425,
+   "pire_baisse_ref": -0.3718517356569425,
+   "mois": 130,
+   "mois_gagnants": 0.0,
+   "t_mensuel": NaN,
+   "annualise": true
+  }
+ },
+ "direct": null
+}
