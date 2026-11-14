@@ -56,6 +56,10 @@ jobs:
       - name: Backtest
         run: python algo/backtest.py
 
+      # Portefeuille fictif : aucun ordre reel, regles figees (voir algo/portefeuille.py).
+      - name: Portefeuille fictif
+        run: python algo/portefeuille.py
+
       # Toujours publier ce qui a ete produit, meme si une etape de l'algorithme a echoue :
       # les cotations collectees ne doivent jamais etre perdues.
       - name: Publier
@@ -70,5 +74,7 @@ jobs:
             echo "Rien de nouveau."
           else
             git commit -m "Cotations et scan du $(date -u +%Y-%m-%d)"
+            # si le depot a bouge pendant l'execution (fichier modifie a la main), on se recale
+            git pull --rebase
             git push
           fi
