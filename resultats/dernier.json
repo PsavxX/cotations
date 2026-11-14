@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "genere_le": "2026-11-13T23:28:20+00:00",
+ "genere_le": "2026-11-14T00:56:30+00:00",
  "horizon": "5 a 10 seances",
  "valeurs_analysees": 788,
  "regles": {
@@ -19,11 +19,11 @@
  "distribution_surete": {
   "10": 3,
   "9": 43,
-  "8": 98,
-  "7": 101,
-  "6": 90,
-  "5": 100,
-  "4": 117,
+  "8": 99,
+  "7": 100,
+  "6": 91,
+  "5": 98,
+  "4": 118,
   "3": 126,
   "2": 102,
   "1": 8
@@ -515,24 +515,24 @@
    "prix": 134.37,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.5192,
-   "score_tech": -0.5192,
+   "score_final": -0.5027,
+   "score_tech": -0.5027,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -0.34,
-   "var20": -8.8,
-   "rsi": 42.0,
-   "r2": 0.797,
-   "vol_j": 2.05,
+   "var20": -8.47,
+   "rsi": 42.4,
+   "r2": 0.773,
+   "vol_j": 2.03,
    "signaux": {
-    "tendance_mm": -0.582,
-    "croisement_mm": -0.702,
-    "momentum": -0.362,
-    "rsi": -0.37,
-    "macd": -0.677,
+    "tendance_mm": -0.566,
+    "croisement_mm": -0.638,
+    "momentum": -0.346,
+    "rsi": -0.362,
+    "macd": -0.7,
     "volume": 0.08,
-    "position_40s": -0.427,
-    "pente": -0.862
+    "position_40s": -0.38,
+    "pente": -0.842
    }
   },
   {

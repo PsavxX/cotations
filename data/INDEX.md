@@ -1,9 +1,117 @@
 # Index des donnees collectees
 
-Derniere mise a jour : 2026-11-13T23:28:10+00:00
+Derniere mise a jour : 2026-11-14T00:56:19+00:00
 
 | Fichier | Lignes |
 |---|---|
+| `ohlcv-2015-01.csv.gz` | 14664 |
+| `ohlcv-2015-02.csv.gz` | 14009 |
+| `ohlcv-2015-03.csv.gz` | 15929 |
+| `ohlcv-2015-04.csv.gz` | 14942 |
+| `ohlcv-2015-05.csv.gz` | 14353 |
+| `ohlcv-2015-06.csv.gz` | 15955 |
+| `ohlcv-2015-07.csv.gz` | 16310 |
+| `ohlcv-2015-08.csv.gz` | 15295 |
+| `ohlcv-2015-09.csv.gz` | 15599 |
+| `ohlcv-2015-10.csv.gz` | 16074 |
+| `ohlcv-2015-11.csv.gz` | 14937 |
+| `ohlcv-2015-12.csv.gz` | 15858 |
+| `ohlcv-2016-01.csv.gz` | 14233 |
+| `ohlcv-2016-02.csv.gz` | 14993 |
+| `ohlcv-2016-03.csv.gz` | 15903 |
+| `ohlcv-2016-04.csv.gz` | 15448 |
+| `ohlcv-2016-05.csv.gz` | 15522 |
+| `ohlcv-2016-06.csv.gz` | 16169 |
+| `ohlcv-2016-07.csv.gz` | 15033 |
+| `ohlcv-2016-08.csv.gz` | 16915 |
+| `ohlcv-2016-09.csv.gz` | 15801 |
+| `ohlcv-2016-10.csv.gz` | 15528 |
+| `ohlcv-2016-11.csv.gz` | 15856 |
+| `ohlcv-2016-12.csv.gz` | 15538 |
+| `ohlcv-2017-01.csv.gz` | 15312 |
+| `ohlcv-2017-02.csv.gz` | 14391 |
+| `ohlcv-2017-03.csv.gz` | 17089 |
+| `ohlcv-2017-04.csv.gz` | 13850 |
+| `ohlcv-2017-05.csv.gz` | 16293 |
+| `ohlcv-2017-06.csv.gz` | 16381 |
+| `ohlcv-2017-07.csv.gz` | 15216 |
+| `ohlcv-2017-08.csv.gz` | 17111 |
+| `ohlcv-2017-09.csv.gz` | 15216 |
+| `ohlcv-2017-10.csv.gz` | 16434 |
+| `ohlcv-2017-11.csv.gz` | 15963 |
+| `ohlcv-2017-12.csv.gz` | 14655 |
+| `ohlcv-2018-01.csv.gz` | 15967 |
+| `ohlcv-2018-02.csv.gz` | 14488 |
+| `ohlcv-2018-03.csv.gz` | 15691 |
+| `ohlcv-2018-04.csv.gz` | 15423 |
+| `ohlcv-2018-05.csv.gz` | 16320 |
+| `ohlcv-2018-06.csv.gz` | 15713 |
+| `ohlcv-2018-07.csv.gz` | 16028 |
+| `ohlcv-2018-08.csv.gz` | 17202 |
+| `ohlcv-2018-09.csv.gz` | 14530 |
+| `ohlcv-2018-10.csv.gz` | 17242 |
+| `ohlcv-2018-11.csv.gz` | 16049 |
+| `ohlcv-2018-12.csv.gz` | 14058 |
+| `ohlcv-2019-01.csv.gz` | 16053 |
+| `ohlcv-2019-02.csv.gz` | 14566 |
+| `ohlcv-2019-03.csv.gz` | 15827 |
+| `ohlcv-2019-04.csv.gz` | 15575 |
+| `ohlcv-2019-05.csv.gz` | 16539 |
+| `ohlcv-2019-06.csv.gz` | 15021 |
+| `ohlcv-2019-07.csv.gz` | 16977 |
+| `ohlcv-2019-08.csv.gz` | 16610 |
+| `ohlcv-2019-09.csv.gz` | 15481 |
+| `ohlcv-2019-10.csv.gz` | 17492 |
+| `ohlcv-2019-11.csv.gz` | 15521 |
+| `ohlcv-2019-12.csv.gz` | 15604 |
+| `ohlcv-2020-01.csv.gz` | 16239 |
+| `ohlcv-2020-02.csv.gz` | 14759 |
+| `ohlcv-2020-03.csv.gz` | 16782 |
+| `ohlcv-2020-04.csv.gz` | 15746 |
+| `ohlcv-2020-05.csv.gz` | 15175 |
+| `ohlcv-2020-06.csv.gz` | 16707 |
+| `ohlcv-2020-07.csv.gz` | 17089 |
+| `ohlcv-2020-08.csv.gz` | 16009 |
+| `ohlcv-2020-09.csv.gz` | 16326 |
+| `ohlcv-2020-10.csv.gz` | 16830 |
+| `ohlcv-2020-11.csv.gz` | 15581 |
+| `ohlcv-2020-12.csv.gz` | 16625 |
+| `ohlcv-2021-01.csv.gz` | 14848 |
+| `ohlcv-2021-02.csv.gz` | 14895 |
+| `ohlcv-2021-03.csv.gz` | 17710 |
+| `ohlcv-2021-04.csv.gz` | 15886 |
+| `ohlcv-2021-05.csv.gz` | 15509 |
+| `ohlcv-2021-06.csv.gz` | 16958 |
+| `ohlcv-2021-07.csv.gz` | 16496 |
+| `ohlcv-2021-08.csv.gz` | 16971 |
+| `ohlcv-2021-09.csv.gz` | 16516 |
+| `ohlcv-2021-10.csv.gz` | 16244 |
+| `ohlcv-2021-11.csv.gz` | 16538 |
+| `ohlcv-2021-12.csv.gz` | 16979 |
+| `ohlcv-2022-01.csv.gz` | 15712 |
+| `ohlcv-2022-02.csv.gz` | 15009 |
+| `ohlcv-2022-03.csv.gz` | 17825 |
+| `ohlcv-2022-04.csv.gz` | 15199 |
+| `ohlcv-2022-05.csv.gz` | 16437 |
+| `ohlcv-2022-06.csv.gz` | 16411 |
+| `ohlcv-2022-07.csv.gz` | 15784 |
+| `ohlcv-2022-08.csv.gz` | 17754 |
+| `ohlcv-2022-09.csv.gz` | 16524 |
+| `ohlcv-2022-10.csv.gz` | 16275 |
+| `ohlcv-2022-11.csv.gz` | 16559 |
+| `ohlcv-2022-12.csv.gz` | 16242 |
+| `ohlcv-2023-01.csv.gz` | 16009 |
+| `ohlcv-2023-02.csv.gz` | 15028 |
+| `ohlcv-2023-03.csv.gz` | 17848 |
+| `ohlcv-2023-04.csv.gz` | 14463 |
+| `ohlcv-2023-05.csv.gz` | 16933 |
+| `ohlcv-2023-06.csv.gz` | 16572 |
+| `ohlcv-2023-07.csv.gz` | 15846 |
+| `ohlcv-2023-08.csv.gz` | 17823 |
+| `ohlcv-2023-09.csv.gz` | 15846 |
+| `ohlcv-2023-10.csv.gz` | 17136 |
+| `ohlcv-2023-11.csv.gz` | 16645 |
+| `ohlcv-2023-12.csv.gz` | 15285 |
 | `ohlcv-2024-01.csv.gz` | 16627 |
 | `ohlcv-2024-02.csv.gz` | 15887 |
 | `ohlcv-2024-03.csv.gz` | 15594 |
@@ -40,8 +148,8 @@ Derniere mise a jour : 2026-11-13T23:28:10+00:00
 | `ohlcv-2026-10.csv.gz` | 17358 |
 | `ohlcv-2026-11.csv.gz` | 7635 |
 
-Tickers sans donnee a la derniere execution (14) :
+Tickers sans donnee a la derniere execution (11) :
 
 ```
-ALD.PA, CGG.PA, DPW.DE, EDF.PA, FDJ.PA, KVUE, NEOEN.PA, ORP.PA, POM.PA, PSKY, ROG.SW, TKTT.PA, TKWY.AS, WBD
+ALD.PA, CGG.PA, DPW.DE, EDF.PA, FDJ.PA, NEOEN.PA, ORP.PA, POM.PA, ROG.SW, TKTT.PA, TKWY.AS
 ```

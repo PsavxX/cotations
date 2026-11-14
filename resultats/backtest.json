@@ -1,254 +1,470 @@
 {
  "periode": [
-  "2024-02-26",
+  "2015-02-26",
   "2026-11-13"
  ],
  "valeurs": 788,
- "observations": 536769,
+ "observations": 2256104,
  "par_horizon": {
   "1": {
-   "n": 535981,
-   "corr": -0.0155,
-   "corr_relatif": -0.0096,
-   "derive": 0.082
+   "n": 2255316,
+   "corr": -0.0179,
+   "corr_relatif": -0.0097,
+   "derive": 0.064
   },
   "3": {
-   "n": 534405,
-   "corr": -0.0188,
-   "corr_relatif": -0.007,
-   "derive": 0.23
+   "n": 2253740,
+   "corr": -0.0223,
+   "corr_relatif": -0.012,
+   "derive": 0.188
   },
   "5": {
-   "n": 532829,
-   "corr": -0.0214,
-   "corr_relatif": -0.0057,
-   "derive": 0.374
+   "n": 2252164,
+   "corr": -0.0252,
+   "corr_relatif": -0.0126,
+   "derive": 0.31
   },
   "10": {
-   "n": 528889,
-   "corr": -0.0231,
-   "corr_relatif": 0.0028,
-   "derive": 0.716
+   "n": 2248224,
+   "corr": -0.0278,
+   "corr_relatif": -0.0118,
+   "derive": 0.612
   }
  },
  "par_surete": {
   "5": {
    "Surete 8-10 hausse": {
-    "n": 59188,
-    "sens_correct": 52.4,
-    "pari": 0.154,
-    "pari_relatif": -0.07
+    "n": 249105,
+    "sens_correct": 53.6,
+    "pari": 0.172,
+    "pari_relatif": -0.078
    },
    "Surete 8-10 baisse": {
-    "n": 37298,
-    "sens_correct": 44.9,
-    "pari": -0.383,
-    "pari_relatif": 0.134
+    "n": 146228,
+    "sens_correct": 43.1,
+    "pari": -0.403,
+    "pari_relatif": -0.006
    },
    "Surete 6-7 hausse": {
-    "n": 71752,
-    "sens_correct": 52.7,
-    "pari": 0.208,
-    "pari_relatif": -0.065
+    "n": 315475,
+    "sens_correct": 53.7,
+    "pari": 0.202,
+    "pari_relatif": -0.05
    },
    "Surete 6-7 baisse": {
-    "n": 52297,
-    "sens_correct": 45.0,
-    "pari": -0.392,
-    "pari_relatif": 0.151
+    "n": 215999,
+    "sens_correct": 44.6,
+    "pari": -0.317,
+    "pari_relatif": 0.004
    },
    "Surete 4-5 hausse": {
-    "n": 83428,
-    "sens_correct": 53.3,
-    "pari": 0.305,
-    "pari_relatif": -0.041
+    "n": 362172,
+    "sens_correct": 53.5,
+    "pari": 0.237,
+    "pari_relatif": -0.029
    },
    "Surete 4-5 baisse": {
-    "n": 77118,
-    "sens_correct": 45.6,
-    "pari": -0.421,
-    "pari_relatif": 0.007
+    "n": 317854,
+    "sens_correct": 45.3,
+    "pari": -0.354,
+    "pari_relatif": -0.024
    },
    "Surete 1-3 hausse": {
-    "n": 76674,
-    "sens_correct": 53.0,
-    "pari": 0.349,
-    "pari_relatif": -0.047
+    "n": 328060,
+    "sens_correct": 53.2,
+    "pari": 0.314,
+    "pari_relatif": -0.02
    },
    "Surete 1-3 baisse": {
-    "n": 75074,
-    "sens_correct": 46.3,
-    "pari": -0.742,
-    "pari_relatif": -0.389
+    "n": 317271,
+    "sens_correct": 45.3,
+    "pari": -0.516,
+    "pari_relatif": -0.14
    }
   },
   "10": {
    "Surete 8-10 hausse": {
-    "n": 58073,
-    "sens_correct": 53.3,
-    "pari": 0.41,
-    "pari_relatif": -0.053
+    "n": 247986,
+    "sens_correct": 55.0,
+    "pari": 0.393,
+    "pari_relatif": -0.114
    },
    "Surete 8-10 baisse": {
-    "n": 37177,
-    "sens_correct": 43.2,
-    "pari": -0.923,
-    "pari_relatif": 0.16
+    "n": 146107,
+    "sens_correct": 42.1,
+    "pari": -0.761,
+    "pari_relatif": 0.009
    },
    "Surete 6-7 hausse": {
-    "n": 71048,
-    "sens_correct": 53.3,
-    "pari": 0.452,
-    "pari_relatif": -0.068
+    "n": 314774,
+    "sens_correct": 54.9,
+    "pari": 0.416,
+    "pari_relatif": -0.097
    },
    "Surete 6-7 baisse": {
-    "n": 52023,
-    "sens_correct": 43.7,
-    "pari": -0.814,
-    "pari_relatif": 0.235
+    "n": 215725,
+    "sens_correct": 43.3,
+    "pari": -0.624,
+    "pari_relatif": 0.0
    },
    "Surete 4-5 hausse": {
-    "n": 82868,
-    "sens_correct": 53.7,
-    "pari": 0.54,
-    "pari_relatif": -0.064
+    "n": 361613,
+    "sens_correct": 54.6,
+    "pari": 0.456,
+    "pari_relatif": -0.058
    },
    "Surete 4-5 baisse": {
-    "n": 76655,
-    "sens_correct": 45.1,
-    "pari": -0.721,
-    "pari_relatif": 0.149
+    "n": 317392,
+    "sens_correct": 44.2,
+    "pari": -0.671,
+    "pari_relatif": -0.025
    },
    "Surete 1-3 hausse": {
-    "n": 76304,
-    "sens_correct": 53.5,
-    "pari": 0.727,
-    "pari_relatif": 0.045
+    "n": 327690,
+    "sens_correct": 54.5,
+    "pari": 0.691,
+    "pari_relatif": 0.037
    },
    "Surete 1-3 baisse": {
-    "n": 74741,
-    "sens_correct": 46.2,
-    "pari": -1.211,
-    "pari_relatif": -0.526
+    "n": 316937,
+    "sens_correct": 44.3,
+    "pari": -0.934,
+    "pari_relatif": -0.193
    }
   }
  },
  "selection": {
   "5": {
-   "dates": 137,
+   "dates": 590,
    "Hausse": {
-    "n": 1357,
-    "sens_correct": 55.0,
-    "pari": 0.272,
-    "pari_relatif": -0.167
+    "n": 5800,
+    "sens_correct": 53.3,
+    "pari": 0.228,
+    "pari_relatif": -0.073
+   },
+   "Hausse 2015": {
+    "n": 416,
+    "sens_correct": 49.5,
+    "pari": 0.005,
+    "pari_relatif": 0.073
+   },
+   "Hausse 2016": {
+    "n": 493,
+    "sens_correct": 57.2,
+    "pari": 0.36,
+    "pari_relatif": -0.106
+   },
+   "Hausse 2017": {
+    "n": 510,
+    "sens_correct": 55.3,
+    "pari": 0.675,
+    "pari_relatif": 0.128
+   },
+   "Hausse 2018": {
+    "n": 494,
+    "sens_correct": 51.0,
+    "pari": -0.186,
+    "pari_relatif": -0.07
+   },
+   "Hausse 2019": {
+    "n": 500,
+    "sens_correct": 54.2,
+    "pari": 0.247,
+    "pari_relatif": -0.28
+   },
+   "Hausse 2020": {
+    "n": 471,
+    "sens_correct": 54.1,
+    "pari": 0.611,
+    "pari_relatif": 0.148
+   },
+   "Hausse 2021": {
+    "n": 500,
+    "sens_correct": 55.4,
+    "pari": 0.333,
+    "pari_relatif": -0.176
+   },
+   "Hausse 2022": {
+    "n": 480,
+    "sens_correct": 48.8,
+    "pari": -0.244,
+    "pari_relatif": 0.028
+   },
+   "Hausse 2023": {
+    "n": 499,
+    "sens_correct": 51.9,
+    "pari": 0.264,
+    "pari_relatif": -0.114
    },
    "Hausse 2024": {
-    "n": 430,
-    "sens_correct": 60.0,
-    "pari": 0.556,
-    "pari_relatif": -0.166
+    "n": 510,
+    "sens_correct": 57.5,
+    "pari": 0.539,
+    "pari_relatif": -0.035
    },
    "Hausse 2025": {
     "n": 497,
-    "sens_correct": 53.5,
-    "pari": 0.031,
-    "pari_relatif": -0.314
+    "sens_correct": 51.1,
+    "pari": -0.137,
+    "pari_relatif": -0.415
    },
    "Hausse 2026": {
     "n": 430,
-    "sens_correct": 51.9,
-    "pari": 0.264,
-    "pari_relatif": 0.003
+    "sens_correct": 52.1,
+    "pari": 0.205,
+    "pari_relatif": -0.019
    },
    "Baisse": {
-    "n": 1352,
-    "sens_correct": 46.5,
-    "pari": -0.297,
-    "pari_relatif": 0.138
+    "n": 5782,
+    "sens_correct": 45.9,
+    "pari": -0.377,
+    "pari_relatif": -0.063
+   },
+   "Baisse 2015": {
+    "n": 430,
+    "sens_correct": 47.4,
+    "pari": 0.099,
+    "pari_relatif": 0.092
+   },
+   "Baisse 2016": {
+    "n": 470,
+    "sens_correct": 41.5,
+    "pari": -0.953,
+    "pari_relatif": -0.489
+   },
+   "Baisse 2017": {
+    "n": 510,
+    "sens_correct": 40.8,
+    "pari": -0.615,
+    "pari_relatif": -0.097
+   },
+   "Baisse 2018": {
+    "n": 500,
+    "sens_correct": 50.6,
+    "pari": 0.309,
+    "pari_relatif": 0.303
+   },
+   "Baisse 2019": {
+    "n": 500,
+    "sens_correct": 43.4,
+    "pari": -0.639,
+    "pari_relatif": -0.077
+   },
+   "Baisse 2020": {
+    "n": 457,
+    "sens_correct": 45.7,
+    "pari": -0.556,
+    "pari_relatif": -0.205
+   },
+   "Baisse 2021": {
+    "n": 500,
+    "sens_correct": 44.4,
+    "pari": -0.807,
+    "pari_relatif": -0.24
+   },
+   "Baisse 2022": {
+    "n": 486,
+    "sens_correct": 51.6,
+    "pari": 0.275,
+    "pari_relatif": 0.058
+   },
+   "Baisse 2023": {
+    "n": 498,
+    "sens_correct": 43.0,
+    "pari": -0.765,
+    "pari_relatif": -0.394
    },
    "Baisse 2024": {
-    "n": 426,
-    "sens_correct": 45.5,
-    "pari": -0.276,
-    "pari_relatif": 0.294
+    "n": 507,
+    "sens_correct": 48.5,
+    "pari": -0.355,
+    "pari_relatif": 0.051
    },
    "Baisse 2025": {
-    "n": 496,
-    "sens_correct": 48.8,
-    "pari": -0.178,
-    "pari_relatif": 0.158
+    "n": 494,
+    "sens_correct": 47.6,
+    "pari": -0.188,
+    "pari_relatif": 0.159
    },
    "Baisse 2026": {
     "n": 430,
-    "sens_correct": 44.9,
-    "pari": -0.454,
-    "pari_relatif": -0.04
+    "sens_correct": 47.0,
+    "pari": -0.271,
+    "pari_relatif": 0.091
    }
   },
   "10": {
-   "dates": 69,
+   "dates": 295,
    "Hausse": {
-    "n": 677,
-    "sens_correct": 53.9,
-    "pari": 0.648,
-    "pari_relatif": -0.011
+    "n": 2896,
+    "sens_correct": 55.4,
+    "pari": 0.498,
+    "pari_relatif": -0.112
+   },
+   "Hausse 2015": {
+    "n": 215,
+    "sens_correct": 44.7,
+    "pari": -0.455,
+    "pari_relatif": 0.038
+   },
+   "Hausse 2016": {
+    "n": 250,
+    "sens_correct": 60.8,
+    "pari": 0.867,
+    "pari_relatif": -0.333
+   },
+   "Hausse 2017": {
+    "n": 250,
+    "sens_correct": 63.2,
+    "pari": 1.429,
+    "pari_relatif": 0.335
+   },
+   "Hausse 2018": {
+    "n": 248,
+    "sens_correct": 52.4,
+    "pari": 0.272,
+    "pari_relatif": 0.435
+   },
+   "Hausse 2019": {
+    "n": 250,
+    "sens_correct": 57.2,
+    "pari": 0.319,
+    "pari_relatif": -0.829
+   },
+   "Hausse 2020": {
+    "n": 237,
+    "sens_correct": 54.9,
+    "pari": 1.254,
+    "pari_relatif": 0.376
+   },
+   "Hausse 2021": {
+    "n": 250,
+    "sens_correct": 55.2,
+    "pari": 0.119,
+    "pari_relatif": -0.779
+   },
+   "Hausse 2022": {
+    "n": 239,
+    "sens_correct": 51.5,
+    "pari": -0.074,
+    "pari_relatif": 0.136
+   },
+   "Hausse 2023": {
+    "n": 250,
+    "sens_correct": 54.0,
+    "pari": 0.53,
+    "pari_relatif": -0.174
    },
    "Hausse 2024": {
-    "n": 220,
-    "sens_correct": 53.2,
-    "pari": 0.94,
-    "pari_relatif": -0.006
+    "n": 250,
+    "sens_correct": 63.6,
+    "pari": 1.378,
+    "pari_relatif": 0.381
    },
    "Hausse 2025": {
     "n": 247,
-    "sens_correct": 57.1,
-    "pari": 0.861,
-    "pari_relatif": 0.28
+    "sens_correct": 59.1,
+    "pari": 0.382,
+    "pari_relatif": -0.212
    },
    "Hausse 2026": {
     "n": 210,
-    "sens_correct": 51.0,
-    "pari": 0.093,
-    "pari_relatif": -0.359
+    "sens_correct": 44.3,
+    "pari": -0.292,
+    "pari_relatif": -0.758
    },
    "Baisse": {
-    "n": 680,
-    "sens_correct": 47.2,
-    "pari": -0.56,
-    "pari_relatif": 0.2
+    "n": 2876,
+    "sens_correct": 44.5,
+    "pari": -0.571,
+    "pari_relatif": 0.028
+   },
+   "Baisse 2015": {
+    "n": 220,
+    "sens_correct": 50.5,
+    "pari": 1.065,
+    "pari_relatif": 0.817
+   },
+   "Baisse 2016": {
+    "n": 235,
+    "sens_correct": 37.9,
+    "pari": -1.782,
+    "pari_relatif": -0.605
+   },
+   "Baisse 2017": {
+    "n": 250,
+    "sens_correct": 38.0,
+    "pari": -1.341,
+    "pari_relatif": -0.323
+   },
+   "Baisse 2018": {
+    "n": 250,
+    "sens_correct": 44.0,
+    "pari": -0.106,
+    "pari_relatif": -0.054
+   },
+   "Baisse 2019": {
+    "n": 250,
+    "sens_correct": 36.8,
+    "pari": -1.397,
+    "pari_relatif": -0.302
+   },
+   "Baisse 2020": {
+    "n": 227,
+    "sens_correct": 43.2,
+    "pari": -0.791,
+    "pari_relatif": 0.071
+   },
+   "Baisse 2021": {
+    "n": 250,
+    "sens_correct": 42.0,
+    "pari": -1.093,
+    "pari_relatif": -0.141
+   },
+   "Baisse 2022": {
+    "n": 243,
+    "sens_correct": 46.5,
+    "pari": -0.005,
+    "pari_relatif": -0.298
+   },
+   "Baisse 2023": {
+    "n": 250,
+    "sens_correct": 44.8,
+    "pari": -0.474,
+    "pari_relatif": 0.077
    },
    "Baisse 2024": {
-    "n": 220,
-    "sens_correct": 43.6,
-    "pari": -0.703,
-    "pari_relatif": 0.115
+    "n": 247,
+    "sens_correct": 50.6,
+    "pari": -0.273,
+    "pari_relatif": 0.457
    },
    "Baisse 2025": {
-    "n": 250,
-    "sens_correct": 50.0,
-    "pari": -0.375,
-    "pari_relatif": 0.357
+    "n": 244,
+    "sens_correct": 54.1,
+    "pari": 0.04,
+    "pari_relatif": 0.563
    },
    "Baisse 2026": {
     "n": 210,
-    "sens_correct": 47.6,
-    "pari": -0.631,
-    "pari_relatif": 0.101
+    "sens_correct": 47.1,
+    "pari": -0.553,
+    "pari_relatif": 0.162
    }
   }
  },
  "h1": {
   "rsi_sup_70": {
-   "n": 35004,
-   "sens_correct": 51.6,
-   "pari": 0.135,
-   "pari_relatif": 0.005
+   "n": 148200,
+   "sens_correct": 52.1,
+   "pari": 0.069,
+   "pari_relatif": -0.067
   },
   "rsi_inf_70": {
-   "n": 95936,
-   "sens_correct": 52.9,
-   "pari": 0.202,
-   "pari_relatif": -0.093
+   "n": 416380,
+   "sens_correct": 54.2,
+   "pari": 0.232,
+   "pari_relatif": -0.061
   }
  }
 }
