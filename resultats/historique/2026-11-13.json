@@ -91,7 +91,7 @@
    "sens": "HAUSSE",
    "surete": 9,
    "prix": 1489.3,
-   "score_final": 0.7477
+   "score_final": 0.7494
   }
  ],
  "baisse": [
@@ -138,7 +138,7 @@
    "sens": "BAISSE",
    "surete": 8,
    "prix": 452.18,
-   "score_final": -0.6285
+   "score_final": -0.6257
   },
   {
    "ticker": "ZBRA",
@@ -156,7 +156,7 @@
    "sens": "BAISSE",
    "surete": 8,
    "prix": 217.84,
-   "score_final": -0.5228
+   "score_final": -0.5227
   },
   {
    "ticker": "TJX",
@@ -183,7 +183,7 @@
    "sens": "BAISSE",
    "surete": 7,
    "prix": 59.24,
-   "score_final": -0.5218
+   "score_final": -0.5219
   }
  ]
 }
