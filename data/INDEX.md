@@ -1,6 +1,6 @@
 # Index des donnees collectees
 
-Derniere mise a jour : 2026-11-14T01:55:51+00:00
+Derniere mise a jour : 2026-11-17T04:15:59+00:00
 
 | Fichier | Lignes |
 |---|---|
@@ -146,7 +146,7 @@ Derniere mise a jour : 2026-11-14T01:55:51+00:00
 | `ohlcv-2026-08.csv.gz` | 16516 |
 | `ohlcv-2026-09.csv.gz` | 16837 |
 | `ohlcv-2026-10.csv.gz` | 17358 |
-| `ohlcv-2026-11.csv.gz` | 7635 |
+| `ohlcv-2026-11.csv.gz` | 8399 |
 
 Tickers sans donnee a la derniere execution (14) :
 

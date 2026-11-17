@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-16",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 16.3,
+   "score_final": 0.7205
+  },
+  {
+   "ticker": "AMS.MC",
+   "nom": "Amadeus IT Group, S.A.",
+   "secteur": "Information Technology",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 62.16,
+   "score_final": 0.719
+  },
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 86.94,
+   "score_final": 0.8225
+  },
+  {
+   "ticker": "CBOE",
+   "nom": "Cboe Global Markets",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 377.5,
+   "score_final": 0.7975
+  },
+  {
+   "ticker": "COST",
+   "nom": "Costco",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 1113.74,
+   "score_final": 0.7931
+  },
+  {
+   "ticker": "ALV.DE",
+   "nom": "Allianz SE",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 477.2,
+   "score_final": 0.7893
+  },
+  {
+   "ticker": "CS.PA",
+   "nom": "AXA SA",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 47.1,
+   "score_final": 0.7858
+  },
+  {
+   "ticker": "ARGX.BR",
+   "nom": "argenx SE",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 878.4,
+   "score_final": 0.7807
+  },
+  {
+   "ticker": "ENGI.PA",
+   "nom": "Engie SA",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 25.28,
+   "score_final": 0.7558
+  },
+  {
+   "ticker": "EN.PA",
+   "nom": "Bouygues SA",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 44.3,
+   "score_final": 0.7344
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 432.72,
+   "score_final": -0.8053
+  },
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 79.99,
+   "score_final": -0.7922
+  },
+  {
+   "ticker": "TJX",
+   "nom": "TJX Companies",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 131.09,
+   "score_final": -0.6862
+  },
+  {
+   "ticker": "NVDA",
+   "nom": "Nvidia",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 156.14,
+   "score_final": -0.9086
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 37.81,
+   "score_final": -0.7981
+  },
+  {
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 320.13,
+   "score_final": -0.6658
+  },
+  {
+   "ticker": "FANG",
+   "nom": "Diamondback Energy",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 177.41,
+   "score_final": -0.6126
+  },
+  {
+   "ticker": "MAERSK-B.CO",
+   "nom": "A.P. Møller - Mærsk A/S",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 20460.0,
+   "score_final": -0.5512
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 214.83,
+   "score_final": -0.5415
+  },
+  {
+   "ticker": "FCX",
+   "nom": "Freeport-McMoRan",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 7,
+   "prix": 55.19,
+   "score_final": -0.7955
+  }
+ ]
+}
