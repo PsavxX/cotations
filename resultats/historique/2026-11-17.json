@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-17",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 87.76,
+   "score_final": 0.775
+  },
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 16.24,
+   "score_final": 0.7644
+  },
+  {
+   "ticker": "AMS.MC",
+   "nom": "Amadeus IT Group, S.A.",
+   "secteur": "Information Technology",
+   "sens": "HAUSSE",
+   "surete": 10,
+   "prix": 63.44,
+   "score_final": 0.7628
+  },
+  {
+   "ticker": "TSN",
+   "nom": "Tyson Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 63.65,
+   "score_final": 0.8668
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 349.86,
+   "score_final": 0.7831
+  },
+  {
+   "ticker": "COST",
+   "nom": "Costco",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 1110.08,
+   "score_final": 0.7515
+  },
+  {
+   "ticker": "AC.PA",
+   "nom": "Accor SA",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 52.76,
+   "score_final": 0.7394
+  },
+  {
+   "ticker": "ALV.DE",
+   "nom": "Allianz SE",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 475.2,
+   "score_final": 0.7355
+  },
+  {
+   "ticker": "EN.PA",
+   "nom": "Bouygues SA",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 44.66,
+   "score_final": 0.7345
+  },
+  {
+   "ticker": "ARGX.BR",
+   "nom": "argenx SE",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 877.6,
+   "score_final": 0.6962
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 433.97,
+   "score_final": -0.8049
+  },
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 79.43,
+   "score_final": -0.7652
+  },
+  {
+   "ticker": "ZBRA",
+   "nom": "Zebra Technologies",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 312.21,
+   "score_final": -0.7247
+  },
+  {
+   "ticker": "TJX",
+   "nom": "TJX Companies",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 129.85,
+   "score_final": -0.7196
+  },
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 288.41,
+   "score_final": -0.6546
+  },
+  {
+   "ticker": "NVDA",
+   "nom": "Nvidia",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 155.46,
+   "score_final": -0.9164
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 194.52,
+   "score_final": -0.8278
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 37.88,
+   "score_final": -0.7633
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 186.78,
+   "score_final": -0.7455
+  },
+  {
+   "ticker": "CARR",
+   "nom": "Carrier Global",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 51.32,
+   "score_final": -0.7202
+  }
+ ]
+}

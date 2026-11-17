@@ -1,6 +1,6 @@
 # Portefeuille fictif
 
-Règles **version 1**, figées le 2026-11-14 · empreinte `f38e0688ad` · données jusqu'au **2026-11-16**
+Règles **version 1**, figées le 2026-11-14 · empreinte `f38e0688ad` · données jusqu'au **2026-11-17**
 
 > Argent fictif : aucun ordre réel n'est passé. Frais de 0,15 % par ordre déduits. Rendements en devise locale (change ignoré). Univers = composition actuelle des indices : le passé est flatté (biais du survivant), surtout pour le momentum. Ce n'est pas un conseil en investissement.
 
@@ -10,33 +10,83 @@ Départ le 2026-11-16 avec 10 000 € par stratégie, sur des cours qui n'exista
 
 | Stratégie | Valeur | Rendement | Écart avec le marché | Pire baisse | Mois gagnants | t mensuel | Frais payés |
 |---|---|---|---|---|---|---|---|
-| Moteur actuel | 10 000 € | +0,0 % | **+0,0 %** | 0,0 % | — | — | 0 € |
-| Momentum | 10 000 € | +0,0 % | **+0,0 %** | 0,0 % | — | — | 0 € |
-| Momentum + filtre | 10 000 € | +0,0 % | **+0,0 %** | 0,0 % | — | — | 0 € |
-| *Marché (référence)* | 10 000 € | +0,0 % | — | 0,0 % | — | — | 0 € |
+| Moteur actuel | 9 985 € | -0,1 % | **+1,3 %** | -0,1 % | — | — | 15 € |
+| Momentum | 9 985 € | -0,1 % | **+1,3 %** | -0,1 % | — | — | 15 € |
+| Momentum + filtre | 9 985 € | -0,1 % | **+1,3 %** | -0,1 % | — | — | 15 € |
+| *Marché (référence)* | 9 856 € | -1,4 % | — | -1,4 % | — | — | 0 € |
 
 Moins de 6 mois de suivi : les écarts relèvent encore largement du hasard.
 
-### Moteur actuel — positions au 2026-11-16
+### Moteur actuel — positions au 2026-11-17
 
+| Valeur | Nom | Secteur | Poids |
+|---|---|---|---|
+| **ALV.DE** | Allianz SE | Financials | 10,0 % |
+| **AD.AS** | Koninklijke Ahold Delhaize N.V | Consumer Staples | 10,0 % |
+| **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 10,0 % |
+| **RED.MC** | Redeia Corporación, S.A. | Utilities | 10,0 % |
+| **ES** | Eversource Energy | Utilities | 10,0 % |
+| **EN.PA** | Bouygues SA | Industrials | 10,0 % |
+| **COST** | Costco | Consumer Staples | 10,0 % |
+| **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 10,0 % |
+| **CBOE** | Cboe Global Markets | Financials | 10,0 % |
+| **AC.PA** | Accor SA | Consumer Discretionary | 10,0 % |
 
-Liquidités : 100,0 %
+Liquidités : 0,0 %
 
-**Réajustement décidé ce soir**, exécuté à la clôture de la prochaine séance : VTRS 10,0 %, STE 10,0 %, STMN.SW 10,0 %, ROL 10,0 %, GWW 10,0 %, ES 10,0 %, COST 10,0 %, CMCSA 10,0 %, CBOE 10,0 %, AIZ 10,0 %.
+### Momentum — positions au 2026-11-17
 
-### Momentum — positions au 2026-11-16
+| Valeur | Nom | Secteur | Poids |
+|---|---|---|---|
+| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,5 % |
+| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 7,2 % |
+| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,1 % |
+| **DEMANT.CO** | Demant A/S | Health Care | 6,5 % |
+| **TGT** | Target Corporation | Consumer Staples | 6,3 % |
+| **WPP.L** | WPP plc | Communication Services | 5,8 % |
+| **REP.MC** | Repsol, S.A. | Energy | 5,7 % |
+| **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 5,5 % |
+| **PSX** | Phillips 66 | Energy | 5,5 % |
+| **EDEN.PA** | Edenred SE | Financials | 5,5 % |
+| **HUM** | Humana | Health Care | 4,9 % |
+| **MPC** | Marathon Petroleum | Energy | 4,6 % |
+| **ABNB** | Airbnb | Consumer Discretionary | 4,5 % |
+| **RVTY** | Revvity | Health Care | 4,4 % |
+| **VLO** | Valero Energy | Energy | 4,4 % |
+| **CRL** | Charles River Laboratories | Health Care | 3,9 % |
+| **NTAP** | NetApp | Information Technology | 3,6 % |
+| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,6 % |
+| **CRWD** | CrowdStrike | Information Technology | 2,6 % |
+| **DELL** | Dell Technologies | Information Technology | 2,1 % |
 
+Liquidités : 0,0 %
 
-Liquidités : 100,0 %
+### Momentum + filtre — positions au 2026-11-17
 
-**Réajustement décidé ce soir**, exécuté à la clôture de la prochaine séance : TRV 10,0 %, GRMN 6,8 %, TGT 6,7 %, WSM 6,1 %, PSX 5,8 %, SWK 5,3 %, HUM 5,2 %, DG 5,1 %, APA 4,9 %, MPC 4,8 %, VEEV 4,8 %, ABNB 4,7 %, RVTY 4,7 %, VLO 4,7 %, BBY 4,6 %, CRL 4,2 %, NTAP 3,8 %, HPE 2,7 %, CRWD 2,7 %, DELL 2,3 %.
+| Valeur | Nom | Secteur | Poids |
+|---|---|---|---|
+| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,5 % |
+| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 7,2 % |
+| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,1 % |
+| **DEMANT.CO** | Demant A/S | Health Care | 6,5 % |
+| **TGT** | Target Corporation | Consumer Staples | 6,3 % |
+| **WPP.L** | WPP plc | Communication Services | 5,8 % |
+| **REP.MC** | Repsol, S.A. | Energy | 5,7 % |
+| **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 5,5 % |
+| **PSX** | Phillips 66 | Energy | 5,5 % |
+| **EDEN.PA** | Edenred SE | Financials | 5,5 % |
+| **HUM** | Humana | Health Care | 4,9 % |
+| **MPC** | Marathon Petroleum | Energy | 4,6 % |
+| **ABNB** | Airbnb | Consumer Discretionary | 4,5 % |
+| **RVTY** | Revvity | Health Care | 4,4 % |
+| **VLO** | Valero Energy | Energy | 4,4 % |
+| **CRL** | Charles River Laboratories | Health Care | 3,9 % |
+| **NTAP** | NetApp | Information Technology | 3,6 % |
+| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,6 % |
+| **CRWD** | CrowdStrike | Information Technology | 2,6 % |
+| **DELL** | Dell Technologies | Information Technology | 2,1 % |
 
-### Momentum + filtre — positions au 2026-11-16
-
-
-Liquidités : 100,0 %
-
-**Réajustement décidé ce soir**, exécuté à la clôture de la prochaine séance : TRV 10,0 %, GRMN 6,8 %, TGT 6,7 %, WSM 6,1 %, PSX 5,8 %, SWK 5,3 %, HUM 5,2 %, DG 5,1 %, APA 4,9 %, MPC 4,8 %, VEEV 4,8 %, ABNB 4,7 %, RVTY 4,7 %, VLO 4,7 %, BBY 4,6 %, CRL 4,2 %, NTAP 3,8 %, HPE 2,7 %, CRWD 2,7 %, DELL 2,3 %.
+Liquidités : 0,0 %
 
 ## 2. Simulation sur le passé
 
@@ -74,6 +124,6 @@ Fixés le 2026-11-14, avant le début du test :
 | Simulation sur au moins 8 ans | oui | oui | oui |
 | Simulation : bat le marché, t > 2 | non | non | non |
 | Suivi en direct depuis au moins 6 mois | non | non | non |
-| Suivi en direct : bat le marché | non | non | non |
+| Suivi en direct : bat le marché | oui | oui | oui |
 | Pire baisse acceptable pour Pierre | à fixer | à fixer | à fixer |
 
