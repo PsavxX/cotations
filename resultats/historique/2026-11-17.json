@@ -55,7 +55,7 @@
    "sens": "HAUSSE",
    "surete": 9,
    "prix": 1110.08,
-   "score_final": 0.7515
+   "score_final": 0.7535
   },
   {
    "ticker": "AC.PA",
@@ -102,7 +102,7 @@
    "sens": "BAISSE",
    "surete": 9,
    "prix": 433.97,
-   "score_final": -0.8049
+   "score_final": -0.8072
   },
   {
    "ticker": "IFF",
@@ -129,7 +129,7 @@
    "sens": "BAISSE",
    "surete": 9,
    "prix": 129.85,
-   "score_final": -0.7196
+   "score_final": -0.7197
   },
   {
    "ticker": "VEEV",
@@ -147,7 +147,7 @@
    "sens": "BAISSE",
    "surete": 8,
    "prix": 155.46,
-   "score_final": -0.9164
+   "score_final": -0.9165
   },
   {
    "ticker": "CRM",
@@ -156,7 +156,7 @@
    "sens": "BAISSE",
    "surete": 8,
    "prix": 194.52,
-   "score_final": -0.8278
+   "score_final": -0.8279
   },
   {
    "ticker": "APTV",
@@ -174,7 +174,7 @@
    "sens": "BAISSE",
    "surete": 8,
    "prix": 186.78,
-   "score_final": -0.7455
+   "score_final": -0.7457
   },
   {
    "ticker": "CARR",

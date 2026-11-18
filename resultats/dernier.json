@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "genere_le": "2026-11-17T23:11:31+00:00",
+ "genere_le": "2026-11-18T03:16:28+00:00",
  "horizon": "5 a 10 seances",
  "valeurs_analysees": 788,
  "regles": {
@@ -18,15 +18,15 @@
  ],
  "distribution_surete": {
   "10": 3,
-  "9": 39,
+  "9": 38,
   "8": 73,
   "7": 71,
-  "6": 94,
-  "5": 92,
-  "4": 151,
-  "3": 184,
-  "2": 75,
-  "1": 6
+  "6": 93,
+  "5": 90,
+  "4": 153,
+  "3": 186,
+  "2": 76,
+  "1": 5
  },
  "hausse": [
   {
@@ -177,8 +177,8 @@
    "prix": 1110.08,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.7515,
-   "score_tech": 0.7515,
+   "score_final": 0.7535,
+   "score_tech": 0.7535,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": 4.12,
@@ -192,7 +192,7 @@
     "momentum": 0.786,
     "rsi": 0.782,
     "macd": 0.691,
-    "volume": 0.053,
+    "volume": 0.077,
     "position_40s": 0.822,
     "pente": 0.949
    }
@@ -319,8 +319,8 @@
    "prix": 433.97,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.8049,
-   "score_tech": -0.8049,
+   "score_final": -0.8072,
+   "score_tech": -0.8072,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -4.45,
@@ -334,7 +334,7 @@
     "momentum": -0.864,
     "rsi": -0.801,
     "macd": -0.556,
-    "volume": -0.336,
+    "volume": -0.363,
     "position_40s": -0.831,
     "pente": -0.997
    }
@@ -403,8 +403,8 @@
    "prix": 129.85,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.7196,
-   "score_tech": -0.7196,
+   "score_final": -0.7197,
+   "score_tech": -0.7197,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -4.83,
@@ -418,7 +418,7 @@
     "momentum": -0.74,
     "rsi": -0.612,
     "macd": -0.946,
-    "volume": -0.284,
+    "volume": -0.286,
     "position_40s": -0.826,
     "pente": -0.877
    }
@@ -459,8 +459,8 @@
    "prix": 155.46,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.9164,
-   "score_tech": -0.9164,
+   "score_final": -0.9165,
+   "score_tech": -0.9165,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -7.95,
@@ -474,7 +474,7 @@
     "momentum": -0.971,
     "rsi": -0.95,
     "macd": -0.674,
-    "volume": -0.838,
+    "volume": -0.839,
     "position_40s": -0.85,
     "pente": -1.0
    }
@@ -487,8 +487,8 @@
    "prix": 194.52,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.8278,
-   "score_tech": -0.8278,
+   "score_final": -0.8279,
+   "score_tech": -0.8279,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -8.88,
@@ -502,7 +502,7 @@
     "momentum": -0.955,
     "rsi": -0.952,
     "macd": -0.726,
-    "volume": 0.163,
+    "volume": 0.162,
     "position_40s": -0.85,
     "pente": -0.993
    }
@@ -543,8 +543,8 @@
    "prix": 186.78,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.7455,
-   "score_tech": -0.7455,
+   "score_final": -0.7457,
+   "score_tech": -0.7457,
    "biais_macro": 0.0,
    "alignement": 0,
    "var5": -4.23,
@@ -558,7 +558,7 @@
     "momentum": -0.758,
     "rsi": -0.719,
     "macd": -0.976,
-    "volume": 0.042,
+    "volume": 0.04,
     "position_40s": -0.85,
     "pente": -0.778
    }
@@ -702,10 +702,6 @@
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "NESN.SW",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
    "ticker": "HRL",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
@@ -723,6 +719,10 @@
   },
   {
    "ticker": "MDLZ",
+   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
+   "ticker": "NESN.SW",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
