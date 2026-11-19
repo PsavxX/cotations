@@ -1,4 +1,4 @@
-# Scan du 2026-11-17
+# Scan du 2026-11-18
 
 **788 valeurs analysees** · horizon 5 a 10 seances · seuil de publication 6/10 · au plus 3 valeurs par secteur et par cote
 
@@ -8,41 +8,41 @@
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 87,76 | **10/10** | +0,775 | +4,85 % | +11,85 % | 76 | 0,88 | 1,34 % |
-| 2 | **RED.MC** | Redeia Corporación, S.A. | Utilities | 16,24 | **10/10** | +0,764 | +3,64 % | +11,54 % | 77 | 0,93 | 0,89 % |
-| 3 | **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 63,44 | **10/10** | +0,763 | +4,72 % | +16,83 % | 77 | 0,91 | 1,68 % |
-| 4 | **TSN** | Tyson Foods | Consumer Staples | 63,65 | **9/10** | +0,867 | +5,57 % | +14,93 % | 75 | 0,73 | 2,41 % |
-| 5 | **DPZ** | Domino's | Consumer Discretionary | 349,86 | **9/10** | +0,783 | +6,00 % | +10,61 % | 70 | 0,77 | 1,78 % |
-| 6 | **COST** | Costco | Consumer Staples | 1110,08 | **9/10** | +0,753 | +4,12 % | +11,77 % | 75 | 0,87 | 1,43 % |
-| 7 | **AC.PA** | Accor SA | Consumer Discretionary | 52,76 | **9/10** | +0,739 | +3,41 % | +16,01 % | 73 | 0,84 | 1,74 % |
-| 8 | **ALV.DE** | Allianz SE | Financials | 475,20 | **9/10** | +0,736 | +3,98 % | +11,58 % | 70 | 0,87 | 1,40 % |
-| 9 | **EN.PA** | Bouygues SA | Industrials | 44,66 | **9/10** | +0,735 | +4,18 % | +9,33 % | 71 | 0,89 | 1,12 % |
-| 10 | **ARGX.BR** | argenx SE | Health Care | 877,60 | **9/10** | +0,696 | +2,79 % | +20,25 % | 66 | 0,82 | 2,08 % |
+| 1 | **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 88,30 | **10/10** | +0,716 | +1,08 % | +12,17 % | 77 | 0,92 | 1,34 % |
+| 2 | **TSN** | Tyson Foods | Consumer Staples | 64,25 | **9/10** | +0,898 | +7,32 % | +14,94 % | 76 | 0,76 | 2,41 % |
+| 3 | **DPZ** | Domino's | Consumer Discretionary | 353,54 | **9/10** | +0,786 | +7,59 % | +13,62 % | 72 | 0,79 | 1,71 % |
+| 4 | **DRI** | Darden Restaurants | Consumer Discretionary | 239,22 | **9/10** | +0,679 | +4,49 % | +11,51 % | 73 | 0,84 | 1,66 % |
+| 5 | **RED.MC** | Redeia Corporación, S.A. | Utilities | 16,12 | **9/10** | +0,676 | +3,33 % | +10,26 % | 71 | 0,92 | 0,94 % |
+| 6 | **CLX** | Clorox | Consumer Staples | 108,39 | **9/10** | +0,668 | +1,43 % | +29,72 % | 74 | 0,91 | 2,33 % |
+| 7 | **AC.PA** | Accor SA | Consumer Discretionary | 52,52 | **9/10** | +0,642 | +0,15 % | +12,25 % | 71 | 0,89 | 1,69 % |
+| 8 | **FRE.DE** | Fresenius SE & Co. KGaA | Health Care | 53,75 | **9/10** | +0,615 | +0,52 % | +19,44 % | 80 | 0,94 | 1,34 % |
+| 9 | **FER.MC** | Ferrovial N.V. | Industrials | 55,42 | **9/10** | +0,600 | +2,10 % | +28,28 % | 74 | 0,93 | 2,14 % |
+| 10 | **FGR.PA** | Eiffage SA | Industrials | 108,70 | **9/10** | +0,579 | -0,09 % | +10,74 % | 66 | 0,95 | 0,98 % |
 
 ## Orientees a la baisse (10)
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **CMI** | Cummins | Industrials | 433,97 | **9/10** | -0,807 | -4,45 % | -19,07 % | 28 | 0,88 | 2,55 % |
-| 2 | **IFF** | International Flavors & Fragranc | Materials | 79,43 | **9/10** | -0,765 | -4,50 % | -12,92 % | 32 | 0,84 | 2,15 % |
-| 3 | **ZBRA** | Zebra Technologies | Information Technology | 312,21 | **9/10** | -0,725 | -2,85 % | -18,71 % | 30 | 0,87 | 2,58 % |
-| 4 | **TJX** | TJX Companies | Consumer Discretionary | 129,85 | **9/10** | -0,720 | -4,83 % | -11,35 % | 36 | 0,78 | 2,08 % |
-| 5 | **VEEV** | Veeva Systems | Health Care | 288,41 | **9/10** | -0,655 | -5,61 % | -9,50 % | 37 | 0,84 | 1,44 % |
-| 6 | **NVDA** | Nvidia | Information Technology | 155,46 | **8/10** | -0,916 | -7,95 % | -28,18 % | 22 | 0,91 | 3,32 % |
-| 7 | **CRM** | Salesforce | Information Technology | 194,52 | **8/10** | -0,828 | -8,88 % | -19,76 % | 26 | 0,85 | 2,78 % |
-| 8 | **APTV** | Aptiv | Consumer Discretionary | 37,88 | **8/10** | -0,763 | -4,27 % | -15,93 % | 30 | 0,83 | 2,54 % |
-| 9 | **COF** | Capital One | Financials | 186,78 | **8/10** | -0,746 | -4,23 % | -6,95 % | 33 | 0,54 | 1,60 % |
-| 10 | **CARR** | Carrier Global | Industrials | 51,32 | **8/10** | -0,720 | -3,19 % | -8,24 % | 36 | 0,65 | 2,16 % |
+| 1 | **CMI** | Cummins | Industrials | 427,16 | **9/10** | -0,838 | -7,79 % | -21,22 % | 27 | 0,88 | 2,50 % |
+| 2 | **WDAY** | Workday, Inc. | Information Technology | 177,45 | **9/10** | -0,811 | -7,17 % | -12,57 % | 34 | 0,78 | 2,31 % |
+| 3 | **VEEV** | Veeva Systems | Health Care | 277,20 | **9/10** | -0,803 | -9,05 % | -13,52 % | 31 | 0,78 | 1,60 % |
+| 4 | **OXY** | Occidental Petroleum | Energy | 53,76 | **9/10** | -0,795 | -6,08 % | -14,26 % | 31 | 0,74 | 2,30 % |
+| 5 | **IFF** | International Flavors & Fragranc | Materials | 80,08 | **9/10** | -0,665 | -3,11 % | -12,03 % | 34 | 0,89 | 2,17 % |
+| 6 | **CRM** | Salesforce | Information Technology | 190,40 | **8/10** | -0,890 | -12,66 % | -21,25 % | 24 | 0,86 | 2,78 % |
+| 7 | **NVDA** | Nvidia | Information Technology | 150,96 | **8/10** | -0,854 | -13,11 % | -31,99 % | 21 | 0,92 | 3,18 % |
+| 8 | **COF** | Capital One | Financials | 184,30 | **8/10** | -0,806 | -6,11 % | -10,45 % | 30 | 0,59 | 1,46 % |
+| 9 | **A2A.MI** | A2A S.p.A. | Utilities | 2,25 | **8/10** | -0,686 | -5,34 % | -6,25 % | 35 | 0,57 | 1,21 % |
+| 10 | **FANG** | Diamondback Energy | Energy | 174,32 | **8/10** | -0,678 | -3,05 % | -12,67 % | 35 | 0,71 | 2,57 % |
 
 ## Repartition des notes
 
 | Surete | 10/10 | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Valeurs | 3 | 38 | 73 | 71 | 93 | 90 | 153 | 186 | 76 | 5 |
+| Valeurs | 1 | 20 | 65 | 68 | 71 | 111 | 171 | 182 | 91 | 8 |
 
 ## Ecartees par le plafond sectoriel
 
-AD.AS (plafond de 3 valeurs « Consumer Staples » atteint), BN.PA (plafond de 3 valeurs « Consumer Staples » atteint), ORK.OL (plafond de 3 valeurs « Consumer Staples » atteint), CLX (plafond de 3 valeurs « Consumer Staples » atteint), RI.PA (plafond de 3 valeurs « Consumer Staples » atteint), HEIA.AS (plafond de 3 valeurs « Consumer Staples » atteint), KR (plafond de 3 valeurs « Consumer Staples » atteint), MOWI.OL (plafond de 3 valeurs « Consumer Staples » atteint), DGE.L (plafond de 3 valeurs « Consumer Staples » atteint), PG (plafond de 3 valeurs « Consumer Staples » atteint), KO (plafond de 3 valeurs « Consumer Staples » atteint), ESSITY-B.ST (plafond de 3 valeurs « Consumer Staples » atteint), HRL (plafond de 3 valeurs « Consumer Staples » atteint), CL (plafond de 3 valeurs « Consumer Staples » atteint), ABF.L (plafond de 3 valeurs « Consumer Staples » atteint), CHD (plafond de 3 valeurs « Consumer Staples » atteint), MDLZ (plafond de 3 valeurs « Consumer Staples » atteint), NESN.SW (plafond de 3 valeurs « Consumer Staples » atteint), UNA.AS (plafond de 3 valeurs « Consumer Staples » atteint), ABI.BR (plafond de 3 valeurs « Consumer Staples » atteint), STZ (plafond de 3 valeurs « Consumer Staples » atteint), SJM (plafond de 3 valeurs « Consumer Staples » atteint), TGT (plafond de 3 valeurs « Consumer Staples » atteint), PEP (plafond de 3 valeurs « Consumer Staples » atteint), TSCO.L (plafond de 3 valeurs « Consumer Staples » atteint), OR.PA (plafond de 3 valeurs « Consumer Staples » atteint), WMT (plafond de 3 valeurs « Consumer Staples » atteint), CARL-B.CO (plafond de 3 valeurs « Consumer Staples » atteint), WDAY (plafond de 3 valeurs « Information Technology » atteint), PLTR (plafond de 3 valeurs « Information Technology » atteint), CSCO (plafond de 3 valeurs « Information Technology » atteint), CTSH (plafond de 3 valeurs « Information Technology » atteint), IBM (plafond de 3 valeurs « Information Technology » atteint), ADBE (plafond de 3 valeurs « Information Technology » atteint), PANW (plafond de 3 valeurs « Information Technology » atteint), TRMB (plafond de 3 valeurs « Information Technology » atteint), IT (plafond de 3 valeurs « Information Technology » atteint), NTAP (plafond de 3 valeurs « Information Technology » atteint), CRWD (plafond de 3 valeurs « Information Technology » atteint), ASML.AS (plafond de 3 valeurs « Information Technology » atteint), JBL (plafond de 3 valeurs « Information Technology » atteint)
+BN.PA (plafond de 3 valeurs « Consumer Staples » atteint), TSCO (plafond de 3 valeurs « Consumer Discretionary » atteint), HRL (plafond de 3 valeurs « Consumer Staples » atteint), DGE.L (plafond de 3 valeurs « Consumer Staples » atteint), MGM (plafond de 3 valeurs « Consumer Discretionary » atteint), COST (plafond de 3 valeurs « Consumer Staples » atteint), MOWI.OL (plafond de 3 valeurs « Consumer Staples » atteint), AD.AS (plafond de 3 valeurs « Consumer Staples » atteint), ORK.OL (plafond de 3 valeurs « Consumer Staples » atteint), RI.PA (plafond de 3 valeurs « Consumer Staples » atteint), ESSITY-B.ST (plafond de 3 valeurs « Consumer Staples » atteint), ITX.MC (plafond de 3 valeurs « Consumer Discretionary » atteint), HEIA.AS (plafond de 3 valeurs « Consumer Staples » atteint), TGT (plafond de 3 valeurs « Consumer Staples » atteint), CMG (plafond de 3 valeurs « Consumer Discretionary » atteint), ABF.L (plafond de 3 valeurs « Consumer Staples » atteint), PG (plafond de 3 valeurs « Consumer Staples » atteint), KO (plafond de 3 valeurs « Consumer Staples » atteint), SBUX (plafond de 3 valeurs « Consumer Discretionary » atteint), CL (plafond de 3 valeurs « Consumer Staples » atteint), ORLY (plafond de 3 valeurs « Consumer Discretionary » atteint), HSY (plafond de 3 valeurs « Consumer Staples » atteint), WYNN (plafond de 3 valeurs « Consumer Discretionary » atteint), ZAL.DE (plafond de 3 valeurs « Consumer Discretionary » atteint), SJM (plafond de 3 valeurs « Consumer Staples » atteint), AMZN (plafond de 3 valeurs « Consumer Discretionary » atteint), UNA.AS (plafond de 3 valeurs « Consumer Staples » atteint), ABI.BR (plafond de 3 valeurs « Consumer Staples » atteint), TSCO.L (plafond de 3 valeurs « Consumer Staples » atteint), MAR (plafond de 3 valeurs « Consumer Discretionary » atteint), CHD (plafond de 3 valeurs « Consumer Staples » atteint), KR (plafond de 3 valeurs « Consumer Staples » atteint), ADBE (plafond de 3 valeurs « Information Technology » atteint), IBM (plafond de 3 valeurs « Information Technology » atteint), ZBRA (plafond de 3 valeurs « Information Technology » atteint), ASML.AS (plafond de 3 valeurs « Information Technology » atteint), PLTR (plafond de 3 valeurs « Information Technology » atteint), CTSH (plafond de 3 valeurs « Information Technology » atteint), CSCO (plafond de 3 valeurs « Information Technology » atteint), IT (plafond de 3 valeurs « Information Technology » atteint), NTAP (plafond de 3 valeurs « Information Technology » atteint)
 
 ## Non analysees (15)
 

@@ -1,4 +1,27 @@
 {
- "scans": 0,
- "tableaux": {}
+ "scans": 1,
+ "tableaux": {
+  "5_seances": {
+   "Tous": {
+    "n": 11,
+    "sens_correct": 54.5,
+    "pari_moyen": 1.92
+   },
+   "Paris a la hausse": {
+    "n": 5,
+    "sens_correct": 0.0,
+    "pari_moyen": -2.14
+   },
+   "Paris a la baisse": {
+    "n": 6,
+    "sens_correct": 100.0,
+    "pari_moyen": 5.3
+   },
+   "Surete 8-10": {
+    "n": 11,
+    "sens_correct": 54.5,
+    "pari_moyen": 1.92
+   }
+  }
+ }
 }

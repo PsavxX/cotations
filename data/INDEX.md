@@ -1,6 +1,6 @@
 # Index des donnees collectees
 
-Derniere mise a jour : 2026-11-18T03:16:09+00:00
+Derniere mise a jour : 2026-11-19T02:54:19+00:00
 
 | Fichier | Lignes |
 |---|---|
@@ -146,10 +146,10 @@ Derniere mise a jour : 2026-11-18T03:16:09+00:00
 | `ohlcv-2026-08.csv.gz` | 16516 |
 | `ohlcv-2026-09.csv.gz` | 16837 |
 | `ohlcv-2026-10.csv.gz` | 17358 |
-| `ohlcv-2026-11.csv.gz` | 9221 |
+| `ohlcv-2026-11.csv.gz` | 9986 |
 
-Tickers sans donnee a la derniere execution (16) :
+Tickers sans donnee a la derniere execution (14) :
 
 ```
-ACS.MC, ALD.PA, CGG.PA, DPW.DE, EDF.PA, FDJ.PA, KVUE, NEOEN.PA, ORP.PA, POM.PA, PSKY, ROG.SW, STT, TKTT.PA, TKWY.AS, WBD
+ALD.PA, CGG.PA, DPW.DE, EDF.PA, FDJ.PA, KVUE, NEOEN.PA, ORP.PA, POM.PA, PSKY, ROG.SW, TKTT.PA, TKWY.AS, WBD
 ```
