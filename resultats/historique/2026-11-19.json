@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-19",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "TSN",
+   "nom": "Tyson Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 63.86,
+   "score_final": 0.876
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 352.28,
+   "score_final": 0.7278
+  },
+  {
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 167.46,
+   "score_final": 0.7251
+  },
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 87.86,
+   "score_final": 0.6738
+  },
+  {
+   "ticker": "CFR.SW",
+   "nom": "Compagnie Financière Richemont SA",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 177.15,
+   "score_final": 0.6094
+  },
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 16.13,
+   "score_final": 0.6064
+  },
+  {
+   "ticker": "FRE.DE",
+   "nom": "Fresenius SE & Co. KGaA",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 53.43,
+   "score_final": 0.5629
+  },
+  {
+   "ticker": "FGR.PA",
+   "nom": "Eiffage SA",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 108.2,
+   "score_final": 0.5019
+  },
+  {
+   "ticker": "TSCO",
+   "nom": "Tractor Supply",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 38.74,
+   "score_final": 0.7544
+  },
+  {
+   "ticker": "CRDA.L",
+   "nom": "Croda International Plc",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 3851.0,
+   "score_final": 0.6795
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 183.31,
+   "score_final": -0.8731
+  },
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 421.19,
+   "score_final": -0.8567
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 181.76,
+   "score_final": -0.8525
+  },
+  {
+   "ticker": "ADBE",
+   "nom": "Adobe Inc.",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 221.68,
+   "score_final": -0.8139
+  },
+  {
+   "ticker": "WDAY",
+   "nom": "Workday, Inc.",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 177.45,
+   "score_final": -0.811
+  },
+  {
+   "ticker": "OXY",
+   "nom": "Occidental Petroleum",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 53.81,
+   "score_final": -0.8105
+  },
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 277.2,
+   "score_final": -0.8029
+  },
+  {
+   "ticker": "XOM",
+   "nom": "ExxonMobil",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 158.93,
+   "score_final": -0.7479
+  },
+  {
+   "ticker": "SLB",
+   "nom": "Schlumberger",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 47.9,
+   "score_final": -0.7072
+  },
+  {
+   "ticker": "IFF",
+   "nom": "International Flavors & Fragrances",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 78.61,
+   "score_final": -0.7044
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "genere_le": "2026-11-19T02:54:34+00:00",
+ "date": "2026-11-19",
+ "genere_le": "2026-11-20T02:46:23+00:00",
  "horizon": "5 a 10 seances",
  "valeurs_analysees": 788,
  "regles": {
@@ -17,72 +17,43 @@
   "Aucun contexte d'actualite valide (algo/macro.json absent ou perime) : classement purement technique."
  ],
  "distribution_surete": {
-  "10": 1,
-  "9": 20,
-  "8": 65,
-  "7": 68,
-  "6": 71,
+  "9": 21,
+  "8": 38,
+  "7": 57,
+  "6": 78,
   "5": 111,
-  "4": 171,
-  "3": 182,
-  "2": 91,
-  "1": 8
+  "4": 220,
+  "3": 185,
+  "2": 72,
+  "1": 6
  },
  "hausse": [
-  {
-   "ticker": "HEN3.DE",
-   "nom": "Henkel AG & Co. KGaA",
-   "secteur": "Consumer Staples",
-   "place": "Europe",
-   "prix": 88.3,
-   "sens": "HAUSSE",
-   "surete": 10,
-   "score_final": 0.7157,
-   "score_tech": 0.7157,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 1.08,
-   "var20": 12.17,
-   "rsi": 76.9,
-   "r2": 0.916,
-   "vol_j": 1.34,
-   "signaux": {
-    "tendance_mm": 0.807,
-    "croisement_mm": 0.966,
-    "momentum": 0.571,
-    "rsi": 0.635,
-    "macd": 0.471,
-    "volume": 0.49,
-    "position_40s": 0.85,
-    "pente": 0.969
-   }
-  },
   {
    "ticker": "TSN",
    "nom": "Tyson Foods",
    "secteur": "Consumer Staples",
    "place": "US",
-   "prix": 64.25,
+   "prix": 63.86,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.898,
-   "score_tech": 0.898,
+   "score_final": 0.876,
+   "score_tech": 0.876,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 7.32,
-   "var20": 14.94,
-   "rsi": 76.5,
-   "r2": 0.763,
+   "var5": 7.76,
+   "var20": 11.9,
+   "rsi": 73.8,
+   "r2": 0.818,
    "vol_j": 2.41,
    "signaux": {
-    "tendance_mm": 0.933,
+    "tendance_mm": 0.88,
     "croisement_mm": 0.908,
-    "momentum": 0.864,
-    "rsi": 0.996,
-    "macd": 0.969,
-    "volume": 0.594,
-    "position_40s": 0.85,
-    "pente": 0.952
+    "momentum": 0.836,
+    "rsi": 0.93,
+    "macd": 0.968,
+    "volume": 0.596,
+    "position_40s": 0.802,
+    "pente": 0.967
    }
   },
   {
@@ -90,55 +61,111 @@
    "nom": "Domino's",
    "secteur": "Consumer Discretionary",
    "place": "US",
-   "prix": 353.54,
+   "prix": 352.28,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.786,
-   "score_tech": 0.786,
+   "score_final": 0.7278,
+   "score_tech": 0.7278,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 7.59,
-   "var20": 13.62,
-   "rsi": 72.0,
-   "r2": 0.786,
-   "vol_j": 1.71,
+   "var5": 5.72,
+   "var20": 10.88,
+   "rsi": 70.5,
+   "r2": 0.83,
+   "vol_j": 1.69,
    "signaux": {
-    "tendance_mm": 0.874,
-    "croisement_mm": 0.882,
-    "momentum": 0.767,
-    "rsi": 0.868,
-    "macd": 0.949,
-    "volume": -0.164,
-    "position_40s": 0.85,
-    "pente": 0.944
+    "tendance_mm": 0.824,
+    "croisement_mm": 0.72,
+    "momentum": 0.686,
+    "rsi": 0.709,
+    "macd": 0.907,
+    "volume": -0.073,
+    "position_40s": 0.815,
+    "pente": 0.957
    }
   },
   {
-   "ticker": "DRI",
-   "nom": "Darden Restaurants",
-   "secteur": "Consumer Discretionary",
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
    "place": "US",
-   "prix": 239.22,
+   "prix": 167.46,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.6794,
-   "score_tech": 0.6794,
+   "score_final": 0.7251,
+   "score_tech": 0.7251,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 4.49,
-   "var20": 11.51,
-   "rsi": 73.1,
-   "r2": 0.841,
-   "vol_j": 1.66,
+   "var5": 4.08,
+   "var20": 6.66,
+   "rsi": 62.9,
+   "r2": 0.773,
+   "vol_j": 2.55,
    "signaux": {
-    "tendance_mm": 0.849,
-    "croisement_mm": 0.666,
-    "momentum": 0.673,
-    "rsi": 0.893,
-    "macd": 0.602,
-    "volume": -0.22,
+    "tendance_mm": 0.772,
+    "croisement_mm": 0.825,
+    "momentum": 0.698,
+    "rsi": 0.54,
+    "macd": 0.615,
+    "volume": 0.55,
     "position_40s": 0.85,
-    "pente": 0.887
+    "pente": 0.929
+   }
+  },
+  {
+   "ticker": "HEN3.DE",
+   "nom": "Henkel AG & Co. KGaA",
+   "secteur": "Consumer Staples",
+   "place": "Europe",
+   "prix": 87.86,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.6738,
+   "score_tech": 0.6738,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 0.3,
+   "var20": 12.58,
+   "rsi": 74.1,
+   "r2": 0.921,
+   "vol_j": 1.32,
+   "signaux": {
+    "tendance_mm": 0.682,
+    "croisement_mm": 0.963,
+    "momentum": 0.457,
+    "rsi": 0.713,
+    "macd": 0.422,
+    "volume": 0.482,
+    "position_40s": 0.805,
+    "pente": 0.971
+   }
+  },
+  {
+   "ticker": "CFR.SW",
+   "nom": "Compagnie Financière Richemont SA",
+   "secteur": "Consumer Discretionary",
+   "place": "Europe",
+   "prix": 177.15,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.6094,
+   "score_tech": 0.6094,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 0.57,
+   "var20": 2.73,
+   "rsi": 58.4,
+   "r2": 0.822,
+   "vol_j": 2.18,
+   "signaux": {
+    "tendance_mm": 0.552,
+    "croisement_mm": 0.852,
+    "momentum": 0.269,
+    "rsi": 0.492,
+    "macd": 0.681,
+    "volume": 0.655,
+    "position_40s": 0.662,
+    "pente": 0.85
    }
   },
   {
@@ -146,83 +173,27 @@
    "nom": "Redeia Corporación, S.A.",
    "secteur": "Utilities",
    "place": "Europe",
-   "prix": 16.12,
+   "prix": 16.13,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.6765,
-   "score_tech": 0.6765,
+   "score_final": 0.6064,
+   "score_tech": 0.6064,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 3.33,
-   "var20": 10.26,
-   "rsi": 71.4,
-   "r2": 0.922,
+   "var5": 3.07,
+   "var20": 9.5,
+   "rsi": 71.6,
+   "r2": 0.914,
    "vol_j": 0.94,
    "signaux": {
-    "tendance_mm": 0.579,
-    "croisement_mm": 0.657,
-    "momentum": 0.66,
-    "rsi": 0.709,
-    "macd": 0.828,
-    "volume": 0.323,
-    "position_40s": 0.674,
-    "pente": 0.865
-   }
-  },
-  {
-   "ticker": "CLX",
-   "nom": "Clorox",
-   "secteur": "Consumer Staples",
-   "place": "US",
-   "prix": 108.39,
-   "sens": "HAUSSE",
-   "surete": 9,
-   "score_final": 0.6681,
-   "score_tech": 0.6681,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 1.43,
-   "var20": 29.72,
-   "rsi": 74.1,
-   "r2": 0.914,
-   "vol_j": 2.33,
-   "signaux": {
-    "tendance_mm": 0.789,
-    "croisement_mm": 0.999,
-    "momentum": 0.645,
-    "rsi": 0.452,
-    "macd": 0.492,
-    "volume": 0.003,
-    "position_40s": 0.752,
-    "pente": 1.0
-   }
-  },
-  {
-   "ticker": "AC.PA",
-   "nom": "Accor SA",
-   "secteur": "Consumer Discretionary",
-   "place": "Paris",
-   "prix": 52.52,
-   "sens": "HAUSSE",
-   "surete": 9,
-   "score_final": 0.6416,
-   "score_tech": 0.6416,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 0.15,
-   "var20": 12.25,
-   "rsi": 71.3,
-   "r2": 0.888,
-   "vol_j": 1.69,
-   "signaux": {
-    "tendance_mm": 0.752,
-    "croisement_mm": 0.989,
-    "momentum": 0.49,
-    "rsi": 0.469,
-    "macd": 0.484,
-    "volume": 0.049,
-    "position_40s": 0.805,
-    "pente": 0.989
+    "tendance_mm": 0.533,
+    "croisement_mm": 0.563,
+    "momentum": 0.565,
+    "rsi": 0.573,
+    "macd": 0.713,
+    "volume": 0.294,
+    "position_40s": 0.684,
+    "pente": 0.852
    }
   },
   {
@@ -230,55 +201,27 @@
    "nom": "Fresenius SE & Co. KGaA",
    "secteur": "Health Care",
    "place": "Europe",
-   "prix": 53.75,
+   "prix": 53.43,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.6149,
-   "score_tech": 0.6149,
+   "score_final": 0.5629,
+   "score_tech": 0.5629,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": 0.52,
-   "var20": 19.44,
-   "rsi": 79.6,
-   "r2": 0.935,
-   "vol_j": 1.34,
+   "var5": 1.15,
+   "var20": 17.18,
+   "rsi": 76.2,
+   "r2": 0.915,
+   "vol_j": 1.38,
    "signaux": {
-    "tendance_mm": 0.705,
-    "croisement_mm": 0.984,
-    "momentum": 0.558,
-    "rsi": 0.42,
-    "macd": 0.459,
-    "volume": -0.234,
-    "position_40s": 0.835,
-    "pente": 0.995
-   }
-  },
-  {
-   "ticker": "FER.MC",
-   "nom": "Ferrovial N.V.",
-   "secteur": "Industrials",
-   "place": "Europe",
-   "prix": 55.42,
-   "sens": "HAUSSE",
-   "surete": 9,
-   "score_final": 0.5995,
-   "score_tech": 0.5995,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 2.1,
-   "var20": 28.28,
-   "rsi": 74.5,
-   "r2": 0.926,
-   "vol_j": 2.14,
-   "signaux": {
-    "tendance_mm": 0.784,
-    "croisement_mm": 0.315,
-    "momentum": 0.697,
-    "rsi": 0.52,
-    "macd": 0.496,
-    "volume": 0.018,
-    "position_40s": 0.719,
-    "pente": 0.999
+    "tendance_mm": 0.559,
+    "croisement_mm": 0.825,
+    "momentum": 0.482,
+    "rsi": 0.629,
+    "macd": 0.386,
+    "volume": -0.297,
+    "position_40s": 0.79,
+    "pente": 0.994
    }
   },
   {
@@ -286,57 +229,197 @@
    "nom": "Eiffage SA",
    "secteur": "Industrials",
    "place": "Paris",
-   "prix": 108.7,
+   "prix": 108.2,
    "sens": "HAUSSE",
    "surete": 9,
-   "score_final": 0.5786,
-   "score_tech": 0.5786,
+   "score_final": 0.5019,
+   "score_tech": 0.5019,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -0.09,
-   "var20": 10.74,
-   "rsi": 65.8,
-   "r2": 0.955,
-   "vol_j": 0.98,
+   "var5": -0.46,
+   "var20": 9.96,
+   "rsi": 63.1,
+   "r2": 0.929,
+   "vol_j": 1.0,
    "signaux": {
-    "tendance_mm": 0.473,
-    "croisement_mm": 0.954,
-    "momentum": 0.394,
-    "rsi": 0.299,
-    "macd": 0.491,
-    "volume": 0.441,
-    "position_40s": 0.674,
-    "pente": 0.959
+    "tendance_mm": 0.317,
+    "croisement_mm": 0.934,
+    "momentum": 0.277,
+    "rsi": 0.14,
+    "macd": 0.448,
+    "volume": 0.436,
+    "position_40s": 0.607,
+    "pente": 0.952
+   }
+  },
+  {
+   "ticker": "TSCO",
+   "nom": "Tractor Supply",
+   "secteur": "Consumer Discretionary",
+   "place": "US",
+   "prix": 38.74,
+   "sens": "HAUSSE",
+   "surete": 8,
+   "score_final": 0.7544,
+   "score_tech": 0.7544,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 5.76,
+   "var20": 11.55,
+   "rsi": 68.6,
+   "r2": 0.85,
+   "vol_j": 2.62,
+   "signaux": {
+    "tendance_mm": 0.841,
+    "croisement_mm": 0.702,
+    "momentum": 0.785,
+    "rsi": 0.734,
+    "macd": 0.885,
+    "volume": 0.004,
+    "position_40s": 0.792,
+    "pente": 0.992
+   }
+  },
+  {
+   "ticker": "CRDA.L",
+   "nom": "Croda International Plc",
+   "secteur": "Materials",
+   "place": "Europe",
+   "prix": 3851.0,
+   "sens": "HAUSSE",
+   "surete": 8,
+   "score_final": 0.6795,
+   "score_tech": 0.6795,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 4.0,
+   "var20": 6.23,
+   "rsi": 72.2,
+   "r2": 0.677,
+   "vol_j": 0.99,
+   "signaux": {
+    "tendance_mm": 0.754,
+    "croisement_mm": 0.677,
+    "momentum": 0.684,
+    "rsi": 0.651,
+    "macd": 0.7,
+    "volume": 0.436,
+    "position_40s": 0.85,
+    "pente": 0.65
    }
   }
  ],
  "baisse": [
   {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "place": "US",
+   "prix": 183.31,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.8731,
+   "score_tech": -0.8731,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -15.75,
+   "var20": -26.76,
+   "rsi": 21.6,
+   "r2": 0.849,
+   "vol_j": 2.61,
+   "signaux": {
+    "tendance_mm": -0.993,
+    "croisement_mm": -0.983,
+    "momentum": -0.992,
+    "rsi": -0.647,
+    "macd": -1.0,
+    "volume": -0.152,
+    "position_40s": -0.85,
+    "pente": -0.998
+   }
+  },
+  {
    "ticker": "CMI",
    "nom": "Cummins",
    "secteur": "Industrials",
    "place": "US",
-   "prix": 427.16,
+   "prix": 421.19,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.8384,
-   "score_tech": -0.8384,
+   "score_final": -0.8567,
+   "score_tech": -0.8567,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -7.79,
-   "var20": -21.22,
-   "rsi": 26.7,
-   "r2": 0.881,
-   "vol_j": 2.5,
+   "var5": -7.51,
+   "var20": -18.93,
+   "rsi": 25.4,
+   "r2": 0.899,
+   "vol_j": 2.4,
    "signaux": {
-    "tendance_mm": -0.928,
-    "croisement_mm": -0.994,
-    "momentum": -0.925,
-    "rsi": -0.832,
-    "macd": -0.674,
-    "volume": -0.307,
+    "tendance_mm": -0.948,
+    "croisement_mm": -0.925,
+    "momentum": -0.859,
+    "rsi": -0.878,
+    "macd": -0.826,
+    "volume": -0.394,
     "position_40s": -0.85,
-    "pente": -0.997
+    "pente": -0.998
+   }
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "place": "US",
+   "prix": 181.76,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.8525,
+   "score_tech": -0.8525,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -5.73,
+   "var20": -10.28,
+   "rsi": 28.5,
+   "r2": 0.679,
+   "vol_j": 1.46,
+   "signaux": {
+    "tendance_mm": -0.888,
+    "croisement_mm": -0.925,
+    "momentum": -0.85,
+    "rsi": -0.866,
+    "macd": -0.994,
+    "volume": -0.332,
+    "position_40s": -0.85,
+    "pente": -0.915
+   }
+  },
+  {
+   "ticker": "ADBE",
+   "nom": "Adobe Inc.",
+   "secteur": "Information Technology",
+   "place": "US",
+   "prix": 221.68,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.8139,
+   "score_tech": -0.8139,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -7.07,
+   "var20": -18.06,
+   "rsi": 32.9,
+   "r2": 0.747,
+   "vol_j": 1.88,
+   "signaux": {
+    "tendance_mm": -0.909,
+    "croisement_mm": -0.899,
+    "momentum": -0.914,
+    "rsi": -0.754,
+    "macd": -0.989,
+    "volume": 0.124,
+    "position_40s": -0.85,
+    "pente": -0.931
    }
   },
   {
@@ -368,6 +451,34 @@
    }
   },
   {
+   "ticker": "OXY",
+   "nom": "Occidental Petroleum",
+   "secteur": "Energy",
+   "place": "US",
+   "prix": 53.81,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.8105,
+   "score_tech": -0.8105,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -7.86,
+   "var20": -13.9,
+   "rsi": 31.6,
+   "r2": 0.77,
+   "vol_j": 2.31,
+   "signaux": {
+    "tendance_mm": -0.885,
+    "croisement_mm": -0.88,
+    "momentum": -0.799,
+    "rsi": -0.795,
+    "macd": -0.978,
+    "volume": -0.03,
+    "position_40s": -0.842,
+    "pente": -0.983
+   }
+  },
+  {
    "ticker": "VEEV",
    "nom": "Veeva Systems",
    "secteur": "Health Care",
@@ -396,31 +507,59 @@
    }
   },
   {
-   "ticker": "OXY",
-   "nom": "Occidental Petroleum",
+   "ticker": "XOM",
+   "nom": "ExxonMobil",
    "secteur": "Energy",
    "place": "US",
-   "prix": 53.76,
+   "prix": 158.93,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.7951,
-   "score_tech": -0.7951,
+   "score_final": -0.7479,
+   "score_tech": -0.7479,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -6.08,
-   "var20": -14.26,
-   "rsi": 31.4,
-   "r2": 0.736,
-   "vol_j": 2.3,
+   "var5": -5.8,
+   "var20": -10.27,
+   "rsi": 35.0,
+   "r2": 0.734,
+   "vol_j": 2.13,
    "signaux": {
-    "tendance_mm": -0.905,
-    "croisement_mm": -0.976,
-    "momentum": -0.82,
-    "rsi": -0.795,
-    "macd": -0.607,
-    "volume": -0.274,
+    "tendance_mm": -0.797,
+    "croisement_mm": -0.953,
+    "momentum": -0.689,
+    "rsi": -0.69,
+    "macd": -0.79,
+    "volume": -0.057,
     "position_40s": -0.85,
-    "pente": -0.977
+    "pente": -0.963
+   }
+  },
+  {
+   "ticker": "SLB",
+   "nom": "Schlumberger",
+   "secteur": "Energy",
+   "place": "US",
+   "prix": 47.9,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.7072,
+   "score_tech": -0.7072,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -5.91,
+   "var20": -3.33,
+   "rsi": 36.6,
+   "r2": 0.767,
+   "vol_j": 2.31,
+   "signaux": {
+    "tendance_mm": -0.779,
+    "croisement_mm": -0.898,
+    "momentum": -0.615,
+    "rsi": -0.658,
+    "macd": -0.98,
+    "volume": 0.359,
+    "position_40s": -0.85,
+    "pente": -0.91
    }
   },
   {
@@ -428,167 +567,27 @@
    "nom": "International Flavors & Fragrances",
    "secteur": "Materials",
    "place": "US",
-   "prix": 80.08,
+   "prix": 78.61,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.665,
-   "score_tech": -0.665,
+   "score_final": -0.7044,
+   "score_tech": -0.7044,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -3.11,
-   "var20": -12.03,
-   "rsi": 34.4,
-   "r2": 0.888,
-   "vol_j": 2.17,
+   "var5": -2.2,
+   "var20": -16.22,
+   "rsi": 31.7,
+   "r2": 0.9,
+   "vol_j": 2.0,
    "signaux": {
-    "tendance_mm": -0.738,
+    "tendance_mm": -0.824,
     "croisement_mm": -0.994,
-    "momentum": -0.728,
-    "rsi": -0.372,
-    "macd": -0.507,
-    "volume": 0.031,
-    "position_40s": -0.777,
-    "pente": -0.994
-   }
-  },
-  {
-   "ticker": "CRM",
-   "nom": "Salesforce",
-   "secteur": "Information Technology",
-   "place": "US",
-   "prix": 190.4,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.8904,
-   "score_tech": -0.8904,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -12.66,
-   "var20": -21.25,
-   "rsi": 24.1,
-   "r2": 0.864,
-   "vol_j": 2.78,
-   "signaux": {
-    "tendance_mm": -0.987,
-    "croisement_mm": -0.948,
-    "momentum": -0.983,
-    "rsi": -1.0,
-    "macd": -0.999,
-    "volume": 0.014,
+    "momentum": -0.688,
+    "rsi": -0.62,
+    "macd": -0.505,
+    "volume": 0.028,
     "position_40s": -0.85,
-    "pente": -0.997
-   }
-  },
-  {
-   "ticker": "NVDA",
-   "nom": "Nvidia",
-   "secteur": "Information Technology",
-   "place": "US",
-   "prix": 150.96,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.8535,
-   "score_tech": -0.8535,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -13.11,
-   "var20": -31.99,
-   "rsi": 21.1,
-   "r2": 0.924,
-   "vol_j": 3.18,
-   "signaux": {
-    "tendance_mm": -0.997,
-    "croisement_mm": -1.0,
-    "momentum": -0.995,
-    "rsi": -0.513,
-    "macd": -0.544,
-    "volume": -0.836,
-    "position_40s": -0.85,
-    "pente": -1.0
-   }
-  },
-  {
-   "ticker": "COF",
-   "nom": "Capital One",
-   "secteur": "Financials",
-   "place": "US",
-   "prix": 184.3,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.8062,
-   "score_tech": -0.8062,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -6.11,
-   "var20": -10.45,
-   "rsi": 30.5,
-   "r2": 0.593,
-   "vol_j": 1.46,
-   "signaux": {
-    "tendance_mm": -0.861,
-    "croisement_mm": -0.881,
-    "momentum": -0.859,
-    "rsi": -0.751,
-    "macd": -0.983,
-    "volume": -0.15,
-    "position_40s": -0.85,
-    "pente": -0.851
-   }
-  },
-  {
-   "ticker": "A2A.MI",
-   "nom": "A2A S.p.A.",
-   "secteur": "Utilities",
-   "place": "Europe",
-   "prix": 2.251,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.686,
-   "score_tech": -0.686,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -5.34,
-   "var20": -6.25,
-   "rsi": 34.6,
-   "r2": 0.575,
-   "vol_j": 1.21,
-   "signaux": {
-    "tendance_mm": -0.741,
-    "croisement_mm": -0.69,
-    "momentum": -0.697,
-    "rsi": -0.575,
-    "macd": -0.99,
-    "volume": -0.128,
-    "position_40s": -0.638,
-    "pente": -0.745
-   }
-  },
-  {
-   "ticker": "FANG",
-   "nom": "Diamondback Energy",
-   "secteur": "Energy",
-   "place": "US",
-   "prix": 174.32,
-   "sens": "BAISSE",
-   "surete": 8,
-   "score_final": -0.6785,
-   "score_tech": -0.6785,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -3.05,
-   "var20": -12.67,
-   "rsi": 34.9,
-   "r2": 0.713,
-   "vol_j": 2.57,
-   "signaux": {
-    "tendance_mm": -0.742,
-    "croisement_mm": -0.992,
-    "momentum": -0.616,
-    "rsi": -0.589,
-    "macd": -0.49,
-    "volume": -0.039,
-    "position_40s": -0.85,
-    "pente": -0.99
+    "pente": -0.995
    }
   }
  ],
@@ -654,15 +653,35 @@
    "motif": "aucune donnee ou historique trop court"
   },
   {
+   "ticker": "HRL",
+   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
+   "ticker": "MOWI.OL",
+   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
+   "ticker": "COST",
+   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
+   "ticker": "CLX",
+   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
    "ticker": "BN.PA",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "TSCO",
+   "ticker": "ZAL.DE",
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
-   "ticker": "HRL",
+   "ticker": "CMG",
+   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
+  },
+  {
+   "ticker": "ABF.L",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
@@ -674,12 +693,24 @@
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
-   "ticker": "COST",
+   "ticker": "DRI",
+   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
+  },
+  {
+   "ticker": "RI.PA",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "MOWI.OL",
+   "ticker": "HSY",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+  },
+  {
+   "ticker": "ORLY",
+   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
+  },
+  {
+   "ticker": "CON.DE",
+   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
    "ticker": "AD.AS",
@@ -690,15 +721,11 @@
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "RI.PA",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
    "ticker": "ESSITY-B.ST",
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "ITX.MC",
+   "ticker": "AC.PA",
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
@@ -706,83 +733,15 @@
    "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
   },
   {
-   "ticker": "TGT",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "CMG",
+   "ticker": "ITX.MC",
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
-   "ticker": "ABF.L",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
+   "ticker": "SHEL.L",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
   },
   {
-   "ticker": "PG",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "KO",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "SBUX",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "CL",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "ORLY",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "HSY",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "WYNN",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "ZAL.DE",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "SJM",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "AMZN",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "UNA.AS",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "ABI.BR",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "TSCO.L",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "MAR",
-   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
-  },
-  {
-   "ticker": "CHD",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "KR",
-   "motif": "plafond de 3 valeurs « Consumer Staples » atteint"
-  },
-  {
-   "ticker": "ADBE",
+   "ticker": "CTSH",
    "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
@@ -790,23 +749,27 @@
    "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
+   "ticker": "EQT",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "FANG",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "CVX",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "HAL",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "BP.L",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
    "ticker": "ZBRA",
-   "motif": "plafond de 3 valeurs « Information Technology » atteint"
-  },
-  {
-   "ticker": "ASML.AS",
-   "motif": "plafond de 3 valeurs « Information Technology » atteint"
-  },
-  {
-   "ticker": "PLTR",
-   "motif": "plafond de 3 valeurs « Information Technology » atteint"
-  },
-  {
-   "ticker": "CTSH",
-   "motif": "plafond de 3 valeurs « Information Technology » atteint"
-  },
-  {
-   "ticker": "CSCO",
    "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
@@ -814,8 +777,112 @@
    "motif": "plafond de 3 valeurs « Information Technology » atteint"
   },
   {
+   "ticker": "ASML.AS",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "DVN",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "PLTR",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "MPC",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "PSX",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "CSCO",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "AKRBP.OL",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "EXE",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "NESTE.HE",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "COP",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "EQNR.OL",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "OKE",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "ENI.MI",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "NVDA",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "TRMB",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "VLO",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "SAP.DE",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "CDNS",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "MSFT",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "SNPS",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
    "ticker": "NTAP",
    "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "BKR",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "HPQ",
+   "motif": "plafond de 3 valeurs « Information Technology » atteint"
+  },
+  {
+   "ticker": "APA",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "WMB",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "EOG",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
+  },
+  {
+   "ticker": "KMI",
+   "motif": "plafond de 3 valeurs « Energy » atteint"
   }
  ]
 }
