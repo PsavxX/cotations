@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-20",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "TSN",
+   "nom": "Tyson Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 65.12,
+   "score_final": 0.8783
+  },
+  {
+   "ticker": "HRL",
+   "nom": "Hormel Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 23.54,
+   "score_final": 0.7069
+  },
+  {
+   "ticker": "CRDA.L",
+   "nom": "Croda International Plc",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 3880.0,
+   "score_final": 0.6955
+  },
+  {
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 165.83,
+   "score_final": 0.6823
+  },
+  {
+   "ticker": "TSCO",
+   "nom": "Tractor Supply",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 38.44,
+   "score_final": 0.6328
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 348.61,
+   "score_final": 0.558
+  },
+  {
+   "ticker": "EIX",
+   "nom": "Edison International",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 62.24,
+   "score_final": 0.4878
+  },
+  {
+   "ticker": "STMN.SW",
+   "nom": "Straumann Holding AG",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 108.6,
+   "score_final": 0.468
+  },
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 16.2,
+   "score_final": 0.3981
+  },
+  {
+   "ticker": "PCG",
+   "nom": "PG&E Corporation",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 7,
+   "prix": 13.78,
+   "score_final": 0.5736
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 266.22,
+   "score_final": -0.893
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 178.66,
+   "score_final": -0.8893
+  },
+  {
+   "ticker": "CRM",
+   "nom": "Salesforce",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 180.62,
+   "score_final": -0.8843
+  },
+  {
+   "ticker": "CMI",
+   "nom": "Cummins",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 403.61,
+   "score_final": -0.8648
+  },
+  {
+   "ticker": "WDAY",
+   "nom": "Workday, Inc.",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 174.52,
+   "score_final": -0.8464
+  },
+  {
+   "ticker": "ADBE",
+   "nom": "Adobe Inc.",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 217.71,
+   "score_final": -0.8412
+  },
+  {
+   "ticker": "PM",
+   "nom": "Philip Morris International",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 184.09,
+   "score_final": -0.8407
+  },
+  {
+   "ticker": "APTV",
+   "nom": "Aptiv",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 35.33,
+   "score_final": -0.8262
+  },
+  {
+   "ticker": "SLB",
+   "nom": "Schlumberger",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 45.89,
+   "score_final": -0.8234
+  },
+  {
+   "ticker": "SYF",
+   "nom": "Synchrony Financial",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 67.76,
+   "score_final": -0.8064
+  }
+ ]
+}

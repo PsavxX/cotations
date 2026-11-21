@@ -1,26 +1,31 @@
 {
- "scans": 1,
+ "scans": 2,
  "tableaux": {
   "5_seances": {
    "Tous": {
-    "n": 20,
-    "sens_correct": 50.0,
-    "pari_moyen": 0.84
+    "n": 33,
+    "sens_correct": 51.5,
+    "pari_moyen": 2.51
    },
    "Paris a la hausse": {
-    "n": 10,
-    "sens_correct": 10.0,
-    "pari_moyen": -1.85
+    "n": 15,
+    "sens_correct": 6.7,
+    "pari_moyen": -2.6
    },
    "Paris a la baisse": {
-    "n": 10,
-    "sens_correct": 90.0,
-    "pari_moyen": 3.53
+    "n": 18,
+    "sens_correct": 88.9,
+    "pari_moyen": 6.76
    },
    "Surete 8-10": {
-    "n": 20,
+    "n": 32,
     "sens_correct": 50.0,
-    "pari_moyen": 0.84
+    "pari_moyen": 1.89
+   },
+   "Surete 6-7": {
+    "n": 1,
+    "sens_correct": 100.0,
+    "pari_moyen": 22.37
    }
   }
  }
