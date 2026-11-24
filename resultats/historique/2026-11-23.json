@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-23",
+ "valeurs_analysees": 788,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 168.19,
+   "score_final": 0.7195
+  },
+  {
+   "ticker": "PCG",
+   "nom": "PG&E Corporation",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 14.08,
+   "score_final": 0.6563
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 355.25,
+   "score_final": 0.5996
+  },
+  {
+   "ticker": "CRDA.L",
+   "nom": "Croda International Plc",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 3832.0,
+   "score_final": 0.5506
+  },
+  {
+   "ticker": "HRL",
+   "nom": "Hormel Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 23.08,
+   "score_final": 0.5295
+  },
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 16.2,
+   "score_final": 0.3981
+  },
+  {
+   "ticker": "ALC.SW",
+   "nom": "Alcon Inc.",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 7,
+   "prix": 63.28,
+   "score_final": 0.4896
+  },
+  {
+   "ticker": "TSN",
+   "nom": "Tyson Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 7,
+   "prix": 62.95,
+   "score_final": 0.4689
+  },
+  {
+   "ticker": "MGM",
+   "nom": "MGM Resorts",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 7,
+   "prix": 33.69,
+   "score_final": 0.465
+  },
+  {
+   "ticker": "ORLY",
+   "nom": "O'Reilly Automotive",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 7,
+   "prix": 93.62,
+   "score_final": 0.4499
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "SYF",
+   "nom": "Synchrony Financial",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 10,
+   "prix": 67.96,
+   "score_final": -0.783
+  },
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 268.65,
+   "score_final": -0.8711
+  },
+  {
+   "ticker": "PM",
+   "nom": "Philip Morris International",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 182.5,
+   "score_final": -0.8525
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 180.01,
+   "score_final": -0.8478
+  },
+  {
+   "ticker": "SLB",
+   "nom": "Schlumberger",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 46.16,
+   "score_final": -0.8093
+  },
+  {
+   "ticker": "DOW",
+   "nom": "Dow Inc.",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 28.6,
+   "score_final": -0.8001
+  },
+  {
+   "ticker": "WDAY",
+   "nom": "Workday, Inc.",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 176.08,
+   "score_final": -0.7989
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 24.68,
+   "score_final": -0.782
+  },
+  {
+   "ticker": "A2A.MI",
+   "nom": "A2A S.p.A.",
+   "secteur": "Utilities",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 2.194,
+   "score_final": -0.7742
+  },
+  {
+   "ticker": "OXY",
+   "nom": "Occidental Petroleum",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 52.7,
+   "score_final": -0.7603
+  }
+ ]
+}

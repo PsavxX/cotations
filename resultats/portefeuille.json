@@ -2,7 +2,7 @@
  "version": 1,
  "empreinte": "f38e0688ad",
  "debut_test": "2026-11-16",
- "donnees_jusqua": "2026-11-20",
+ "donnees_jusqua": "2026-11-23",
  "regles": {
   "version": 1,
   "fige_le": "2026-11-14",
@@ -53,56 +53,56 @@
    "annuel_ref": 0.1757915354065922,
    "ecart_annuel": -0.07891138974799716,
    "volatilite": 0.15238174290405784,
-   "pire_baisse": -0.24329094642464,
-   "pire_baisse_ref": -0.3718517356569424,
+   "pire_baisse": -0.24329094642464022,
+   "pire_baisse_ref": -0.3718517356569425,
    "mois": 130,
    "mois_gagnants": 0.38461538461538464,
-   "t_mensuel": -1.8298861103309987,
+   "t_mensuel": -1.8298861103309965,
    "annualise": true
   },
   "momentum": {
    "depuis": "2016-01-13",
    "jusqua": "2026-11-13",
-   "valeur": 79623.06360185402,
-   "total": 6.962306360185402,
-   "annuel": 0.21107263936726683,
+   "valeur": 78911.19354500477,
+   "total": 6.891119354500478,
+   "annuel": 0.2100691220047013,
    "annuel_ref": 0.1757915354065922,
-   "ecart_annuel": 0.03528110396067463,
-   "volatilite": 0.21424582387418042,
-   "pire_baisse": -0.39875735892546815,
-   "pire_baisse_ref": -0.3718517356569424,
+   "ecart_annuel": 0.03427758659810909,
+   "volatilite": 0.2143055011973417,
+   "pire_baisse": -0.3987573589254684,
+   "pire_baisse_ref": -0.3718517356569425,
    "mois": 130,
    "mois_gagnants": 0.5153846153846153,
-   "t_mensuel": 1.033904537464891,
+   "t_mensuel": 1.0108669421862342,
    "annualise": true
   },
   "momentum_filtre": {
    "depuis": "2016-01-13",
    "jusqua": "2026-11-13",
-   "valeur": 61534.0772386886,
-   "total": 5.1534077238688605,
-   "annuel": 0.18260346596347254,
+   "valeur": 61945.44855266049,
+   "total": 5.194544855266049,
+   "annuel": 0.18333102381802568,
    "annuel_ref": 0.1757915354065922,
-   "ecart_annuel": 0.006811930556880341,
-   "volatilite": 0.18373698495483412,
-   "pire_baisse": -0.3200475766775165,
-   "pire_baisse_ref": -0.3718517356569424,
+   "ecart_annuel": 0.0075394884114334815,
+   "volatilite": 0.18371632449388806,
+   "pire_baisse": -0.31492522679683577,
+   "pire_baisse_ref": -0.3718517356569425,
    "mois": 130,
    "mois_gagnants": 0.5,
-   "t_mensuel": 0.19419337424104194,
+   "t_mensuel": 0.2087226425367231,
    "annualise": true
   },
   "marche": {
    "depuis": "2016-01-13",
    "jusqua": "2026-11-13",
-   "valeur": 57801.082312041035,
-   "total": 4.780108231204103,
+   "valeur": 57801.08231204099,
+   "total": 4.780108231204099,
    "annuel": 0.1757915354065922,
    "annuel_ref": 0.1757915354065922,
    "ecart_annuel": 0.0,
-   "volatilite": 0.16057753629463117,
-   "pire_baisse": -0.3718517356569424,
-   "pire_baisse_ref": -0.3718517356569424,
+   "volatilite": 0.1605775362946312,
+   "pire_baisse": -0.3718517356569425,
+   "pire_baisse_ref": -0.3718517356569425,
    "mois": 130,
    "mois_gagnants": 0.0,
    "t_mensuel": NaN,
@@ -112,15 +112,15 @@
  "direct": {
   "moteur": {
    "depuis": "2026-11-16",
-   "jusqua": "2026-11-20",
-   "valeur": 9745.810642822184,
-   "total": -0.025418935717781643,
-   "annuel": -0.025418935717781643,
-   "annuel_ref": -0.054159137291156956,
-   "ecart_annuel": 0.028740201573375312,
-   "volatilite": 0.1445879992583991,
-   "pire_baisse": -0.026999942098175245,
-   "pire_baisse_ref": -0.054159137291156956,
+   "jusqua": "2026-11-23",
+   "valeur": 9701.824672889823,
+   "total": -0.029817532711017725,
+   "annuel": -0.029817532711017725,
+   "annuel_ref": -0.027060472102273136,
+   "ecart_annuel": -0.002757060608744588,
+   "volatilite": 0.10116177438335129,
+   "pire_baisse": -0.029817532711017725,
+   "pire_baisse_ref": -0.05416815135822439,
    "mois": 0,
    "mois_gagnants": NaN,
    "t_mensuel": NaN,
@@ -130,128 +130,128 @@
      "ticker": "RED.MC",
      "nom": "Redeia Corporación, S.A.",
      "secteur": "Utilities",
-     "poids": 0.103
-    },
-    {
-     "ticker": "COST",
-     "nom": "Costco",
-     "secteur": "Consumer Staples",
-     "poids": 0.1017
+     "poids": 0.1034
     },
     {
      "ticker": "ES",
      "nom": "Eversource Energy",
      "secteur": "Utilities",
-     "poids": 0.1017
+     "poids": 0.1028
     },
     {
-     "ticker": "EN.PA",
-     "nom": "Bouygues SA",
-     "secteur": "Industrials",
-     "poids": 0.1005
-    },
-    {
-     "ticker": "ALV.DE",
-     "nom": "Allianz SE",
-     "secteur": "Financials",
-     "poids": 0.1005
+     "ticker": "COST",
+     "nom": "Costco",
+     "secteur": "Consumer Staples",
+     "poids": 0.1018
     },
     {
      "ticker": "AD.AS",
      "nom": "Koninklijke Ahold Delhaize N.V.",
      "secteur": "Consumer Staples",
+     "poids": 0.1013
+    },
+    {
+     "ticker": "EN.PA",
+     "nom": "Bouygues SA",
+     "secteur": "Industrials",
      "poids": 0.1
     },
     {
      "ticker": "HEN3.DE",
      "nom": "Henkel AG & Co. KGaA",
      "secteur": "Consumer Staples",
-     "poids": 0.0997
+     "poids": 0.0999
     },
     {
-     "ticker": "CBOE",
-     "nom": "Cboe Global Markets",
+     "ticker": "ALV.DE",
+     "nom": "Allianz SE",
      "secteur": "Financials",
-     "poids": 0.099
+     "poids": 0.0997
     },
     {
      "ticker": "AMS.MC",
      "nom": "Amadeus IT Group, S.A.",
      "secteur": "Information Technology",
-     "poids": 0.0988
+     "poids": 0.0993
+    },
+    {
+     "ticker": "CBOE",
+     "nom": "Cboe Global Markets",
+     "secteur": "Financials",
+     "poids": 0.0986
     },
     {
      "ticker": "AC.PA",
      "nom": "Accor SA",
      "secteur": "Consumer Discretionary",
-     "poids": 0.0951
+     "poids": 0.0932
     }
    ],
    "liquidites": 0.0
   },
   "momentum": {
    "depuis": "2026-11-16",
-   "jusqua": "2026-11-20",
-   "valeur": 9593.32538691832,
-   "total": -0.040667461308167896,
-   "annuel": -0.040667461308167896,
-   "annuel_ref": -0.054159137291156956,
-   "ecart_annuel": 0.01349167598298906,
-   "volatilite": 0.124791103946655,
-   "pire_baisse": -0.040667461308167896,
-   "pire_baisse_ref": -0.054159137291156956,
+   "jusqua": "2026-11-23",
+   "valeur": 9664.157871313995,
+   "total": -0.03358421286860047,
+   "annuel": -0.03358421286860047,
+   "annuel_ref": -0.027060472102273136,
+   "ecart_annuel": -0.006523740766327335,
+   "volatilite": 0.2064039760629687,
+   "pire_baisse": -0.04550075803145137,
+   "pire_baisse_ref": -0.05416815135822439,
    "mois": 0,
    "mois_gagnants": NaN,
    "t_mensuel": NaN,
    "annualise": false,
    "positions": [
     {
-     "ticker": "MB.MI",
-     "nom": "Mediobanca Banca di Credito Finanziario S.p.A.",
-     "secteur": "Financials",
-     "poids": 0.076
-    },
-    {
      "ticker": "DSFIR.AS",
      "nom": "DSM-Firmenich AG",
      "secteur": "Materials",
-     "poids": 0.0747
+     "poids": 0.074
+    },
+    {
+     "ticker": "MB.MI",
+     "nom": "Mediobanca Banca di Credito Finanziario S.p.A.",
+     "secteur": "Financials",
+     "poids": 0.074
     },
     {
      "ticker": "ABN.AS",
      "nom": "ABN AMRO Bank N.V.",
      "secteur": "Financials",
-     "poids": 0.0721
+     "poids": 0.0693
     },
     {
      "ticker": "TGT",
      "nom": "Target Corporation",
      "secteur": "Consumer Staples",
-     "poids": 0.068
+     "poids": 0.0685
     },
     {
      "ticker": "DEMANT.CO",
      "nom": "Demant A/S",
      "secteur": "Health Care",
-     "poids": 0.067
+     "poids": 0.0666
     },
     {
      "ticker": "WPP.L",
      "nom": "WPP plc",
      "secteur": "Communication Services",
-     "poids": 0.0597
+     "poids": 0.0579
     },
     {
      "ticker": "MAERSK-B.CO",
      "nom": "A.P. Møller - Mærsk A/S",
      "secteur": "Industrials",
-     "poids": 0.0561
+     "poids": 0.0556
     },
     {
      "ticker": "REP.MC",
      "nom": "Repsol, S.A.",
      "secteur": "Energy",
-     "poids": 0.0549
+     "poids": 0.0545
     },
     {
      "ticker": "EDEN.PA",
@@ -263,134 +263,134 @@
      "ticker": "PSX",
      "nom": "Phillips 66",
      "secteur": "Energy",
-     "poids": 0.0531
+     "poids": 0.0522
     },
     {
      "ticker": "RVTY",
      "nom": "Revvity",
      "secteur": "Health Care",
-     "poids": 0.0453
-    },
-    {
-     "ticker": "HUM",
-     "nom": "Humana",
-     "secteur": "Health Care",
-     "poids": 0.0452
-    },
-    {
-     "ticker": "MPC",
-     "nom": "Marathon Petroleum",
-     "secteur": "Energy",
-     "poids": 0.0442
+     "poids": 0.0468
     },
     {
      "ticker": "ABNB",
      "nom": "Airbnb",
      "secteur": "Consumer Discretionary",
-     "poids": 0.0437
+     "poids": 0.0443
     },
     {
-     "ticker": "VLO",
-     "nom": "Valero Energy",
+     "ticker": "HUM",
+     "nom": "Humana",
+     "secteur": "Health Care",
+     "poids": 0.0441
+    },
+    {
+     "ticker": "MPC",
+     "nom": "Marathon Petroleum",
      "secteur": "Energy",
-     "poids": 0.042
+     "poids": 0.0427
     },
     {
      "ticker": "CRL",
      "nom": "Charles River Laboratories",
      "secteur": "Health Care",
-     "poids": 0.0387
+     "poids": 0.0413
+    },
+    {
+     "ticker": "VLO",
+     "nom": "Valero Energy",
+     "secteur": "Energy",
+     "poids": 0.0411
     },
     {
      "ticker": "NTAP",
      "nom": "NetApp",
      "secteur": "Information Technology",
-     "poids": 0.0344
-    },
-    {
-     "ticker": "CRWD",
-     "nom": "CrowdStrike",
-     "secteur": "Information Technology",
-     "poids": 0.0279
+     "poids": 0.0372
     },
     {
      "ticker": "HPE",
      "nom": "Hewlett Packard Enterprise",
      "secteur": "Information Technology",
-     "poids": 0.0238
+     "poids": 0.0277
+    },
+    {
+     "ticker": "CRWD",
+     "nom": "CrowdStrike",
+     "secteur": "Information Technology",
+     "poids": 0.0252
     },
     {
      "ticker": "DELL",
      "nom": "Dell Technologies",
      "secteur": "Information Technology",
-     "poids": 0.0192
+     "poids": 0.023
     }
    ],
    "liquidites": 0.0
   },
   "momentum_filtre": {
    "depuis": "2026-11-16",
-   "jusqua": "2026-11-20",
-   "valeur": 9593.32538691832,
-   "total": -0.040667461308167896,
-   "annuel": -0.040667461308167896,
-   "annuel_ref": -0.054159137291156956,
-   "ecart_annuel": 0.01349167598298906,
-   "volatilite": 0.124791103946655,
-   "pire_baisse": -0.040667461308167896,
-   "pire_baisse_ref": -0.054159137291156956,
+   "jusqua": "2026-11-23",
+   "valeur": 9664.157871313995,
+   "total": -0.03358421286860047,
+   "annuel": -0.03358421286860047,
+   "annuel_ref": -0.027060472102273136,
+   "ecart_annuel": -0.006523740766327335,
+   "volatilite": 0.2064039760629687,
+   "pire_baisse": -0.04550075803145137,
+   "pire_baisse_ref": -0.05416815135822439,
    "mois": 0,
    "mois_gagnants": NaN,
    "t_mensuel": NaN,
    "annualise": false,
    "positions": [
     {
-     "ticker": "MB.MI",
-     "nom": "Mediobanca Banca di Credito Finanziario S.p.A.",
-     "secteur": "Financials",
-     "poids": 0.076
-    },
-    {
      "ticker": "DSFIR.AS",
      "nom": "DSM-Firmenich AG",
      "secteur": "Materials",
-     "poids": 0.0747
+     "poids": 0.074
+    },
+    {
+     "ticker": "MB.MI",
+     "nom": "Mediobanca Banca di Credito Finanziario S.p.A.",
+     "secteur": "Financials",
+     "poids": 0.074
     },
     {
      "ticker": "ABN.AS",
      "nom": "ABN AMRO Bank N.V.",
      "secteur": "Financials",
-     "poids": 0.0721
+     "poids": 0.0693
     },
     {
      "ticker": "TGT",
      "nom": "Target Corporation",
      "secteur": "Consumer Staples",
-     "poids": 0.068
+     "poids": 0.0685
     },
     {
      "ticker": "DEMANT.CO",
      "nom": "Demant A/S",
      "secteur": "Health Care",
-     "poids": 0.067
+     "poids": 0.0666
     },
     {
      "ticker": "WPP.L",
      "nom": "WPP plc",
      "secteur": "Communication Services",
-     "poids": 0.0597
+     "poids": 0.0579
     },
     {
      "ticker": "MAERSK-B.CO",
      "nom": "A.P. Møller - Mærsk A/S",
      "secteur": "Industrials",
-     "poids": 0.0561
+     "poids": 0.0556
     },
     {
      "ticker": "REP.MC",
      "nom": "Repsol, S.A.",
      "secteur": "Energy",
-     "poids": 0.0549
+     "poids": 0.0545
     },
     {
      "ticker": "EDEN.PA",
@@ -402,82 +402,82 @@
      "ticker": "PSX",
      "nom": "Phillips 66",
      "secteur": "Energy",
-     "poids": 0.0531
+     "poids": 0.0522
     },
     {
      "ticker": "RVTY",
      "nom": "Revvity",
      "secteur": "Health Care",
-     "poids": 0.0453
-    },
-    {
-     "ticker": "HUM",
-     "nom": "Humana",
-     "secteur": "Health Care",
-     "poids": 0.0452
-    },
-    {
-     "ticker": "MPC",
-     "nom": "Marathon Petroleum",
-     "secteur": "Energy",
-     "poids": 0.0442
+     "poids": 0.0468
     },
     {
      "ticker": "ABNB",
      "nom": "Airbnb",
      "secteur": "Consumer Discretionary",
-     "poids": 0.0437
+     "poids": 0.0443
     },
     {
-     "ticker": "VLO",
-     "nom": "Valero Energy",
+     "ticker": "HUM",
+     "nom": "Humana",
+     "secteur": "Health Care",
+     "poids": 0.0441
+    },
+    {
+     "ticker": "MPC",
+     "nom": "Marathon Petroleum",
      "secteur": "Energy",
-     "poids": 0.042
+     "poids": 0.0427
     },
     {
      "ticker": "CRL",
      "nom": "Charles River Laboratories",
      "secteur": "Health Care",
-     "poids": 0.0387
+     "poids": 0.0413
+    },
+    {
+     "ticker": "VLO",
+     "nom": "Valero Energy",
+     "secteur": "Energy",
+     "poids": 0.0411
     },
     {
      "ticker": "NTAP",
      "nom": "NetApp",
      "secteur": "Information Technology",
-     "poids": 0.0344
-    },
-    {
-     "ticker": "CRWD",
-     "nom": "CrowdStrike",
-     "secteur": "Information Technology",
-     "poids": 0.0279
+     "poids": 0.0372
     },
     {
      "ticker": "HPE",
      "nom": "Hewlett Packard Enterprise",
      "secteur": "Information Technology",
-     "poids": 0.0238
+     "poids": 0.0277
+    },
+    {
+     "ticker": "CRWD",
+     "nom": "CrowdStrike",
+     "secteur": "Information Technology",
+     "poids": 0.0252
     },
     {
      "ticker": "DELL",
      "nom": "Dell Technologies",
      "secteur": "Information Technology",
-     "poids": 0.0192
+     "poids": 0.023
     }
    ],
    "liquidites": 0.0
   },
   "marche": {
    "depuis": "2026-11-16",
-   "jusqua": "2026-11-20",
-   "valeur": 9458.40862708843,
-   "total": -0.054159137291156956,
-   "annuel": -0.054159137291156956,
-   "annuel_ref": -0.054159137291156956,
+   "jusqua": "2026-11-23",
+   "valeur": 9729.395278977268,
+   "total": -0.027060472102273136,
+   "annuel": -0.027060472102273136,
+   "annuel_ref": -0.027060472102273136,
    "ecart_annuel": 0.0,
-   "volatilite": 0.13464357570688262,
-   "pire_baisse": -0.054159137291156956,
-   "pire_baisse_ref": -0.054159137291156956,
+   "volatilite": 0.3222182371544605,
+   "pire_baisse": -0.05416815135822439,
+   "pire_baisse_ref": -0.05416815135822439,
    "mois": 0,
    "mois_gagnants": NaN,
    "t_mensuel": NaN,
