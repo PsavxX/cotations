@@ -1,6 +1,6 @@
 # Portefeuille fictif
 
-Règles **version 1**, figées le 2026-11-14 · empreinte `f38e0688ad` · données jusqu'au **2026-11-23**
+Règles **version 1**, figées le 2026-11-14 · empreinte `f38e0688ad` · données jusqu'au **2026-11-24**
 
 > Argent fictif : aucun ordre réel n'est passé. Frais de 0,15 % par ordre déduits. Rendements en devise locale (change ignoré). Univers = composition actuelle des indices : le passé est flatté (biais du survivant), surtout pour le momentum. Ce n'est pas un conseil en investissement.
 
@@ -10,81 +10,81 @@ Départ le 2026-11-16 avec 10 000 € par stratégie, sur des cours qui n'exista
 
 | Stratégie | Valeur | Rendement | Écart avec le marché | Pire baisse | Mois gagnants | t mensuel | Frais payés |
 |---|---|---|---|---|---|---|---|
-| Moteur actuel | 9 702 € | -3,0 % | **-0,3 %** | -3,0 % | — | — | 15 € |
-| Momentum | 9 664 € | -3,4 % | **-0,7 %** | -4,6 % | — | — | 15 € |
-| Momentum + filtre | 9 664 € | -3,4 % | **-0,7 %** | -4,6 % | — | — | 15 € |
-| *Marché (référence)* | 9 729 € | -2,7 % | — | -5,4 % | — | — | 0 € |
+| Moteur actuel | 9 821 € | -1,8 % | **+1,1 %** | -2,9 % | — | — | 15 € |
+| Momentum | 9 688 € | -3,1 % | **-0,3 %** | -4,6 % | — | — | 15 € |
+| Momentum + filtre | 9 688 € | -3,1 % | **-0,3 %** | -4,6 % | — | — | 15 € |
+| *Marché (référence)* | 9 715 € | -2,9 % | — | -5,4 % | — | — | 0 € |
 
 Moins de 6 mois de suivi : les écarts relèvent encore largement du hasard.
 
-### Moteur actuel — positions au 2026-11-23
+### Moteur actuel — positions au 2026-11-24
 
 | Valeur | Nom | Secteur | Poids |
 |---|---|---|---|
 | **RED.MC** | Redeia Corporación, S.A. | Utilities | 10,3 % |
 | **ES** | Eversource Energy | Utilities | 10,3 % |
-| **COST** | Costco | Consumer Staples | 10,2 % |
-| **AD.AS** | Koninklijke Ahold Delhaize N.V | Consumer Staples | 10,1 % |
-| **EN.PA** | Bouygues SA | Industrials | 10,0 % |
-| **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 10,0 % |
+| **COST** | Costco | Consumer Staples | 10,3 % |
+| **AD.AS** | Koninklijke Ahold Delhaize N.V | Consumer Staples | 10,0 % |
 | **ALV.DE** | Allianz SE | Financials | 10,0 % |
-| **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 9,9 % |
-| **CBOE** | Cboe Global Markets | Financials | 9,9 % |
-| **AC.PA** | Accor SA | Consumer Discretionary | 9,3 % |
+| **CBOE** | Cboe Global Markets | Financials | 10,0 % |
+| **EN.PA** | Bouygues SA | Industrials | 9,9 % |
+| **HEN3.DE** | Henkel AG & Co. KGaA | Consumer Staples | 9,9 % |
+| **AMS.MC** | Amadeus IT Group, S.A. | Information Technology | 9,8 % |
+| **AC.PA** | Accor SA | Consumer Discretionary | 9,5 % |
 
 Liquidités : 0,0 %
 
-### Momentum — positions au 2026-11-23
+### Momentum — positions au 2026-11-24
 
 | Valeur | Nom | Secteur | Poids |
 |---|---|---|---|
-| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,4 % |
-| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,4 % |
-| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 6,9 % |
-| **TGT** | Target Corporation | Consumer Staples | 6,9 % |
+| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,6 % |
+| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,5 % |
+| **TGT** | Target Corporation | Consumer Staples | 7,1 % |
+| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 7,1 % |
 | **DEMANT.CO** | Demant A/S | Health Care | 6,7 % |
 | **WPP.L** | WPP plc | Communication Services | 5,8 % |
 | **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 5,6 % |
-| **REP.MC** | Repsol, S.A. | Energy | 5,5 % |
-| **EDEN.PA** | Edenred SE | Financials | 5,4 % |
+| **EDEN.PA** | Edenred SE | Financials | 5,5 % |
+| **REP.MC** | Repsol, S.A. | Energy | 5,3 % |
 | **PSX** | Phillips 66 | Energy | 5,2 % |
 | **RVTY** | Revvity | Health Care | 4,7 % |
+| **HUM** | Humana | Health Care | 4,6 % |
 | **ABNB** | Airbnb | Consumer Discretionary | 4,4 % |
-| **HUM** | Humana | Health Care | 4,4 % |
-| **MPC** | Marathon Petroleum | Energy | 4,3 % |
+| **MPC** | Marathon Petroleum | Energy | 4,2 % |
 | **CRL** | Charles River Laboratories | Health Care | 4,1 % |
-| **VLO** | Valero Energy | Energy | 4,1 % |
-| **NTAP** | NetApp | Information Technology | 3,7 % |
-| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,8 % |
+| **VLO** | Valero Energy | Energy | 4,0 % |
+| **NTAP** | NetApp | Information Technology | 3,5 % |
 | **CRWD** | CrowdStrike | Information Technology | 2,5 % |
-| **DELL** | Dell Technologies | Information Technology | 2,3 % |
+| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,3 % |
+| **DELL** | Dell Technologies | Information Technology | 2,0 % |
 
 Liquidités : 0,0 %
 
-### Momentum + filtre — positions au 2026-11-23
+### Momentum + filtre — positions au 2026-11-24
 
 | Valeur | Nom | Secteur | Poids |
 |---|---|---|---|
-| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,4 % |
-| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,4 % |
-| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 6,9 % |
-| **TGT** | Target Corporation | Consumer Staples | 6,9 % |
+| **MB.MI** | Mediobanca Banca di Credito Fi | Financials | 7,6 % |
+| **DSFIR.AS** | DSM-Firmenich AG | Materials | 7,5 % |
+| **TGT** | Target Corporation | Consumer Staples | 7,1 % |
+| **ABN.AS** | ABN AMRO Bank N.V. | Financials | 7,1 % |
 | **DEMANT.CO** | Demant A/S | Health Care | 6,7 % |
 | **WPP.L** | WPP plc | Communication Services | 5,8 % |
 | **MAERSK-B.CO** | A.P. Møller - Mærsk A/S | Industrials | 5,6 % |
-| **REP.MC** | Repsol, S.A. | Energy | 5,5 % |
-| **EDEN.PA** | Edenred SE | Financials | 5,4 % |
+| **EDEN.PA** | Edenred SE | Financials | 5,5 % |
+| **REP.MC** | Repsol, S.A. | Energy | 5,3 % |
 | **PSX** | Phillips 66 | Energy | 5,2 % |
 | **RVTY** | Revvity | Health Care | 4,7 % |
+| **HUM** | Humana | Health Care | 4,6 % |
 | **ABNB** | Airbnb | Consumer Discretionary | 4,4 % |
-| **HUM** | Humana | Health Care | 4,4 % |
-| **MPC** | Marathon Petroleum | Energy | 4,3 % |
+| **MPC** | Marathon Petroleum | Energy | 4,2 % |
 | **CRL** | Charles River Laboratories | Health Care | 4,1 % |
-| **VLO** | Valero Energy | Energy | 4,1 % |
-| **NTAP** | NetApp | Information Technology | 3,7 % |
-| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,8 % |
+| **VLO** | Valero Energy | Energy | 4,0 % |
+| **NTAP** | NetApp | Information Technology | 3,5 % |
 | **CRWD** | CrowdStrike | Information Technology | 2,5 % |
-| **DELL** | Dell Technologies | Information Technology | 2,3 % |
+| **HPE** | Hewlett Packard Enterprise | Information Technology | 2,3 % |
+| **DELL** | Dell Technologies | Information Technology | 2,0 % |
 
 Liquidités : 0,0 %
 
@@ -124,6 +124,6 @@ Fixés le 2026-11-14, avant le début du test :
 | Simulation sur au moins 8 ans | oui | oui | oui |
 | Simulation : bat le marché, t > 2 | non | non | non |
 | Suivi en direct depuis au moins 6 mois | non | non | non |
-| Suivi en direct : bat le marché | non | non | non |
+| Suivi en direct : bat le marché | oui | non | non |
 | Pire baisse acceptable pour Pierre | à fixer | à fixer | à fixer |
 

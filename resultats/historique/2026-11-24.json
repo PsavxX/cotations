@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-24",
+ "valeurs_analysees": 787,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 176.06,
+   "score_final": 0.8177
+  },
+  {
+   "ticker": "CRDA.L",
+   "nom": "Croda International Plc",
+   "secteur": "Materials",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 3883.0,
+   "score_final": 0.644
+  },
+  {
+   "ticker": "PCG",
+   "nom": "PG&E Corporation",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 14.22,
+   "score_final": 0.7036
+  },
+  {
+   "ticker": "ORLY",
+   "nom": "O'Reilly Automotive",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 95.43,
+   "score_final": 0.6104
+  },
+  {
+   "ticker": "TSCO",
+   "nom": "Tractor Supply",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 39.45,
+   "score_final": 0.581
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 356.52,
+   "score_final": 0.5634
+  },
+  {
+   "ticker": "HRL",
+   "nom": "Hormel Foods",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 23.27,
+   "score_final": 0.5226
+  },
+  {
+   "ticker": "T",
+   "nom": "AT&T",
+   "secteur": "Communication Services",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 22.88,
+   "score_final": 0.5181
+  },
+  {
+   "ticker": "ARGX.BR",
+   "nom": "argenx SE",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 876.2,
+   "score_final": 0.5093
+  },
+  {
+   "ticker": "MOWI.OL",
+   "nom": "Mowi ASA",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 229.2,
+   "score_final": 0.4949
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 10,
+   "prix": 181.36,
+   "score_final": -0.7324
+  },
+  {
+   "ticker": "PM",
+   "nom": "Philip Morris International",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 183.95,
+   "score_final": -0.8151
+  },
+  {
+   "ticker": "MNST",
+   "nom": "Monster Beverage",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 42.17,
+   "score_final": -0.8062
+  },
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 273.62,
+   "score_final": -0.7716
+  },
+  {
+   "ticker": "DOW",
+   "nom": "Dow Inc.",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 28.95,
+   "score_final": -0.7706
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 24.1,
+   "score_final": -0.7604
+  },
+  {
+   "ticker": "SYF",
+   "nom": "Synchrony Financial",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 67.91,
+   "score_final": -0.7459
+  },
+  {
+   "ticker": "VOW3.DE",
+   "nom": "Volkswagen AG",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 63.96,
+   "score_final": -0.7373
+  },
+  {
+   "ticker": "BA.L",
+   "nom": "BAE Systems plc",
+   "secteur": "Industrials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 1820.0,
+   "score_final": -0.7207
+  },
+  {
+   "ticker": "SLB",
+   "nom": "Schlumberger",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 46.99,
+   "score_final": -0.7189
+  }
+ ]
+}
