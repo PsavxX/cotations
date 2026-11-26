@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-25",
+ "valeurs_analysees": 787,
+ "macro_appliquee": false,
+ "hausse": [
+  {
+   "ticker": "ORLY",
+   "nom": "O'Reilly Automotive",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 96.69,
+   "score_final": 0.7117
+  },
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 16.79,
+   "score_final": 0.6672
+  },
+  {
+   "ticker": "DPZ",
+   "nom": "Domino's",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 9,
+   "prix": 361.53,
+   "score_final": 0.6398
+  },
+  {
+   "ticker": "KHC",
+   "nom": "Kraft Heinz",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 26.51,
+   "score_final": 0.7252
+  },
+  {
+   "ticker": "SAN.PA",
+   "nom": "Sanofi",
+   "secteur": "Health Care",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 93.58,
+   "score_final": 0.7017
+  },
+  {
+   "ticker": "PCG",
+   "nom": "PG&E Corporation",
+   "secteur": "Utilities",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 14.26,
+   "score_final": 0.6962
+  },
+  {
+   "ticker": "CHRW",
+   "nom": "C.H. Robinson",
+   "secteur": "Industrials",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 144.82,
+   "score_final": 0.6926
+  },
+  {
+   "ticker": "WTW",
+   "nom": "Willis Towers Watson",
+   "secteur": "Financials",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 352.56,
+   "score_final": 0.685
+  },
+  {
+   "ticker": "TGT",
+   "nom": "Target Corporation",
+   "secteur": "Consumer Staples",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 172.22,
+   "score_final": 0.6763
+  },
+  {
+   "ticker": "TSCO",
+   "nom": "Tractor Supply",
+   "secteur": "Consumer Discretionary",
+   "sens": "HAUSSE",
+   "surete": 8,
+   "prix": 40.37,
+   "score_final": 0.6571
+  }
+ ],
+ "baisse": [
+  {
+   "ticker": "GLEN.L",
+   "nom": "Glencore plc",
+   "secteur": "Materials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 441.25,
+   "score_final": -0.844
+  },
+  {
+   "ticker": "VOW3.DE",
+   "nom": "Volkswagen AG",
+   "secteur": "Consumer Discretionary",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 62.36,
+   "score_final": -0.8157
+  },
+  {
+   "ticker": "MNST",
+   "nom": "Monster Beverage",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 42.6,
+   "score_final": -0.7723
+  },
+  {
+   "ticker": "NESTE.HE",
+   "nom": "Neste Oyj",
+   "secteur": "Energy",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 23.75,
+   "score_final": -0.7657
+  },
+  {
+   "ticker": "PM",
+   "nom": "Philip Morris International",
+   "secteur": "Consumer Staples",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 184.32,
+   "score_final": -0.7545
+  },
+  {
+   "ticker": "HEXA-B.ST",
+   "nom": "Hexagon AB (publ)",
+   "secteur": "Information Technology",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 100.75,
+   "score_final": -0.6901
+  },
+  {
+   "ticker": "VEEV",
+   "nom": "Veeva Systems",
+   "secteur": "Health Care",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 271.9,
+   "score_final": -0.6518
+  },
+  {
+   "ticker": "COF",
+   "nom": "Capital One",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 182.52,
+   "score_final": -0.6055
+  },
+  {
+   "ticker": "SYF",
+   "nom": "Synchrony Financial",
+   "secteur": "Financials",
+   "sens": "BAISSE",
+   "surete": 9,
+   "prix": 68.73,
+   "score_final": -0.581
+  },
+  {
+   "ticker": "VOD.L",
+   "nom": "Vodafone Group Public Limited Company",
+   "secteur": "Communication Services",
+   "sens": "BAISSE",
+   "surete": 8,
+   "prix": 102.9,
+   "score_final": -0.872
+  }
+ ]
+}
