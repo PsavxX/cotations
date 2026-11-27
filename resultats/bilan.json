@@ -1,26 +1,26 @@
 {
- "scans": 5,
+ "scans": 6,
  "tableaux": {
   "5_seances": {
    "Tous": {
-    "n": 93,
-    "sens_correct": 45.2,
-    "pari_moyen": 0.36
+    "n": 101,
+    "sens_correct": 43.6,
+    "pari_moyen": 0.24
    },
    "Paris a la hausse": {
-    "n": 44,
-    "sens_correct": 20.5,
-    "pari_moyen": -2.12
+    "n": 51,
+    "sens_correct": 19.6,
+    "pari_moyen": -2.03
    },
    "Paris a la baisse": {
-    "n": 49,
-    "sens_correct": 67.3,
-    "pari_moyen": 2.59
+    "n": 50,
+    "sens_correct": 68.0,
+    "pari_moyen": 2.55
    },
    "Surete 8-10": {
-    "n": 91,
-    "sens_correct": 44.0,
-    "pari_moyen": 0.01
+    "n": 99,
+    "sens_correct": 42.4,
+    "pari_moyen": -0.09
    },
    "Surete 6-7": {
     "n": 2,
@@ -30,24 +30,24 @@
   },
   "10_seances": {
    "Tous": {
-    "n": 11,
-    "sens_correct": 54.5,
-    "pari_moyen": 1.87
+    "n": 20,
+    "sens_correct": 55.0,
+    "pari_moyen": 1.62
    },
    "Paris a la hausse": {
-    "n": 5,
+    "n": 10,
     "sens_correct": 20.0,
-    "pari_moyen": -1.26
+    "pari_moyen": -2.0
    },
    "Paris a la baisse": {
-    "n": 6,
-    "sens_correct": 83.3,
-    "pari_moyen": 4.47
+    "n": 10,
+    "sens_correct": 90.0,
+    "pari_moyen": 5.24
    },
    "Surete 8-10": {
-    "n": 11,
-    "sens_correct": 54.5,
-    "pari_moyen": 1.87
+    "n": 20,
+    "sens_correct": 55.0,
+    "pari_moyen": 1.62
    }
   }
  }

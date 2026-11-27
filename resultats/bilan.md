@@ -6,19 +6,19 @@ Chaque valeur publiee est comparee au cours observe 5 et 10 seances plus tard. Â
 
 | Perimetre | Paris evalues | Sens correct | Rendement moyen du pari |
 |---|---|---|---|
-| Tous | 93 | 45,2 % | +0,36 % |
-| Paris a la hausse | 44 | 20,5 % | -2,12 % |
-| Paris a la baisse | 49 | 67,3 % | +2,59 % |
-| Surete 8-10 | 91 | 44,0 % | +0,01 % |
+| Tous | 101 | 43,6 % | +0,24 % |
+| Paris a la hausse | 51 | 19,6 % | -2,03 % |
+| Paris a la baisse | 50 | 68,0 % | +2,55 % |
+| Surete 8-10 | 99 | 42,4 % | -0,09 % |
 | Surete 6-7 | 2 | 100,0 % | +16,15 % |
 
 ## A 10 seances
 
 | Perimetre | Paris evalues | Sens correct | Rendement moyen du pari |
 |---|---|---|---|
-| Tous | 11 | 54,5 % | +1,87 % |
-| Paris a la hausse | 5 | 20,0 % | -1,26 % |
-| Paris a la baisse | 6 | 83,3 % | +4,47 % |
-| Surete 8-10 | 11 | 54,5 % | +1,87 % |
+| Tous | 20 | 55,0 % | +1,62 % |
+| Paris a la hausse | 10 | 20,0 % | -2,00 % |
+| Paris a la baisse | 10 | 90,0 % | +5,24 % |
+| Surete 8-10 | 20 | 55,0 % | +1,62 % |
 
-5 scans evalues. Tant que ce nombre est faible, ces chiffres indiquent une direction, ils ne prouvent rien : voir `backtest.md` pour le test sur tout l'historique.
+6 scans evalues. Tant que ce nombre est faible, ces chiffres indiquent une direction, ils ne prouvent rien : voir `backtest.md` pour le test sur tout l'historique.

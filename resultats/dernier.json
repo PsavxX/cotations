@@ -1,6 +1,6 @@
 {
- "date": "2026-11-25",
- "genere_le": "2026-11-26T03:52:42+00:00",
+ "date": "2026-11-26",
+ "genere_le": "2026-11-27T03:53:41+00:00",
  "horizon": "5 a 10 seances",
  "valeurs_analysees": 787,
  "regles": {
@@ -17,17 +17,45 @@
   "Aucun contexte d'actualite valide (algo/macro.json absent ou perime) : classement purement technique."
  ],
  "distribution_surete": {
-  "9": 12,
+  "9": 11,
   "8": 40,
-  "7": 55,
-  "6": 71,
-  "5": 107,
-  "4": 147,
-  "3": 214,
-  "2": 129,
-  "1": 12
+  "7": 62,
+  "6": 86,
+  "5": 100,
+  "4": 152,
+  "3": 197,
+  "2": 131,
+  "1": 8
  },
  "hausse": [
+  {
+   "ticker": "RED.MC",
+   "nom": "Redeia Corporación, S.A.",
+   "secteur": "Utilities",
+   "place": "Europe",
+   "prix": 16.81,
+   "sens": "HAUSSE",
+   "surete": 9,
+   "score_final": 0.7518,
+   "score_tech": 0.7518,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 4.22,
+   "var20": 10.01,
+   "rsi": 77.1,
+   "r2": 0.856,
+   "vol_j": 1.12,
+   "signaux": {
+    "tendance_mm": 0.782,
+    "croisement_mm": 0.595,
+    "momentum": 0.753,
+    "rsi": 1.0,
+    "macd": 0.863,
+    "volume": 0.178,
+    "position_40s": 0.85,
+    "pente": 0.845
+   }
+  },
   {
    "ticker": "ORLY",
    "nom": "O'Reilly Automotive",
@@ -54,34 +82,6 @@
     "volume": 0.019,
     "position_40s": 0.85,
     "pente": 0.751
-   }
-  },
-  {
-   "ticker": "RED.MC",
-   "nom": "Redeia Corporación, S.A.",
-   "secteur": "Utilities",
-   "place": "Europe",
-   "prix": 16.79,
-   "sens": "HAUSSE",
-   "surete": 9,
-   "score_final": 0.6672,
-   "score_tech": 0.6672,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 4.16,
-   "var20": 11.56,
-   "rsi": 76.9,
-   "r2": 0.848,
-   "vol_j": 1.14,
-   "signaux": {
-    "tendance_mm": 0.823,
-    "croisement_mm": 0.324,
-    "momentum": 0.767,
-    "rsi": 0.91,
-    "macd": 0.632,
-    "volume": 0.023,
-    "position_40s": 0.85,
-    "pente": 0.818
    }
   },
   {
@@ -138,34 +138,6 @@
     "volume": 0.245,
     "position_40s": 0.85,
     "pente": 0.631
-   }
-  },
-  {
-   "ticker": "SAN.PA",
-   "nom": "Sanofi",
-   "secteur": "Health Care",
-   "place": "Paris",
-   "prix": 93.58,
-   "sens": "HAUSSE",
-   "surete": 8,
-   "score_final": 0.7017,
-   "score_tech": 0.7017,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": 8.11,
-   "var20": 24.52,
-   "rsi": 76.9,
-   "r2": 0.63,
-   "vol_j": 2.66,
-   "signaux": {
-    "tendance_mm": 0.975,
-    "croisement_mm": 0.23,
-    "momentum": 0.925,
-    "rsi": 0.949,
-    "macd": 0.209,
-    "volume": 0.424,
-    "position_40s": 0.85,
-    "pente": 0.954
    }
   },
   {
@@ -307,6 +279,34 @@
     "position_40s": 0.85,
     "pente": 0.97
    }
+  },
+  {
+   "ticker": "DIS",
+   "nom": "Walt Disney Company (The)",
+   "secteur": "Communication Services",
+   "place": "US",
+   "prix": 125.6,
+   "sens": "HAUSSE",
+   "surete": 8,
+   "score_final": 0.6379,
+   "score_tech": 0.6379,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": 2.65,
+   "var20": 15.19,
+   "rsi": 68.9,
+   "r2": 0.696,
+   "vol_j": 1.87,
+   "signaux": {
+    "tendance_mm": 0.86,
+    "croisement_mm": 0.093,
+    "momentum": 0.633,
+    "rsi": 0.704,
+    "macd": 0.612,
+    "volume": 0.473,
+    "position_40s": 0.85,
+    "pente": 0.841
+   }
   }
  ],
  "baisse": [
@@ -315,55 +315,27 @@
    "nom": "Glencore plc",
    "secteur": "Materials",
    "place": "Europe",
-   "prix": 441.25,
+   "prix": 432.25,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.844,
-   "score_tech": -0.844,
+   "score_final": -0.8762,
+   "score_tech": -0.8762,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -10.21,
-   "var20": -18.56,
-   "rsi": 26.5,
-   "r2": 0.723,
+   "var5": -6.32,
+   "var20": -20.18,
+   "rsi": 24.8,
+   "r2": 0.726,
    "vol_j": 2.42,
    "signaux": {
-    "tendance_mm": -0.976,
-    "croisement_mm": -0.854,
-    "momentum": -0.961,
-    "rsi": -0.608,
-    "macd": -0.993,
-    "volume": -0.182,
+    "tendance_mm": -0.982,
+    "croisement_mm": -0.955,
+    "momentum": -0.932,
+    "rsi": -0.741,
+    "macd": -0.992,
+    "volume": -0.285,
     "position_40s": -0.85,
-    "pente": -0.979
-   }
-  },
-  {
-   "ticker": "VOW3.DE",
-   "nom": "Volkswagen AG",
-   "secteur": "Consumer Discretionary",
-   "place": "Europe",
-   "prix": 62.36,
-   "sens": "BAISSE",
-   "surete": 9,
-   "score_final": -0.8157,
-   "score_tech": -0.8157,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -5.94,
-   "var20": -9.36,
-   "rsi": 31.7,
-   "r2": 0.748,
-   "vol_j": 1.88,
-   "signaux": {
-    "tendance_mm": -0.879,
-    "croisement_mm": -0.928,
-    "momentum": -0.831,
-    "rsi": -0.629,
-    "macd": -0.983,
-    "volume": -0.244,
-    "position_40s": -0.85,
-    "pente": -0.935
+    "pente": -0.985
    }
   },
   {
@@ -395,31 +367,31 @@
    }
   },
   {
-   "ticker": "NESTE.HE",
-   "nom": "Neste Oyj",
-   "secteur": "Energy",
+   "ticker": "MBG.DE",
+   "nom": "Mercedes-Benz Group AG",
+   "secteur": "Consumer Discretionary",
    "place": "Europe",
-   "prix": 23.75,
+   "prix": 37.54,
    "sens": "BAISSE",
    "surete": 9,
-   "score_final": -0.7657,
-   "score_tech": -0.7657,
+   "score_final": -0.7613,
+   "score_tech": -0.7613,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -12.07,
-   "var20": -20.83,
-   "rsi": 20.0,
-   "r2": 0.757,
-   "vol_j": 1.88,
+   "var5": -3.64,
+   "var20": -5.74,
+   "rsi": 32.0,
+   "r2": 0.663,
+   "vol_j": 1.78,
    "signaux": {
-    "tendance_mm": -0.986,
-    "croisement_mm": -0.299,
-    "momentum": -0.968,
-    "rsi": -0.621,
-    "macd": -0.995,
-    "volume": -0.003,
-    "position_40s": -0.85,
-    "pente": -0.978
+    "tendance_mm": -0.776,
+    "croisement_mm": -0.931,
+    "momentum": -0.704,
+    "rsi": -0.567,
+    "macd": -0.955,
+    "volume": -0.234,
+    "position_40s": -0.795,
+    "pente": -0.928
    }
   },
   {
@@ -451,34 +423,6 @@
    }
   },
   {
-   "ticker": "HEXA-B.ST",
-   "nom": "Hexagon AB (publ)",
-   "secteur": "Information Technology",
-   "place": "Europe",
-   "prix": 100.75,
-   "sens": "BAISSE",
-   "surete": 9,
-   "score_final": -0.6901,
-   "score_tech": -0.6901,
-   "biais_macro": 0.0,
-   "alignement": 0,
-   "var5": -3.45,
-   "var20": -8.12,
-   "rsi": 37.1,
-   "r2": 0.78,
-   "vol_j": 1.29,
-   "signaux": {
-    "tendance_mm": -0.73,
-    "croisement_mm": -0.816,
-    "momentum": -0.666,
-    "rsi": -0.464,
-    "macd": -0.968,
-    "volume": -0.167,
-    "position_40s": -0.527,
-    "pente": -0.862
-   }
-  },
-  {
    "ticker": "VEEV",
    "nom": "Veeva Systems",
    "secteur": "Health Care",
@@ -504,6 +448,34 @@
     "volume": -0.231,
     "position_40s": -0.596,
     "pente": -0.986
+   }
+  },
+  {
+   "ticker": "STLAM.MI",
+   "nom": "Stellantis N.V.",
+   "secteur": "Consumer Discretionary",
+   "place": "Europe",
+   "prix": 3.237,
+   "sens": "BAISSE",
+   "surete": 9,
+   "score_final": -0.638,
+   "score_tech": -0.638,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -1.39,
+   "var20": -24.38,
+   "rsi": 35.1,
+   "r2": 0.945,
+   "vol_j": 2.52,
+   "signaux": {
+    "tendance_mm": -0.767,
+    "croisement_mm": -1.0,
+    "momentum": -0.664,
+    "rsi": -0.24,
+    "macd": -0.499,
+    "volume": 0.03,
+    "position_40s": -0.685,
+    "pente": -1.0
    }
   },
   {
@@ -567,27 +539,55 @@
    "nom": "Vodafone Group Public Limited Company",
    "secteur": "Communication Services",
    "place": "Europe",
-   "prix": 102.9,
+   "prix": 101.9,
    "sens": "BAISSE",
    "surete": 8,
-   "score_final": -0.872,
-   "score_tech": -0.872,
+   "score_final": -0.8834,
+   "score_tech": -0.8834,
    "biais_macro": 0.0,
    "alignement": 0,
-   "var5": -11.47,
-   "var20": -13.44,
-   "rsi": 24.2,
-   "r2": 0.549,
+   "var5": -10.64,
+   "var20": -13.22,
+   "rsi": 23.2,
+   "r2": 0.637,
    "vol_j": 1.94,
    "signaux": {
-    "tendance_mm": -0.962,
-    "croisement_mm": -0.855,
-    "momentum": -0.937,
-    "rsi": -1.0,
+    "tendance_mm": -0.964,
+    "croisement_mm": -0.918,
+    "momentum": -0.945,
+    "rsi": -0.969,
+    "macd": -1.0,
+    "volume": -0.159,
+    "position_40s": -0.85,
+    "pente": -0.962
+   }
+  },
+  {
+   "ticker": "BAER.SW",
+   "nom": "Julius Bär Gruppe AG",
+   "secteur": "Financials",
+   "place": "Europe",
+   "prix": 62.48,
+   "sens": "BAISSE",
+   "surete": 8,
+   "score_final": -0.8564,
+   "score_tech": -0.8564,
+   "biais_macro": 0.0,
+   "alignement": 0,
+   "var5": -8.12,
+   "var20": -10.36,
+   "rsi": 31.0,
+   "r2": 0.483,
+   "vol_j": 2.11,
+   "signaux": {
+    "tendance_mm": -0.911,
+    "croisement_mm": -0.896,
+    "momentum": -0.908,
+    "rsi": -0.628,
     "macd": -0.999,
-    "volume": -0.161,
-    "position_40s": -0.847,
-    "pente": -0.92
+    "volume": -0.667,
+    "position_40s": -0.703,
+    "pente": -0.925
    }
   }
  ],
@@ -669,12 +669,120 @@
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
+   "ticker": "CPG.L",
+   "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
+  },
+  {
    "ticker": "CMG",
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
   },
   {
    "ticker": "YUM",
    "motif": "plafond de 3 valeurs « Consumer Discretionary » atteint"
+  },
+  {
+   "ticker": "C",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "JPM",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "GS",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "MS",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "KBC.BR",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "BARC.L",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "UBSG.SW",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "KEY",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "HBAN",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "STAN.L",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "COIN",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "HOOD",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "INGA.AS",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "ABN.AS",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "ISP.MI",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "HSBA.L",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "INVE-B.ST",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "STT",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "WFC",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "CFG",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "PFG",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "FITB",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "PNC",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "AXP",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "RF",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
+  },
+  {
+   "ticker": "MTB",
+   "motif": "plafond de 3 valeurs « Financials » atteint"
   }
  ]
 }
