@@ -1,4 +1,4 @@
-# Scan du 2026-11-26
+# Scan du 2026-11-27
 
 **787 valeurs analysees** · horizon 5 a 10 seances · seuil de publication 6/10 · au plus 3 valeurs par secteur et par cote
 
@@ -8,41 +8,41 @@
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **RED.MC** | Redeia Corporación, S.A. | Utilities | 16,81 | **9/10** | +0,752 | +4,22 % | +10,01 % | 77 | 0,86 | 1,12 % |
-| 2 | **ORLY** | O'Reilly Automotive | Consumer Discretionary | 96,69 | **9/10** | +0,712 | +3,56 % | +6,91 % | 71 | 0,75 | 1,38 % |
-| 3 | **DPZ** | Domino's | Consumer Discretionary | 361,53 | **9/10** | +0,640 | +2,26 % | +16,83 % | 73 | 0,82 | 1,65 % |
-| 4 | **KHC** | Kraft Heinz | Consumer Staples | 26,51 | **8/10** | +0,725 | +4,21 % | +11,11 % | 67 | 0,43 | 1,84 % |
-| 5 | **PCG** | PG&E Corporation | Utilities | 14,26 | **8/10** | +0,696 | +4,01 % | +8,44 % | 66 | 0,63 | 1,37 % |
-| 6 | **CHRW** | C.H. Robinson | Industrials | 144,82 | **8/10** | +0,693 | +5,35 % | +13,50 % | 61 | 0,71 | 2,31 % |
-| 7 | **WTW** | Willis Towers Watson | Financials | 352,56 | **8/10** | +0,685 | +6,01 % | +9,62 % | 70 | 0,48 | 1,50 % |
-| 8 | **TGT** | Target Corporation | Consumer Staples | 172,22 | **8/10** | +0,676 | +3,79 % | +16,43 % | 64 | 0,77 | 2,55 % |
-| 9 | **TSCO** | Tractor Supply | Consumer Discretionary | 40,37 | **8/10** | +0,657 | +4,14 % | +28,52 % | 72 | 0,84 | 2,43 % |
-| 10 | **DIS** | Walt Disney Company (The) | Communication Services | 125,60 | **8/10** | +0,638 | +2,65 % | +15,19 % | 69 | 0,70 | 1,87 % |
+| 1 | **RED.MC** | Redeia Corporación, S.A. | Utilities | 16,92 | **9/10** | +0,753 | +6,28 % | +10,44 % | 78 | 0,86 | 1,12 % |
+| 2 | **DIS** | Walt Disney Company (The) | Communication Services | 127,24 | **9/10** | +0,721 | +5,81 % | +14,72 % | 71 | 0,69 | 1,87 % |
+| 3 | **TSCO** | Tractor Supply | Consumer Discretionary | 40,01 | **9/10** | +0,641 | +3,93 % | +19,65 % | 69 | 0,84 | 2,14 % |
+| 4 | **WTW** | Willis Towers Watson | Financials | 359,85 | **8/10** | +0,795 | +8,63 % | +12,20 % | 74 | 0,49 | 1,53 % |
+| 5 | **CHRW** | C.H. Robinson | Industrials | 146,98 | **8/10** | +0,740 | +6,55 % | +15,34 % | 64 | 0,73 | 2,31 % |
+| 6 | **PCG** | PG&E Corporation | Utilities | 14,43 | **8/10** | +0,734 | +3,52 % | +9,07 % | 69 | 0,70 | 1,38 % |
+| 7 | **LSEG.L** | London Stock Exchange Group plc | Financials | 10315,00 | **8/10** | +0,707 | +7,78 % | +9,22 % | 72 | 0,43 | 1,70 % |
+| 8 | **ORLY** | O'Reilly Automotive | Consumer Discretionary | 96,28 | **8/10** | +0,682 | +3,96 % | +9,32 % | 69 | 0,75 | 1,21 % |
+| 9 | **MGM** | MGM Resorts | Consumer Discretionary | 35,29 | **8/10** | +0,673 | +5,63 % | +22,41 % | 67 | 0,71 | 2,03 % |
+| 10 | **TGT** | Target Corporation | Consumer Staples | 171,97 | **8/10** | +0,624 | +2,69 % | +14,07 % | 63 | 0,77 | 2,54 % |
 
 ## Orientees a la baisse (10)
 
 | # | Valeur | Nom | Secteur | Cours | Surete | Score | 5 s. | 20 s. | RSI | R² | Ampl./j |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **GLEN.L** | Glencore plc | Materials | 432,25 | **9/10** | -0,876 | -6,32 % | -20,18 % | 25 | 0,73 | 2,42 % |
-| 2 | **MNST** | Monster Beverage | Consumer Staples | 42,60 | **9/10** | -0,772 | -5,14 % | -6,70 % | 37 | 0,79 | 1,99 % |
-| 3 | **MBG.DE** | Mercedes-Benz Group AG | Consumer Discretionary | 37,54 | **9/10** | -0,761 | -3,64 % | -5,74 % | 32 | 0,66 | 1,78 % |
-| 4 | **PM** | Philip Morris International | Consumer Staples | 184,32 | **9/10** | -0,754 | -4,36 % | -9,04 % | 35 | 0,87 | 1,74 % |
-| 5 | **VEEV** | Veeva Systems | Health Care | 271,90 | **9/10** | -0,652 | -1,91 % | -14,45 % | 35 | 0,77 | 1,96 % |
-| 6 | **STLAM.MI** | Stellantis N.V. | Consumer Discretionary | 3,24 | **9/10** | -0,638 | -1,39 % | -24,38 % | 35 | 0,94 | 2,52 % |
-| 7 | **COF** | Capital One | Financials | 182,52 | **9/10** | -0,606 | -0,97 % | -10,55 % | 34 | 0,93 | 1,49 % |
-| 8 | **SYF** | Synchrony Financial | Financials | 68,73 | **9/10** | -0,581 | -2,04 % | -8,38 % | 36 | 0,94 | 1,29 % |
-| 9 | **VOD.L** | Vodafone Group Public Limited Co | Communication Services | 101,90 | **8/10** | -0,883 | -10,64 % | -13,22 % | 23 | 0,64 | 1,94 % |
-| 10 | **BAER.SW** | Julius Bär Gruppe AG | Financials | 62,48 | **8/10** | -0,856 | -8,12 % | -10,36 % | 31 | 0,48 | 2,11 % |
+| 1 | **VOD.L** | Vodafone Group Public Limited Co | Communication Services | 103,05 | **9/10** | -0,880 | -5,85 % | -11,72 % | 27 | 0,72 | 1,98 % |
+| 2 | **NESTE.HE** | Neste Oyj | Energy | 24,00 | **9/10** | -0,822 | -8,47 % | -15,40 % | 27 | 0,78 | 2,10 % |
+| 3 | **DSY.PA** | Dassault Systèmes SE | Information Technology | 22,30 | **9/10** | -0,739 | -3,42 % | -11,05 % | 37 | 0,70 | 2,10 % |
+| 4 | **MNST** | Monster Beverage | Consumer Staples | 42,59 | **9/10** | -0,731 | -3,07 % | -8,11 % | 37 | 0,86 | 1,94 % |
+| 5 | **PUM.DE** | PUMA SE | Consumer Discretionary | 23,49 | **9/10** | -0,702 | -5,09 % | -6,82 % | 38 | 0,80 | 2,40 % |
+| 6 | **BAER.SW** | Julius Bär Gruppe AG | Financials | 62,48 | **8/10** | -0,856 | -8,12 % | -10,36 % | 31 | 0,48 | 2,11 % |
+| 7 | **VWS.CO** | Vestas Wind Systems A/S | Industrials | 168,00 | **8/10** | -0,810 | -7,62 % | -12,64 % | 34 | 0,66 | 2,85 % |
+| 8 | **GLEN.L** | Glencore plc | Materials | 446,75 | **8/10** | -0,748 | -3,49 % | -16,31 % | 32 | 0,73 | 2,61 % |
+| 9 | **SAND.ST** | Sandvik AB (publ) | Industrials | 326,50 | **8/10** | -0,682 | -3,00 % | -10,33 % | 39 | 0,67 | 2,46 % |
+| 10 | **SKF-B.ST** | AB SKF (publ) | Industrials | 260,00 | **8/10** | -0,666 | -5,35 % | -7,04 % | 41 | 0,48 | 2,04 % |
 
 ## Repartition des notes
 
 | Surete | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 |
 |---|---|---|---|---|---|---|---|---|---|
-| Valeurs | 11 | 40 | 62 | 86 | 100 | 152 | 197 | 131 | 8 |
+| Valeurs | 8 | 29 | 48 | 82 | 80 | 144 | 210 | 170 | 16 |
 
 ## Ecartees par le plafond sectoriel
 
-MGM (plafond de 3 valeurs « Consumer Discretionary » atteint), AZO (plafond de 3 valeurs « Consumer Discretionary » atteint), DRI (plafond de 3 valeurs « Consumer Discretionary » atteint), CPG.L (plafond de 3 valeurs « Consumer Discretionary » atteint), CMG (plafond de 3 valeurs « Consumer Discretionary » atteint), YUM (plafond de 3 valeurs « Consumer Discretionary » atteint), C (plafond de 3 valeurs « Financials » atteint), JPM (plafond de 3 valeurs « Financials » atteint), GS (plafond de 3 valeurs « Financials » atteint), MS (plafond de 3 valeurs « Financials » atteint), KBC.BR (plafond de 3 valeurs « Financials » atteint), BARC.L (plafond de 3 valeurs « Financials » atteint), UBSG.SW (plafond de 3 valeurs « Financials » atteint), KEY (plafond de 3 valeurs « Financials » atteint), HBAN (plafond de 3 valeurs « Financials » atteint), STAN.L (plafond de 3 valeurs « Financials » atteint), COIN (plafond de 3 valeurs « Financials » atteint), HOOD (plafond de 3 valeurs « Financials » atteint), INGA.AS (plafond de 3 valeurs « Financials » atteint), ABN.AS (plafond de 3 valeurs « Financials » atteint), ISP.MI (plafond de 3 valeurs « Financials » atteint), HSBA.L (plafond de 3 valeurs « Financials » atteint), INVE-B.ST (plafond de 3 valeurs « Financials » atteint), STT (plafond de 3 valeurs « Financials » atteint), WFC (plafond de 3 valeurs « Financials » atteint), CFG (plafond de 3 valeurs « Financials » atteint), PFG (plafond de 3 valeurs « Financials » atteint), FITB (plafond de 3 valeurs « Financials » atteint), PNC (plafond de 3 valeurs « Financials » atteint), AXP (plafond de 3 valeurs « Financials » atteint), RF (plafond de 3 valeurs « Financials » atteint), MTB (plafond de 3 valeurs « Financials » atteint)
+DRI (plafond de 3 valeurs « Consumer Discretionary » atteint), DPZ (plafond de 3 valeurs « Consumer Discretionary » atteint), CPG.L (plafond de 3 valeurs « Consumer Discretionary » atteint), AZO (plafond de 3 valeurs « Consumer Discretionary » atteint), CMG (plafond de 3 valeurs « Consumer Discretionary » atteint), WYNN (plafond de 3 valeurs « Consumer Discretionary » atteint), YUM (plafond de 3 valeurs « Consumer Discretionary » atteint), MAERSK-B.CO (plafond de 3 valeurs « Industrials » atteint), ACS.MC (plafond de 3 valeurs « Industrials » atteint), SIE.DE (plafond de 3 valeurs « Industrials » atteint), ABBN.SW (plafond de 3 valeurs « Industrials » atteint), ANA.MC (plafond de 3 valeurs « Industrials » atteint), LR.PA (plafond de 3 valeurs « Industrials » atteint), SU.PA (plafond de 3 valeurs « Industrials » atteint), EPI-A.ST (plafond de 3 valeurs « Industrials » atteint), DHL.DE (plafond de 3 valeurs « Industrials » atteint), SMIN.L (plafond de 3 valeurs « Industrials » atteint), TXT (plafond de 3 valeurs « Industrials » atteint)
 
 ## Non analysees (16)
 

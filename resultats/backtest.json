@@ -1,135 +1,135 @@
 {
  "periode": [
   "2015-02-26",
-  "2026-11-26"
+  "2026-11-27"
  ],
  "valeurs": 788,
- "observations": 2262676,
+ "observations": 2263444,
  "par_horizon": {
   "1": {
-   "n": 2261888,
-   "corr": -0.0179,
-   "corr_relatif": -0.0096,
-   "derive": 0.062
+   "n": 2262656,
+   "corr": -0.0181,
+   "corr_relatif": -0.0097,
+   "derive": 0.063
   },
   "3": {
-   "n": 2260312,
-   "corr": -0.0226,
+   "n": 2261080,
+   "corr": -0.0227,
    "corr_relatif": -0.0116,
-   "derive": 0.183
+   "derive": 0.184
   },
   "5": {
-   "n": 2258736,
-   "corr": -0.0256,
+   "n": 2259504,
+   "corr": -0.0257,
    "corr_relatif": -0.0121,
-   "derive": 0.302
+   "derive": 0.303
   },
   "10": {
-   "n": 2254796,
+   "n": 2255564,
    "corr": -0.0282,
-   "corr_relatif": -0.0114,
-   "derive": 0.603
+   "corr_relatif": -0.0113,
+   "derive": 0.602
   }
  },
  "par_surete": {
   "5": {
    "Surete 8-10 hausse": {
-    "n": 250206,
+    "n": 250220,
     "sens_correct": 53.5,
     "pari": 0.165,
     "pari_relatif": -0.073
    },
    "Surete 8-10 baisse": {
-    "n": 146357,
+    "n": 146391,
     "sens_correct": 43.1,
-    "pari": -0.401,
+    "pari": -0.402,
     "pari_relatif": -0.007
    },
    "Surete 6-7 hausse": {
-    "n": 316717,
+    "n": 316750,
     "sens_correct": 53.6,
     "pari": 0.194,
     "pari_relatif": -0.047
    },
    "Surete 6-7 baisse": {
-    "n": 216312,
+    "n": 216397,
     "sens_correct": 44.6,
-    "pari": -0.312,
+    "pari": -0.313,
     "pari_relatif": 0.005
    },
    "Surete 4-5 hausse": {
-    "n": 363330,
+    "n": 363426,
     "sens_correct": 53.4,
-    "pari": 0.228,
+    "pari": 0.229,
     "pari_relatif": -0.029
    },
    "Surete 4-5 baisse": {
-    "n": 318596,
+    "n": 318845,
     "sens_correct": 45.4,
-    "pari": -0.347,
+    "pari": -0.349,
     "pari_relatif": -0.023
    },
    "Surete 1-3 hausse": {
-    "n": 328949,
+    "n": 329011,
     "sens_correct": 53.1,
     "pari": 0.304,
     "pari_relatif": -0.022
    },
    "Surete 1-3 baisse": {
-    "n": 318269,
+    "n": 318464,
     "sens_correct": 45.4,
-    "pari": -0.503,
-    "pari_relatif": -0.137
+    "pari": -0.504,
+    "pari_relatif": -0.136
    }
   },
   "10": {
    "Surete 8-10 hausse": {
-    "n": 249686,
+    "n": 249816,
     "sens_correct": 54.9,
-    "pari": 0.383,
-    "pari_relatif": -0.106
+    "pari": 0.382,
+    "pari_relatif": -0.105
    },
    "Surete 8-10 baisse": {
-    "n": 146288,
+    "n": 146297,
     "sens_correct": 42.2,
-    "pari": -0.756,
+    "pari": -0.755,
     "pari_relatif": 0.011
    },
    "Surete 6-7 hausse": {
-    "n": 316038,
+    "n": 316199,
     "sens_correct": 54.8,
-    "pari": 0.407,
-    "pari_relatif": -0.094
+    "pari": 0.406,
+    "pari_relatif": -0.093
    },
    "Surete 6-7 baisse": {
-    "n": 216129,
+    "n": 216155,
     "sens_correct": 43.3,
-    "pari": -0.618,
-    "pari_relatif": 0.001
+    "pari": -0.617,
+    "pari_relatif": 0.002
    },
    "Surete 4-5 hausse": {
-    "n": 362647,
+    "n": 362788,
     "sens_correct": 54.5,
-    "pari": 0.447,
+    "pari": 0.446,
     "pari_relatif": -0.058
    },
    "Surete 4-5 baisse": {
-    "n": 318072,
+    "n": 318126,
     "sens_correct": 44.3,
     "pari": -0.665,
     "pari_relatif": -0.025
    },
    "Surete 1-3 hausse": {
-    "n": 328389,
+    "n": 328526,
     "sens_correct": 54.5,
-    "pari": 0.681,
+    "pari": 0.68,
     "pari_relatif": 0.033
    },
    "Surete 1-3 baisse": {
-    "n": 317547,
+    "n": 317657,
     "sens_correct": 44.3,
-    "pari": -0.925,
-    "pari_relatif": -0.19
+    "pari": -0.924,
+    "pari_relatif": -0.189
    }
   }
  },
@@ -455,15 +455,15 @@
  },
  "h1": {
   "rsi_sup_70": {
-   "n": 148694,
+   "n": 148699,
    "sens_correct": 52.0,
    "pari": 0.064,
    "pari_relatif": -0.063
   },
   "rsi_inf_70": {
-   "n": 418229,
+   "n": 418271,
    "sens_correct": 54.1,
-   "pari": 0.222,
+   "pari": 0.223,
    "pari_relatif": -0.057
   }
  }

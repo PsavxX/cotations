@@ -6,10 +6,10 @@ Chaque valeur publiee est comparee au cours observe 5 et 10 seances plus tard. Â
 
 | Perimetre | Paris evalues | Sens correct | Rendement moyen du pari |
 |---|---|---|---|
-| Tous | 101 | 43,6 % | +0,24 % |
-| Paris a la hausse | 51 | 19,6 % | -2,03 % |
-| Paris a la baisse | 50 | 68,0 % | +2,55 % |
-| Surete 8-10 | 99 | 42,4 % | -0,09 % |
+| Tous | 120 | 43,3 % | +0,03 % |
+| Paris a la hausse | 60 | 30,0 % | -1,40 % |
+| Paris a la baisse | 60 | 56,7 % | +1,45 % |
+| Surete 8-10 | 118 | 42,4 % | -0,25 % |
 | Surete 6-7 | 2 | 100,0 % | +16,15 % |
 
 ## A 10 seances
